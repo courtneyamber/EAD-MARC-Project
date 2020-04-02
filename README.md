@@ -1,2 +1,2 @@
 # EAD-MARC-Project
-A project converting EAD records to MARC records.
+A project converting the Illinois History and Lincoln Collections' EAD records into MARC records.
