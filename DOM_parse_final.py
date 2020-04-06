@@ -30,10 +30,11 @@ for i in list_of_ids:
     unittitle = dom.getElementsByTagName("unittitle")
     list_titles.append(unittitle)
 
+#create the file if it doesn't exist, append if it does
 try:
     file = open(r"ead_titles.txt","x")
 except:
-    file = open(r"ead_titles.txt","a") #ead_titles.txt needs to exist first, this line simply appends the text to the file#
+    file = open(r"ead_titles.txt","a")
 
 for item in list_titles:
     sent = item[0].firstChild.data
