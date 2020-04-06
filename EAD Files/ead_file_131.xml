@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:131">130</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Milner, Duncan Chambers (1841-1928). Papers</titleproper>
+               <titleproper type="filing">Milner: Duncan Chambers Milner Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Milner, Duncan Chambers (1841-1928). Papers
+                              <date normal="1780/1958" encodinganalog="260$c">1780/1958</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Milner, Duncan Chambers (1841-1928). Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1780/1958">circa 1780 and 1850-1959</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1861-1959</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">130</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Milner, Duncan C. (Duncan Chambers)" source="lcnaf" role="Collector">Milner, Duncan C. (Duncan Chambers), 1841-1928</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.90</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/milner.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kansas</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Missouri</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Christianity</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Presbyterian</subject>
+                                       <subject encodinganalog="650" source="lcsh">Temperance</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Duncan Chambers Milner (1841-1928) was a leading Presbyterian minister and reformer of the late nineteenth and early twentieth centuries. In 1862, he left school to join the 98th Ohio Vol. Inf., rising eventually to the rank of First Lieutenant. He fought at Perryville (Oct. 8, 1862) and Chickamauga (Sept. 19-20, 1863). Wounded at Chickamauga, he left the army to serve with the U.S. Christian Commission. After the war, he graduated from Washington and Jefferson College and Union Theological Seminary. In 1868, he went to Missouri as a missionary. From 1875 through 1892, he served in Kansas, where he was active in the temperance movement which culminated in the state&#039;s prohibition law.</p>
+                                 <p>In 1893, Milner moved to Chicago to become Superintendent of the Armour Sunday School and Mission. From 1899 until his death in 1928, he participated in Civil War veterans groups, crusaded for civil rights for African-Americans, and fought the Ku Klux Klan in print. He also wrote <emph render="italic">Lincoln and Liquor</emph> (1920).</p>
+                                 <p>The collection includes Milner&#039;s Civil War letters and diary as well as miscellaneous and family correspondence, writings, speeches, topical files, photographs, artifacts, and ephemera. The topical files include materials on temperance, schooling and education, and various churches as well as numerous other subjects. Among the many items of interest are materials relating to Chicago&#039;s Provident Hospital and Training School, which educated African-Americans. Series II of the collection consists of some 55 letters, formerly framed or in a scrapbook, from prominent contemporaries. Many are addressed to Milner and relate to Lincoln and temperance.</p>
+                                 <p>The collection was donated to the Library by Rev. Milner&#039;s grandson, Reid T. Milner of Urbana, Ill., in 1980-1983 (Series I) and by his great-grandnephew, David J. Milner of Taylors, S.C., in 1990 (Series II).</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

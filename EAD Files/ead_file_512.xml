@@ -1,0 +1,120 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:512">517</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Chamberlain, Samuel E. (1829-1908). Manuscript</titleproper>
+               <titleproper type="filing">Chamberlain: Samuel E. Chamberlain Manuscript</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Chamberlain, Samuel E. (1829-1908). Manuscript
+                              <date normal="1846" encodinganalog="260$c">1846</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Chamberlain, Samuel E. (1829-1908). Manuscript                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1846">1846</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">517</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Chamberlain, Samuel E." source="lcnaf" role="Collector">Chamberlain, Samuel E., 1829-1908</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Mexico--Monterrey</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Texas--San Antonio</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Mexican War, 1846-1848</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Sam Chamberlain, a volunteer attached to Gen. John E. Wool&#039;s army in the U.S.-Mexican War, wrote and illustrated a diary of his adventures, later published as <emph render="italic">My Confession: The Recollections of a Rogue </emph>(1956). This manuscript, the &quot;Storming of Monterey,&quot; first appeared as an appendix in William H. Goetzmann&#039;s edition of <emph render="italic">My Confession</emph> (1996).</p>
+                                 <p>The manuscript, 20 pages long, is a clean copy of an earlier draft, with the narrative breaking off on Sept. 21-22, 1846, just before the Mexicans in Monterrey capitulated to the American army. At the top of the first page is Chamberlain&#039;s watercolor vignette of Monterrey as seen by the approaching American army. However, while Chamberlain&#039;s manuscript and painting are detailed and convincing, Chamberlain, who was only 16 at the time, was reportedly in San Antonio with the 1st U.S. Dragoons during the battle, and not fighting with the Texas Rangers at Monterrey, as he claims.</p>
+                                 <p>The Survey received the manuscript in 1996 from the estate of Elise B. Morton through the assistance of John D. Valentine, of Lewis, Rice and Fingersh, attorneys at law, St. Louis.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

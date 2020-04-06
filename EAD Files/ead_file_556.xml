@@ -1,0 +1,121 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:556">565</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Crawford, George T., Papers</titleproper>
+               <titleproper type="filing">Crawford: George T. Crawford Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Crawford, George T., Papers
+                              <date normal="1837" encodinganalog="260$c">1837</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Crawford, George T., Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1837">1837</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">565</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Crawford, George T" source="lcnaf" role="Collector">Crawford, George T</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">12.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 folder</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Pennsylvania</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>George T. Crawford represented Westmoreland County at the Pennsylvania Constitutional Convention of 1837. The collection includes excerpts from Crawford&#039;s speech proposing (unsuccessfully) that a governor&#039;s veto be overridden by a three-fifths rather than a two-thirds vote of the legislature.</p>
+                                 <p>The collection also includes letters written to Crawford and drafts of his outgoing letters. Most letters concern the convention proceedings, notably the Panic of 1837 and its influence on government banking policy, but Crawford also mentions personal matters such as the health of his wife. Other letters center around his business affairs, the sale of land, and the difficulty in drawing funds because of the financial panic. One correspondent, Sam Cochran, was Crawford&#039;s father-in-law. Lindley Coates, who is mentioned in one of Crawford&#039;s letters, was a convention delegate from Lancaster County, Pa.</p>
+                                 <p>After Crawford&#039;s death, his widow married John Marshall. One of their descendants, Harvey D. Safford of Galesburg, Ill., donated the collection to the Illinois Historical Survey in 1983.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

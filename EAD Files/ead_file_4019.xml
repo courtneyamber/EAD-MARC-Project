@@ -1,0 +1,118 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4019">895</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the USS<emph render="italic"> Abraham Lincoln</emph> (CVN 72), Commissioning and Reunion Memorabilia</titleproper>
+               <titleproper type="filing">USS</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the USS<emph render="italic"> Abraham Lincoln</emph> (CVN 72), Commissioning and Reunion Memorabilia
+                              <date normal="1989/1999" encodinganalog="260$c">1989/1999</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">USS<emph render="italic"> Abraham Lincoln</emph> (CVN 72), Commissioning and Reunion Memorabilia                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1989/1999">1989-1999</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">895</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="USS Abraham Lincoln" source="local" role="Collector">USS Abraham Lincoln</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folders">2.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 box artifacts</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">United States. Navy</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The USS<emph render="italic"> Abraham Lincoln</emph>, the U.S. Navy&#039;s fifth Nimitz-class nuclear-powered aircraft carrier, was launched in 1988. This collection contains memorabilia from the commissioning in 1989 and the reunion in 1999. Included are programs, photographs, patches, a number of pins and mementoes, and a &quot;plank owner&quot; plaque presented to Kyle Robeson of Champaign, Ill. Robeson gave the collection to the Naval ROTC of the University of Illinois which transferred it to the Library in 2015.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

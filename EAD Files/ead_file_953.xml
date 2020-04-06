@@ -1,0 +1,120 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:953">976</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Jervis, Kate. Letter</titleproper>
+               <titleproper type="filing">Jervis, Kate. Letter</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Jervis, Kate. Letter
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Jervis, Kate. Letter                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1891</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">976</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Jervis, Kate" source="local" role="Collector">Jervis, Kate, 1891</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Nebraska</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural conditions</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Joseph Jervis (1835-1911) migrated from Staffordshire, England, to the United States in 1862, and married Catherine (Kate) Sheargold (b.1847), also from Staffordshire, in 1868. They settled in Condit Township, just north of Champaign, Ill. In this letter of Oct. 19, 1891, Kate writes to Thomas Jervis (1870-1948), the second of their nine children.</p>
+                                 <p>She advises Tom, who was laid off from a job in a grocery store in Lincoln, Nebraska, to &quot;shun all bad company&quot; and be a &quot;good boy.&quot; Rather than looking for work in the East, he should return home, mend relations with his father, and arrange to rent part of his land. The letter also refers to corn-husking, an addition to the family homestead, and the hemp factory that burned down in nearby Thomasboro.</p>
+                                 <p>Dolores Fortune of Santa Barbara, Calif. donated the letter to the Nebraska State Historical Society which in turn gave it to the University of Illinois in 2012.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

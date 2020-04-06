@@ -1,0 +1,108 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7113">941</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Thornton, Grant and Emma. Photographs and Publications</titleproper>
+               <titleproper type="filing">Thornton, Grant and Emma. Photographs and Publications. 1905-1924.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Thornton, Grant and Emma. Photographs and Publications
+                              <date normal="1905/1924" encodinganalog="260$c">1905/1924</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Thornton, Grant and Emma. Photographs and Publications                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1905/1924">1905-1924</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">941</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Thornton, Grant" source="local" role="Collector">Thornton, Grant</persname>
+                                 <persname encodinganalog="100" normal="Thornton, Emma" source="local" role="Collector">Thornton, Emma</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/thornton.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains photographs documenting Grant and Emma Thornton&#039;s lives and time at the Chicago Parental School and St. Charles School for Boys, now the Illinois Youth Center, as well as a few publications regarding the two institutions.</p>
+                                 <p>The Chicago Parental School (1902-1975) and St. Charles School for Boys (1904-Present) were reform institutions with the goal of providing social support and education to delinquent children. The boys were housed in cottages with couples acting as mothers and fathers in each cottage to simulate family life.</p>
+                                 <p>The collection includes postcard-style prints of photographs dating from 1912-1918. The photographs mostly depict the boys at the two institutions, but also included are photographs of the Thornton, Grant and Emma family. There are also annual report publications for the Chicago Parental School and one issue of St. Charles School for Boys&#039; publication <emph render="italic">The Boy Agriculturist</emph>. There is also a strip of Sperry and Hutchinson Co. Green Stamps expiring January 1, 1919.</p>
+                                 <p>This collection was gifted to the Illinois Historical Survey, predecessor to the Illinois History and Lincoln Collections, by John Jakle of the Geology Department prior to 1975 and was previously housed in the Graphics Collection.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

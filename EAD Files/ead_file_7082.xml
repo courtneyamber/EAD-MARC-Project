@@ -1,0 +1,125 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7082">914</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Baselt, Fonda D. and Josephine F. Moeller. Champaign County, Ill., Cemetery Research Collection</titleproper>
+               <titleproper type="filing">Baselt, Fonda D. and Josephine F. Moeller. Champaign County, Ill., Cemetery Research Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Baselt, Fonda D. and Josephine F. Moeller. Champaign County, Ill., Cemetery Research Collection
+                              <date normal="1937/1984" encodinganalog="260$c">1937/1984</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Baselt, Fonda D. and Josephine F. Moeller. Champaign County, Ill., Cemetery Research Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1937/1984">1937-1984</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">914</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Baselt, Fonda D." source="local" role="Collector">Baselt, Fonda D.</persname>
+                                 <persname encodinganalog="100" normal="Moeller, Josephine F." source="local" role="Collector">Moeller, Josephine F.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/baselt-moeller_cemeteries.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Cemeteries</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of research materials compiled by Fonda D. Baselt and Josephine F. Moeller related to cemeteries in Champaign County. Materials include copies of maps, articles, notes, and photographs.</p>
+                                 <p>In the early 1980s, Fonda D. Baselt and Josephine F. Moeller made copies of the maps created by Godfrey Sperling during the 1930s. They included these copies, along with other sources, in an updated version of Sperling&#039;s survey titled <emph render="italic">Cemeteries of Champaign County, Illinois: A Location Guide with Plat Maps </emph>(1984). The book includes updated condition summaries, photographs of cemeteries, township histories, and plat maps of cemeteries and townships.</p>
+                                 <p>The collection contains copies of maps, articles, historic descriptions, and photographs of cemeteries arranged by township, which were included in the updated publication. Their notes for this book are also included in the collection.</p>
+                                 <p>Fonda D. Baselt and Josephine F. Moeller donated the materials to the Library in 1987.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

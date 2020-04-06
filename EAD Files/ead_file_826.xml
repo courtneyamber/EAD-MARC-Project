@@ -1,0 +1,150 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:826">830</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Baker-Busey-Dunlap Family. Papers</titleproper>
+               <titleproper type="filing">Baker-Busey-Dunlap Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Baker-Busey-Dunlap Family. Papers
+                              <date normal="1866/1933" encodinganalog="260$c">1866/1933</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Baker-Busey-Dunlap Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1866/1933">1866-1933</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">830</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Baker-Busey-Dunlap Family" source="lcnaf" role="Collector">Baker-Busey-Dunlap Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">4.54</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/baker-busey-dunlap.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Essex Institute</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Hampton Institute</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Union County--Cobden (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Washington--Marette</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Wisconsin--Ripon</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Clapp, Hannah Keziah, 1824-1908</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Suffrage</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                       <subject encodinganalog="650" source="lcsh">Women--Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Women--Teachers</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of personal papers from the Baker-Busey-Dunlap family. The materials relate primarily to Kate Baker Busey (1855-1934), but materials from George W. Busey (1861-1944), Mary Elizabeth &quot;Lizzie&quot; Baker (1836-1913), Ellen &quot;Nellie&quot; Dunlap (1840-1891), and Hiram J. Dunlap (1841-1919) are also included. The collection contains personal family items, including correspondence, newspaper clippings, scrapbooks, photographs, and other materials.</p>
+                                 <p>Kate Baker was born in 1855 in Ripon, Wisconsin, the daughter of Elmina Clapp and Garrett H. Baker. A native of New York, Garrett H. Baker had spent time in Michigan before moving to Wisconsin, joining the Fourierite Ceresco Phalanx in July 1848. In 1854, Baker served as the chairman of the famous schoolhouse meeting in Ripon that helped pave the way for the emergence of the Republican Party.</p>
+                                 <p>Following the death of Elmina Clapp Baker in 1858, Garrett H. Baker remarried and moved with his family to Cobden in southern Illinois, where he became a fruit grower. Kate Baker attended normal school in St. Louis and then taught for a number of years in Savoy, Ill. In 1885-86, she was an instructor in drawing and wood carving at the Hampton Institute, in Hampton, Virginia, a school dedicated to the education of African-Americans and Native Americans.</p>
+                                 <p>Between 1887 and 1889, Kate Baker worked as a teacher and clerk on the Colorado River Agency, an Indian reservation located in northwestern Arizona. She met George W. Busey, an Indian agent and the son of a prominent Urbana, Ill., citizen, on the reservation and they were married on May 14, 1890, at Cobden. The couple made their home in Urbana, Ill., where George W. entered into his family&#039;s banking business.</p>
+                                 <p>Kate Baker Busey took an active interest in community affairs: she organized the Champaign-Urbana Alliance Chapter of the Daughters of the American Revolution, helped establish the local Parent-Teacher Association, and was a charter member of the Fortnightly and Champaign-Urbana Women&#039;s clubs. She was also an active supporter of the women&#039;s suffrage movement and a member of the Baha&#039;i faith.</p>
+                                 <p>The Kate Baker Busey Papers provide particularly good coverage of her family life, with extensive correspondence from her husband (especially for the period of their courtship in the late-1880s); her sisters, Mary Elizabeth &quot;Lizzie&quot; Baker, Hannah Cordelia &quot;Delia&quot; Burnside, and Ellen &quot;Nellie&quot; Dunlap; her brother, Frank Baker; and her brother-in-law, Hiram Dunlap.</p>
+                                 <p>There is also significant correspondence from Kate Baker Busey&#039;s aunt, Hannah Keziah Clapp (1824-1908), who organized the first private school in Nevada and who was the first instructor and librarian at the University of Nevada. (The letters of Sarah Jane Croswell also offer insight into the last years of Hannah Clapp.)</p>
+                                 <p>The Kate Baker Busey Papers shed light on her experiences at the Hampton Institute and the Colorado River Agency, and chronicle her social activities, especially her participation in such organizations as the Daughters of the American Revolution and the Illinois Congress of Mothers. The collection also documents the intense interest in spiritualism of Kate Baker Busey and many of her relatives, including her father, her sister Delia, and her aunt Hannah Clapp.</p>
+                                 <p>The George W. Busey Papers contain a small amount of incoming correspondence from relatives, friends, politicians, and others. Included are letters from E. P. Poindexter, Henry George (successor to Busey as Indian Agent for the Colorado River Agency), and R. H. Rountree (onetime clerk of the Agency). A letter from Coochaway, a member of the Indian Police, is also of interest as are letters from Hiram Dunlap to Busey.</p>
+                                 <p>The Mary Elizabeth &quot;Lizzie&quot; Baker Papers contain a small amount of mostly incoming correspondence (much of which relates to Baker&#039;s property in Manette, Wash.), Baker&#039;s writings, and a scrapbook chronicling Baker&#039;s efforts on behalf of women&#039;s suffrage in Kitsap County, Wash. When Washington State voters adopted the suffrage amendment on Nov. 8, 1910, Kitsap County was &quot;the banner county giving the highest ratio for the amendment,&quot; according to <emph render="italic">The History of Woman Suffrage</emph>, ed. Elizabeth Cady Stanton, Susan B. Anthony, and Matilda Joslyn Gage (1922). &quot;This was largely due to the remarkable house to house canvass made by Mrs. Elizabeth A. Baker of Manette.&quot; (Elizabeth Baker&#039;s career from the 1870s until her death in 1913, which included a stint on the Hopi Indian reservation in Arizona in 1889-90, can be traced in her voluminous correspondence with Kate Baker Busey.)</p>
+                                 <p>The Dunlap Family Papers contain a small amount of mostly incoming correspondence of Ellen &quot;Nellie&quot; Dunlap and Hiram J. Dunlap, a small sample of their writings, and a scrapbook kept by Hiram Dunlap.</p>
+                                 <p>The Miscellaneous series contains mixed files from unknown Baker-Busey-Dunlap family members. Most materials in this series do not include names or dates, although a few items belonged to Ellen &quot;Nellie&quot; Dunlap and Hiram J. Dunlap. Items in this series include postcards and greeting cards, a portrait of Nellie Dunlap, and Colorado maps and other travel ephemera.</p>
+                                 <p>The collection was donated to the Library between 1990 and 2009 by Margaret Jeanette Yntema and Mary Kate Yntema of Springfield, Illinois.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

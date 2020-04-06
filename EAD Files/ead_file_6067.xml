@@ -1,0 +1,137 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:6067">635</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Barrett, Oliver R., et al. Sandburg and Angle, <emph render="italic">Mary Lincoln, Wife</emph> <emph render="italic">and Widow</emph></titleproper>
+               <titleproper type="filing">Barrett, Oliver R., et al. Sandburg and Angle,</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Barrett, Oliver R., et al. Sandburg and Angle, <emph render="italic">Mary Lincoln, Wife</emph> <emph render="italic">and Widow</emph>
+                              <date normal="1930/1932" encodinganalog="260$c">1930/1932</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Barrett, Oliver R., et al. Sandburg and Angle, <emph render="italic">Mary Lincoln, Wife</emph> <emph render="italic">and Widow</emph>                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1930/1932">1930-1932</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">635</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Barrett, Oliver R." source="local" role="Collector">Barrett, Oliver R.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcsh" role="subject">Abraham Lincoln Association (Springfield, Ill.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Angle, Paul M. (Paul McClelland), 1900-1975</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Barrett, Oliver R. (Oliver Roger), 1873-1950</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Hay, Logan, 1871-1942</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Mary Todd, 1818-1882</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sandburg, Carl, 1878-1967</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection documents the publication of Carl Sandburg and Paul M. Angle&#039;s <emph render="italic">Mary Lincoln, Wife</emph> <emph render="italic">and Widow </emph>(New York: Harcourt, Brace and Company, 1932). In particular, it documents the role of Oliver R. Barrett, a Lincoln collector who facilitated the book&#039;s publication.</p>
+                                 <p>In 1930, Logan Hay, a lawyer in Springfield, Illinois, and president of the Abraham Lincoln Association, alerted Paul M. Angle, secretary of the Association, to Mary Lincoln&#039;s earliest known letters, written in 1840 and 1841, before her marriage to Abraham Lincoln.</p>
+                                 <p>Those letters so illuminated Lincoln&#039;s marriage to Mary Todd that Angle, at Hay&#039;s suggestion, promptly brought them to the attention of Barrett and Sandburg in Chicago. Out of their meeting came plans for the preparation of Mary Lincoln, Wife and Widow, a major contribution to Lincoln studies.</p>
+                                 <p>Sandburg provided an overview of Mary Todd Lincoln&#039;s life in Part 1 of the book, dividing it into seven sections. Angle collected and annotated the letters and documents which fill an equal number of pages in Part II of the book.</p>
+                                 <p>Moreover, in a 22-page Appendix, Angle discussed at length the evidence directly relating to the marriage of Mary Todd and Abraham Lincoln. Here, especially, Barrett&#039;s correspondence shaped Angle&#039;s analysis. On the question of Sarah Rickard, for example, Angle wrote at the end of one section of his draft &quot;Barrett Argument Here&quot; (Mar. 31, 1931).</p>
+                                 <p>Barrett played the central role in making the book, contributing many documents from his own collection, coordinating the work of Sandburg and Angle, and writing captions for the illustrations.</p>
+                                 <p>How to apportion credit for bringing Mary Todd&#039;s earliest letters to light raised the most delicate question in the collaboration that led to publication. Although Hay had contributed to the purchase of the original letters, he was &quot;anxious to keep his name&quot; out of the book, perhaps because the niece of Mrs. Annie Bryan, nee Merci Levering, to whom Mary Todd had written the letters, was &quot;very much disturbed&quot; by Sandburg&#039;s extracts from them in Woman&#039;s Home Companion. (See letters to Barrett from Hay and Angle, July 11, Sept. 2, and Sept. 9, 1932.)</p>
+                                 <p>Angle and Barrett are the principal correspondents in this collection. As the manuscript of Mary Lincoln reached completion, Sandburg is also prominent. Others such William H. Townsend, the Lincoln scholar, and Alfred Harcourt and the Harcourt Brace staff are also represented.</p>
+                                 <p>This collection, 1930-1932, adds to the Barrett Papers of 1933-1952, which are also in the Library&#039;s Illinois History and Lincoln Collections. Both lots were acquired in 2013 from Clarendon Van Norman, Jr. whose father, Clarendon Van Norman, Sr., acquired them in the wake of the auction of the Barrett estate in 1952. Appended to this summary is both an inventory of the present collection and an account of related papers in the Sandburg collection of the Library&#039;s Rare Book and Manuscript Library.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

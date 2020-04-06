@@ -1,0 +1,128 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4034">946</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Rockford Equal Suffrage Association. Records</titleproper>
+               <titleproper type="filing">Rockford Equal Suffrage Association. Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Rockford Equal Suffrage Association. Records
+                              <date normal="1888/1900" encodinganalog="260$c">1888/1900</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Rockford Equal Suffrage Association. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1888/1900">1888-1900</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">946</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Rockford Equal Suffrage Association" source="local" role="Collector">Rockford Equal Suffrage Association</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Woman&#039;s Christian Temperance Union</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Winnebago County--Rockford (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Political activism</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Suffrage</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of a single bound volume of records, primarily comprised of meeting minutes but also including membership lists and the governance documents, for the Rockford Equal Suffrage Association.</p>
+                                 <p>Begun in February 1888, the Rockford Equal Suffrage Association was formed &quot;in order to work more systematically and unitedly for Equal Suffrage&quot; and &quot;to better promote the cause by persistent joint endeavor&quot; as an auxiliary of the Illinois Equal Suffrage Association. Although they noted that &quot;The more immediate object of this Association shall be to secure municipal suffrage for women,&quot; the association also sought &quot;at the same time to work persistently for their full political enfranchisement&quot; (see &#039;Constitution of the Rockford Equal Suffrage Association,&#039; page 1). In June 1897, the group changed its name to the Political Equality Club.</p>
+                                 <p>The meeting minutes note the group&#039;s work in advancing the cause through various avenues, including arranging for speakers and lectures at public events such as the county fair, distributing literature, and organizing petitions. In their work they also collaborated with the Woman&#039;s Christian Temperance Union (W.C.T.U.). The group was granted meeting space (&quot;temperance headquarters&quot;) by the W.C.T.U., and the record book notes several joint meetings of both groups in 1900.</p>
+                                 <p>The Library purchased the volume in 2002 along with a group of W.C.T.U. records and handbooks, described separately.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

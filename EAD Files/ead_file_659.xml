@@ -1,0 +1,135 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:659">672</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Greenough, Ogden. Papers</titleproper>
+               <titleproper type="filing">Greenough, Ogden. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Greenough, Ogden. Papers
+                              <date normal="1858/1940" encodinganalog="260$c">1858/1940</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Greenough, Ogden. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1858/1940">1858-1864, 1903, 1935-1940</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1858-1864</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">672</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Greenough, Ogden" source="lcnaf" role="Collector">Greenough, Ogden, 1840-64</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">3 oversize folders</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/greenougho.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Fort Donelson (Tenn.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Alabama</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Alexander County--Cairo (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Georgia</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Mississippi--Vicksburg</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Tennessee</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Ogden Greenough graduated from Marshall College, Marshall, Ill., in 1859, before studying law in Cincinnati. He enlisted in Co. F, 30th Ill. Vol. Inf. on Aug. 26, 1861, and was promoted to lieutenant in 1862. He fought in Tennessee, Mississippi, and Georgia, before he was killed by a sharpshooter on June 15, 1864.</p>
+                                 <p>This collection contains originals and typescripts of Greenough&#039;s letters during the war, and typescripts of his letters from his time at Marshall. Greenough discusses camp life, sociological aspects of the war, and political issues, and describes battles, including Fort Donelson and Vicksburg. The correspondence also reveals Greenough&#039;s social interactions with southerners, including fraternizing with Confederate soldiers and dating southern women. In addition, the collection contains an essay on &quot;Religion &amp; Science,&quot; written by Greenough at Marshall College, various notes from the Greenough family bible, and a family history written by Frances E. Greenough in 1936.</p>
+                                 <p>Before 1964, the collection was a part of Albert H. Lybyer&#039;s papers in the University Archives, his wife being Greenough&#039;s niece.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

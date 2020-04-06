@@ -1,0 +1,127 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4015">902</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Wiggin, James Henry (1836-1900). Diary</titleproper>
+               <titleproper type="filing">Wiggin, James Henry (1836-1900). Diary</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Wiggin, James Henry (1836-1900). Diary
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Wiggin, James Henry (1836-1900). Diary                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1865</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">902</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Wiggin, James Henry" source="lcnaf" role="Collector">Wiggin, James Henry, 1836-1900</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Massachusetts</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Booth, John Wilkes, 1838-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Davis, Jefferson, 1808-1889</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clergy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Sermons</subject>
+                                       <subject encodinganalog="650" source="lcsh">Unitarianism</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>James Henry Wiggin, a Unitarian minister and later an editor of works including Mary Baker Eddy&#039;s <emph render="italic">Science and Health with Key to the Scriptures</emph>, was born in Boston in 1836. Graduating from the Dwight Grammar School, he traveled to several parts of Europe, the Middle East, and the Far East. After graduating from the Meadville (Pennsylvania) Theological Seminary, he was ordained a Unitarian minister in 1862. Over the course of his ministry, he preached at a succession of Unitarian pulpits; entries in his diary in 1865 alone place him in Athol, Leominster, and Lawrence, Massachusetts.</p>
+                                 <p>Wiggin ceased serving as a Unitarian minister in 1880, &quot;believing that his Radical opinions did not justify a longer continuance in his chosen work&quot; (as he noted in <emph render="italic">Charles E. Wiggin, 1813-1888</emph>, p. 137). Thereafter, he engaged in numerous literary and editorial pursuits, including work on Mary Baker Eddy&#039;s manuscript in 1885.</p>
+                                 <p>Wiggin&#039;s 110-page diary for 1865 mainly records his parish duties as a Unitarian minister, including calls on individual parishioners. He also noted his extensive reading, often of publications by prominent churchmen of the day. He routinely clipped items from newspapers and pasted into his diary announcements of his Sunday sermon topics and lectures on his travels, as well as programs of plays that he attended. Wiggin also did not hesitate to comment on his reading and on current events. For example, after preaching on Lincoln&#039;s assassination, he wrote &quot;J. Wilkes Booth and Jeff. Davis. Ought the latter to be hanged?&quot; Wiggin abbreviated many words and his handwriting is not always decipherable in the manuscript, but the diary provides insights into his life as a Unitarian minister in 1865.</p>
+                                 <p>Wiggin&#039;s diary was acquired by the University of Illinois in 2015.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,113 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7117">1037</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letter to Jesse A. Pickrell</titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Letter to Jesse A. Pickrell</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letter to Jesse A. Pickrell
+                              <date normal="1856" encodinganalog="260$c">1856</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Letter to Jesse A. Pickrell                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1856">1856</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1037</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required. Please contact the Illinois History and Lincoln Collections for more information.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This letter was sent from Abraham Lincoln to Jesse A. Pickrell, a farmer living near Mechanicsburg, Illinois, and friend of Lincoln&#039;s.</p>
+                                 <p>During the presidential election of 1856, Abraham Lincoln had put his support behind John C. Fremont, the Republican candidate. Fremont&#039;s competition were the Democratic candidate James Buchanan and the American Party (also known as the Know-Nothing party) candidate Millard Fillmore. Lincoln and the Republicans were against the pro-slavery and pro-popular sovereignty platforms of Buchanan and the Democrats. In order to prevent a Buchanan victory, Lincoln developed a form letter he sent to Fillmore supporters in Sangamon County, Illinois, to try persuade them to vote for Fremont. He pointed out that voting for Fillmore would result in splitting the vote and allowing Buchanan to take the state, lessening the chance of either of the other candidates winning. Ultimately, Buchanan received 105,528 votes in Illinois, compared to Fremont&#039;s 96,275 and Fillmore&#039;s 37,531, winning the state as well as the presidency.</p>
+                                 <p>In his letter to Jesse A. Pickrell on September 15, 1856, Lincoln requested that Pickrell quietly assemble a list of fifteen or twenty Fillmore supporters in the area near Springfield, and also asked that he get their addresses - presumably for Lincoln to send his form letter to these voters.</p>
+                                 <p>A transcription of this note can be found in <emph render="italic">The Collected Works of Abraham Lincoln</emph> (edited by Roy P. Basler <emph render="italic">et al.</emph>) in the second supplement (also called Volume 11) on page 12. An online version of the transcription can be found in the online <emph render="italic">Collected Works</emph>: <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="https://quod.lib.umich.edu/l/lincoln/lincoln2/1:400?rgn=div1;view=fulltext">https://quod.lib.umich.edu/l/lincoln/lincoln2/1:400?rgn=div1;view=fulltext</extref>.</p>
+                                 <p>The letter was acquired by the University Library in 1966, with support from the Dr. Harlan Horner Estate.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

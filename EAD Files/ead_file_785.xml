@@ -1,0 +1,140 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:785">789</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Jordan, Elijah. Papers</titleproper>
+               <titleproper type="filing">Jordan, Elijah Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Jordan, Elijah. Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Jordan, Elijah. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1899-1962</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">789</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Jordan, Elijah" source="local" role="Collector">Jordan, Elijah</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">5.20</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">and 1 reel microfilm</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/ejordan.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Philosophical Association</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Cornell University</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Indiana University</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indiana</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">New York--Ithaca</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Fisch, Max Harold, 1900-1995</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Jordan, Elijah, 1875-1953</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Philosophy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Elijah Jordan (1875-1953) was raised in Elberfield, Indiana, and served as a professor of philosophy at Butler University from 1913 to 1944. Jordan published eight books and numerous articles in which he developed a philosophical system that set him apart from contemporary philosophical trends. This collection contains biographical material, draft revisions for each of Jordan&#039;s books, and personal correspondence from 1905 to 1953. Many letters refer to Jordan&#039;s graduate school experiences (at Cornell, Wisconsin and Chicago) and his difficulties in obtaining a teaching position. Other letters discuss the preparation and publication of his books and scholars&#039; reactions to them. Frequent correspondents include J. E. Creighton, Max H. Fisch, Warner Fite, D. W. Gotshalk, Thomas Haynes, Robert D. Mack, Glenn Negley, M. C. Otto and Forrest O. Wiggins.</p>
+                                 <p>The collection also contains Jordan&#039;s university transcripts and class notes, photographs of Jordan and his wife Linny, and papers relating to Fisch&#039;s Jordan bibliography, compiled for Jordan&#039;s <emph render="italic">Metaphysics: An Unfinished Essay</emph> (published posthumously, 1956). Additional materials document Fisch&#039;s efforts to organize the Elijah Jordan Conferences, 1956-57, a joint initiative of the American Philosophical Association&#039;s Committee to Advance Original Work in Philosophy and the Rockefeller Foundation.</p>
+                                 <p>The collection was given to the University of Illinois Foundation in the 1950s after being acquired from Elijah Jordan&#039;s estate by Max Fisch, University of Illinois professor of philosophy. The collection was moved to the Illinois Historical Survey in 1971. Louise Dauner, of Indianapolis, donated additional correspondence from Jordan, as did Negley and Wiggins. The collection also includes copies of Jordan&#039;s letters to Otto in the Wisconsin Historical Society.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

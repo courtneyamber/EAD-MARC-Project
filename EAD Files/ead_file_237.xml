@@ -1,0 +1,156 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:237">237</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Robinson, Harry F. Architectural Materials</titleproper>
+               <titleproper type="filing">Robinson: Harry F Robinson Architectural Materials</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Robinson, Harry F. Architectural Materials
+                              <date normal="1907/1953" encodinganalog="260$c">1907/1953</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Robinson, Harry F. Architectural Materials                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1907/1953">1907-1953</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">237</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Robinson, Harry F" source="lcnaf" role="Collector">Robinson, Harry F, 1883-1959</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/robinson-harry.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Literary Club</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Phi Gamma Delta</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--River Forest (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Riverside (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">DuPage County--Glen Ellyn (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">DuPage County--Naperville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kane County--Aurora (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kane County--Elgin (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kane County--Geneva (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Minnesota</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Robinson, Harry Franklin, 1883-1959</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Wright, Frank Lloyd, 1867-1959</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Architecture</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Victor, Paul F., Sr Papers, 1918-2015</p>
+                                    <p>Information about related materials is available at https://www.library.illinois.edu/ihx/archon/index.php?p=collections/controlcard&amp;id=7126</p>
+                              </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the architectural papers of Harry F. Robinson, an architect who worked in Chicago during the early and mid-twentieth century.</p>
+                                 <p>Harry Franklin Robinson was born November 2, 1883 in Alliance, Ohio. During Robinson&#039;s early youth, his family moved to Mattoon, Illinois. After his graduation from Mattoon High School in 1901, he spent a year in St. Paul, Minnesota, working as a draftsman at an architectural firm. He began attending the University of Illinois in 1902, studying architectural engineering under Dr. Nathan Clifford Ricker. While at the University of Illinois, Robinson was an active member of several student organizations, including the fraternity Phi Gamma Delta and the University of Illinois Architectural Club. He graduated with his Bachelor&#039;s degree in architectural engineering in June 1906.</p>
+                                 <p>His work with the Architectural Club had introduced him to Frank Lloyd Wright, and he was invited to work at Wright&#039;s Oak Park, Illinois studio immediately after graduation. He worked for Wright as a draftsman until 1908, when he left to work for Walter Burley Griffin in Chicago. He held a more senior role in Griffin&#039;s office, but left that post to return to work under Wright in 1911, managing his Chicago office and coordinating a number of commissions.</p>
+                                 <p>He left Wright&#039;s office in 1916 after their relationship deteriorated, and joined the firm of George and Arthur Dean, where he developed housing projects. On George Dean&#039;s death, he became a controlling partner in the firm. He left Dean and Dean to start his own private practice in late 1922, designing private residences, churches, and schools in the Chicago area and in Minnesota. However, he was forced to give up this practice due to the economic downturn of the Great Depression, going back to school to study for a Master&#039;s degree in History from 1932 and 1934. Though he hoped to teach, he instead joined the Public Housing Administration, where he worked until 1955. Robinson died August 15, 1959.</p>
+                                 <p>The collection includes Robinson&#039;s original drawings, floorplans, and blueprints for many of his works, including private residences and industrial housing projects, primarily from Chicago and the surrounding suburban area. It also includes architectural photographs, papers Robinson presented to the Chicago Literary Club, and Robinson&#039;s typed Master&#039;s dissertation. The collection also contains a copy of <emph render="italic">The Life and Works of Harry Franklin Robinson, 1883-1959, </emph>published in 1989 by James A. Robinson.</p>
+                                 <p>Joseph and James Robinson, son and grandson of Harry F. Robinson, donated the collection to the University of Illinois Library in 1990. They donated additional materials in 1992.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

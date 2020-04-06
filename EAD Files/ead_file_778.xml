@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:778">782</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Adams, Charles Francis (1857-1893). Diary</titleproper>
+               <titleproper type="filing">Adams: Charles Adams Diary</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Adams, Charles Francis (1857-1893). Diary
+                              <date normal="1884/1887" encodinganalog="260$c">1884/1887</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Adams, Charles Francis (1857-1893). Diary                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1884/1887">1884-1887</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">782</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Adams, Charles Francis" source="lcnaf" role="Collector">Adams, Charles Francis</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Auckland Museum Institute</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Industrial University (Urbana, Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">California--San Francisco</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indonesia</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New Zealand</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Taxidermy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">World&#039;s Columbian Exposition (1893 : Chicago, Ill.)</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Charles Francis Adams, raised near Urbana, Ill., entered the Illinois Industrial University (the University of Illinois) in 1876, devoting much time to taxidermy. A graduate in the Class of 1883, he traveled widely to collect specimens.</p>
+                                 <p>This collection includes a 160-page account of his travels and work as a taxidermist, 1884-87. Between Dec. 10, 1884, and Jan. 14, 1885, he crossed the country by train between Tolono, Ill., and San Francisco, and sailed from there to Auckland, New Zealand. The diary records his work as a taxidermist at Auckland Museum, and his leisure activities, between Jan. 15 and July 12, 1885. At the museum, he began an energetic program of preparing specimens (birds, fish, and marine invertebrates). His diary also describes local outings with friends, including visits to the wharf to see ships coming and going.</p>
+                                 <p>There follows three separate accounts of trips from Auckland to Cuvier Island (Nov. 1886), Karewa Island (Dec. 1886), and White Island (date not stated). Adams left the Auckland Museum on Feb. 1887, sailing for Singapore with stops at several New Zealand ports and at Melbourne, Australia. He includes an account (dated Apr. 6-8, presumably 1887) of the ship&#039;s passage through the Dutch East Indies (Indonesia) to Batavia (Jakarta), at which point the diary ends.</p>
+                                 <p>Adams went on to Borneo before returning to the United States. He later prepared a taxidermy exhibit for the World&#039;s Columbian Exposition of 1893. See <emph render="italic">Auk</emph>, 10 (1893), 385-86, for a memorial of his life. See also B. J. Gill, &quot;C. F. Adams, An American Taxidermist at Auckland Museum, 1885-86, <emph render="italic">Records of the Auckland Museum</emph>, 41 (2004), 13-26.</p>
+                                 <p>Adams&#039;s nephew, Clifford S. Love of Philo, Ill., loaned the diary for photocopying in 1974. B. J. Gill analyzed its contents for this record in 2011.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

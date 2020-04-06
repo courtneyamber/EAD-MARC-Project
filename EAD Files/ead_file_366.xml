@@ -1,0 +1,134 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:366">366</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Walker Family. Papers</titleproper>
+               <titleproper type="filing">Walker Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Walker Family. Papers
+                              <date normal="1737/1868" encodinganalog="260$c">1737/1868</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Walker Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1737/1868">1737-1868</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">366</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Walker Family" source="lcnaf" role="Collector">Walker Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.50</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                              <abstract encodinganalog="520$a" label="Abstract">This collection contains the papers of the Thomas H. Walker family of Brownsburgh, Rockbridge County, Virginia, including correspondence, commercial papers, and a petition to release one of Walker&#039;s sons, James, from service in the Confederate army due to bad health. The correspondence is mostly personal, written largely among relatives within the Walker family, but the papers also include some business correspondence.</abstract>
+                     
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Missouri</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Tennessee</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural conditions</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Temperance</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the papers of the Thomas H. Walker family of Brownsburgh, Rockbridge County, Virginia, including correspondence, commercial papers, and a petition to release one of Walker&#039;s sons, James, from service in the Confederate army due to bad health. The correspondence is mostly personal, written largely among relatives within the Walker family, but the papers also include some business correspondence.</p>
+                                 <p>Thomas H. Walker and his family were based in Brownsburgh, Rockbridge County, Virginia. In addition to corresponding with Virginia relatives, Thomas and his family corresponded with Thomas&#039;s brothers William Walker in Tennessee and Hugh Walker in Kentucky. They also corresponded with a relative attending seminary in New York. There is some correspondence to unrelated individuals in Pennsylvania and Kentucky as well. In Virginia, the Walkers were primarily businesspeople and planters. By 1864, at least one of Thomas Walker&#039;s sons - James A. Walker - was serving as a conscript in the Confederate Army.</p>
+                                 <p>The papers are arranged chronologically by year. The bulk of the papers are dated between 1803 and 1869, with a single folder of letters dated 1737-1800. The personal letters in this collection contain personal news and information about regional conditions, farm and manufacture prices, marketing and transportation methods, life at college and seminary, and life in the newly settled areas of Tennessee, Missouri, and Kentucky. In addition, family letters also discuss the whiskey trade, religion, the temperance movement, and political news, including some local election results. The business letters concern the distillation of liquor and the purchase and sale of land, while the commercial papers include agreements for sharecroppers and laborers and some bills of sale. Lastly, there is an 1864 petition to the Bureau of Conscription in Richmond, Virginia seeking the release of James A. Walker from Confederate service due to poor health.</p>
+                                 <p>These materials were most likely purchased in 1929 for the Illinois Historical Survey, predecessor of the Illinois History and Lincoln Collections unit, by then-director Theodore C. Pease. They were brought to Pease&#039;s attention by University of Chicago historian Avery O. Craven.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

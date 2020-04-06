@@ -1,0 +1,141 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:939">959</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Thomas, William (1802-1889). Reminiscences</titleproper>
+               <titleproper type="filing">Thomas, William</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Thomas, William (1802-1889). Reminiscences
+                              <date normal="1877" encodinganalog="260$c">1877</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Thomas, William (1802-1889). Reminiscences                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1877">1877</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">959</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Thomas, William" source="local" role="Collector">Thomas, William</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Greene County--Carrollton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Indiana--New Harmony</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Edwardsville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Morgan County--Jacksonville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">St. Clair County--Belleville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Edwards, Ninian, 1775-1833</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                                    <dao xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc-ms959_reminiscences.pdf" xlink:actuate="onRequest" xlink:show="new">
+                        <daodesc>
+                           <head>Title:</head>
+                           <p>Reminiscences of Judge William Thomas</p>
+                        </daodesc>
+                     </dao>
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>William Thomas, a prominent citizen in Jacksonville, Ill., served as a circuit judge, a member of the Illinois General Assembly, and a trustee of several state institutions in Jacksonville.</p>
+                                 <p>In this reminiscence, Thomas recalled his horseback journey from Kentucky to Illinois, and his first year, 1826-27, as a school teacher and lawyer in Jacksonville. On the way, he visited New Harmony, Ind., the Owenite community, which was &quot;on the wane.&quot; In Belleville, he met Ninian Edwards, and in Edwardsville he was licensed to practice law by Samuel Lockwood. He noted the people and towns through which he traveled (including a drunken group of &quot;Macoupinites&quot; in Carrollton).</p>
+                                 <p>Thomas mentioned many acquaintances in early Jacksonville, and commented on the split in the town between &quot;yankees&quot; from the north and east (who supported John Quincy Adams) and &quot;white people&quot; from the south and west (who supported Andrew Jackson). In the spring and fall of 1827, he practiced law in the counties of western Illinois that comprised the First Circuit. In the summer, he briefly served as a volunteer in the Winnebago War.</p>
+                                 <p>Thomas&#039;s memoir of &quot;Early Times&quot; was published in the Apr. 18, 1877, issue of the Jacksonville <emph render="italic">Weekly Journal</emph>, a 16-page transcription of which was collated by Solon J. Buck in 1913.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,129 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:390">390</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Wheat, Almeron (1813-1895). Correspondence</titleproper>
+               <titleproper type="filing">Wheat: Almeron Wheat Correspondence</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Wheat, Almeron (1813-1895). Correspondence
+                              <date normal="1840/1871" encodinganalog="260$c">1840/1871</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Wheat, Almeron (1813-1895). Correspondence                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1840/1871">1840-1871</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">390</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Wheat, Almeron" source="lcnaf" role="Collector">Wheat, Almeron</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">113 letters</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Legal records</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Adams County--Quincy (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Charleston (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Carthage (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Nauvoo (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Warsaw (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Morgan County--Jacksonville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Courts</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Surveying</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Almeron Wheat was a prominent Quincy attorney and an associate of Orville Hickman Browning. The letters in this collection are addressed either directly to Wheat or to law firms in Quincy, Illinois, of which Wheat was a member. The letters pertain to legal issues in Quincy, Nauvoo, Warsaw, Carthage, Charleston, Jacksonville, and Springfield, Illinois, and in Eastern cities including Philadelphia. Among the issues discussed in the letters are land surveys, auctions on redeemed lands, case decisions and their execution, mortgages, the settling of claims and law suits (especially for collection of debts), a divorce case involving the custody of children, an appointment for public administrator, conveyance of messages by telegraph, and local politics.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

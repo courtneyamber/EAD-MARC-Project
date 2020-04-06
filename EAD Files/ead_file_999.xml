@@ -1,0 +1,147 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:999">1017</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Autographs, Commissions, and Imprints</titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Autographs</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Autographs, Commissions, and Imprints
+                              <date normal="1839/1865" encodinganalog="260$c">1839/1865</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Autographs, Commissions, and Imprints                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1839/1865">1839-1865</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1017</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">18.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required to access these materials.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Most of the following items are available in <emph render="italic">The Collected Works of Abraham Lincoln</emph> and its <emph render="italic">Supplements</emph>, ed. Roy P. Basler et al. (1953,ff). In this list, CW = <emph render="italic">Collected Works.</emph> A few are included, and numbered, in Jay Monaghan, comp., <emph render="italic">Lincoln Bibliography, 1839-1939 </emph>(2 vols., 1943-1945) [Monaghan].</p>
+                                 <p>To view any item, or for work file information, apply to the curator of the Library&#039;s Illinois History and Lincoln Collections.</p>
+                                 <p>1839, Jan. 17. PUBLIC LANDS IN ILLINOIS. Report, by Lincoln, for the Committee on Finance, Illinois House of Representatives, 11th General Assembly. Monaghan 1.</p>
+                                 <p>1841, Feb. 5, ANS. Lincoln to Thomas T. GANTT of St. Louis; payment of $46.00 for legal services. Acquired in 1991.</p>
+                                 <p>1845, Sept. 22, ANS. Lincoln to Joseph GUNDY. CW, First Supplement (1974), 10:8. Donated in 1960.</p>
+                                 <p>1856, May and Oct. Terms, Champaign County Circuit Court. CHINIQUY v. SPINK. (1) Lincoln&#039;s fee bill ($50.) and (2) his draft of the order dismissing the case. These items are in <emph render="italic">The Law Practice of Abraham Lincoln: Complete Documentary Edition</emph> (2000), LO1448.</p>
+                                 <p>1856, Aug. 19. ALS to Jesse B. DUBOIS. CW, 2:360. Donated in 1959. Filed in the Rare Book and Manuscript Library.</p>
+                                 <p>1856, Sept. 15. ALS to Jesse A. PICKRELL. CW, Second Supplement, 11:12. See also CW, 2:374n. Acquired in 1966.</p>
+                                 <p>1858, Apr. Term, Champaign County Circuit Court. ROBERT DEAN v. BERNARD KELLY. Declaration in Lincoln&#039;s hand. <emph render="italic">Law Practice of Abraham Lincoln</emph>, L01334.</p>
+                                 <p>1858, Aug. 9. ALS to D. [Daniel] A. CHEEVER. CW, 10:32. Provenance unknown.</p>
+                                 <p>1858, Aug. 22. ALS to J. O. Cunningham. CW, 3:37. In the possession of the Library at least since the very early twentieth century.</p>
+                                 <p>1859, Aug. 19. ALS to D. A. CHEEVER. CW, 10:41. Provenance unknown.</p>
+                                 <p>1860. <emph render="italic">Political Debates Between Hon. Abraham Lincoln and Hon. Stephen A. Douglas</emph> (Columbus: Follett, Foster and Co., 1860. Inscribed: &quot;Jesse A. Pickrell / From / A. Lincoln&quot;.</p>
+                                 <p>1861, Mar. 4. LINCOLN, Inaugural Address. Monaghan 102.</p>
+                                 <p>1862, July 2. Commission of Jesse B. FELL as paymaster, signed by Abraham Lincoln and Edwin M. Stanton.</p>
+                                 <p>1863, Feb. 27. Commission of Thomas W. CHEYNEY (1814-1866) as Assessor of Internal Revenue for the Seventh District of Pennsylvania, signed by Abraham Lincoln and Salmon P. Chase. Donated in 2005.</p>
+                                 <p>1863, Mar. 11. Land office warrant signed by William O. STODDARD for Abraham Lincoln.</p>
+                                 <p>1863, May 23, ANS. Lincoln to Judge Advocate General Joseph Holt, asking for the record of the trial and conviction as a spy of William B. COMPTON, now in custody at Fort McHenry. CW 6:227. Missing although printed in <emph render="italic">The Sandburg Range: An Exhibit of Materials from Carl Sandburg&#039;s Library </emph>(1958).</p>
+                                 <p>1864, Feb. 10, ANS. &quot;Let this man take the Oath of Dec. 8, 1863, and be discharged. A. Lincoln.&quot; Missing although printed in Leslie W. Dunlap, <emph render="italic">Lincoln Room, University of Illinois Library: Memorial, the Class of 1901, Founded by Harlan Hoyt Horner and Henrietta Calhoun Horner </emph>(1953).</p>
+                                 <p>1865, Mar. 3. LINCOLN, Second Inaugural Address. Monaghan 600.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

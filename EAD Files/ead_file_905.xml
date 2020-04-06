@@ -1,0 +1,130 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:905">854</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Fay, Herbert Wells. Collection of Lincoln materials</titleproper>
+               <titleproper type="filing">Fay, Herbert Wells. Collection of Lincoln materials</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Fay, Herbert Wells. Collection of Lincoln materials
+                              <date normal="1891/1949" encodinganalog="260$c">1891/1949</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Fay, Herbert Wells. Collection of Lincoln materials                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1891/1949">1891-1949</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">854</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Fay, Herbert Wells" source="local" role="Collector">Fay, Herbert Wells</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 oversize folder</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/fay-herbertwells.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Oak Ridge Cemetery (Springfield, Ill.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Herbert Wells Fay (1859-1949), born in Squaw Grove Township, DeKalb County, Illinois, was a collector of historical portraits and, in later years, custodian of the Lincoln Tomb, Oak Ridge Cemetery, Springfield, Illinois.</p>
+                                 <p>For much of his adult life Fay was a newspaper man, first as the part-owner of the Hinckley (Illinois) <emph render="italic">Review</emph>, and starting in 1884 as the co-owner of the DeKalb <emph render="italic">Review</emph>. In DeKalb, Fay was also county surveyor and a member of the DeKalb board of education.</p>
+                                 <p>In 1869, Fay began a collection of historical portraits, mostly of famous international figures, including Lincoln and other presidents; U.S. senators, representatives and Supreme Court justices; European royalty; and notable authors and artists. Fay used his collection to illustrate the <emph render="italic">National Cyclopedia of American Biography</emph>, of which he was associate editor.</p>
+                                 <p>This collection includes a small sample of Fay&#039;s photograph collection (the bulk of which is held at Northern Illinois University, DeKalb), but mostly consists of Lincoln ephemera: birthday celebration programs, drawings by Fay, Lincoln Tomb brochures and postcards, and publications and clippings related to the Lincoln family.</p>
+                                 <p>Materials in the collection, kept by H. W. Fay&#039;s son Earl, were donated to the Library in 2010 by Vincent Golden, Worcester, Mass. The Library acquired additional materials from an unknown source, which were added to the collection circa 2015. These materials are listed in the inventory appendix.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

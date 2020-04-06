@@ -1,0 +1,135 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:967">988</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Ashmore Family. Papers</titleproper>
+               <titleproper type="filing">Ashmore Family. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Ashmore Family. Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Ashmore Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1842-2004</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">988</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Ashmore Family" source="local" role="Collector">Ashmore Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/ashmore2.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois State Geological Survey</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Jo Daviess County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Jo Daviess County--Elizabeth (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Stephenson County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Lead miners</subject>
+                                       <subject encodinganalog="650" source="lcsh">Lead mines and mining</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mines and mineral resources</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural conditions</subject>
+                                       <subject encodinganalog="650" source="lcsh">Surveying</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Ashmore Family Papers document five generations of one Illinois family in Jo Daviess and Stephenson Counties, and contain materials related to Joseph Ashmore (1787-1868), a farmer; his children, Charles (1829-1925); Henry (1842-1908); and Arthur (1882-1969), also farmers; Henry&#039;s wife Belle (1850-1925) and son Walter (1879-1960); Arthur&#039;s wife Jessie (1887-1972), son Kenneth (1915-2004), a surveyor, and daughter-in-law Verona (1918-62), a clerk; Kenneth and Verona&#039;s daughter Connie (1938-), a librarian; Connie&#039;s husband Fred Fairchild (1940-), a professor of music; Connie and Fred&#039;s grandniece Casandra Ashmore (1985-); and related family members. The collection mostly consists of biographical material; personal correspondence; estate, financial, legal, organizational, real estate, and family history papers; and family photographs.</p>
+                                 <p>A significant portion of the collection relates to the Skene Lead Mine, which Charles Ashmore discovered on the family&#039;s Wolf Creek Farm, near Elizabeth, Ill., in 1901. The mine was active from 1901 to 1907, when it shut down due to increasing mining costs and decreasing lead prices. The collection contains business correspondence and financial, legal, and real estate papers which document the family&#039;s mining interests during this period.</p>
+                                 <p>Later, from the 1940s through the 1960s, Kenneth Ashmore attempted to re-open the mine and conducted several mineral tests on the property. The collection also contains material related to his efforts, including correspondence with the Illinois State Geological Survey and leasing companies; drilling records and notes; and reference materials on geology and mining in Northwestern Illinois, the Quad Cities, and southern Wisconsin.</p>
+                                 <p>Connie Ashmore Fairchild and Stanley Ashmore, the children of Kenneth and Verona Ashmore, donated this collection to the Library in 2005.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

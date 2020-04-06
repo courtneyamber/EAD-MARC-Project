@@ -1,0 +1,124 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:238">238</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Robinson, Sidney Z. (1834-1893). Letters</titleproper>
+               <titleproper type="filing">Robinson: Sydney Robinson Letters</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Robinson, Sidney Z. (1834-1893). Letters
+                              <date normal="1862/1865" encodinganalog="260$c">1862/1865</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Robinson, Sidney Z. (1834-1893). Letters                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1862/1865">1862-1865</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">238</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Robinson, Sydney" source="lcnaf" role="Collector">Robinson, Sydney</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains typescripts of letters from Sidney Z. Robinson of Madison County, Illinois, to his parents and brothers. Robinson was a Union Army soldier in the 117th Illinois Volunteer Infantry from 1862 to 1865.</p>
+                                 <p>Sidney Z. Robinson of Madison County, Illinois, mustered into Company D of the 117th Illinois Volunteer Infantry on August 9, 1862. His regiment fought in the Meridian campaign, the Red River Expedition, and the Tupelo and Oxford campaigns, and in total was engaged in six battles as well as many skirmishes. He was mustered out of the service on August 5, 1865 as first sergeant.</p>
+                                 <p>The collection includes typescripts of letters from Robinson to his parents and brothers in which he describes conditions the various forts and camps where he was stationed as well as marches and battles. He also discusses the relationship between blacks and whites, diseases among the troops, politics, Lincoln&#039;s assassination, the scarcity of supplies, and his plans to farm after the war.</p>
+                                 <p>Solon J. Buck, a research associate for the Department of History at the University of Illinois, acquired the original Robinson correspondence from Robinson&#039;s daughters in 1912-1913. Buck had the letters transcribed for the Illinois Historical Survey at the University of Illinois, which, at the time, was the editorial office of the Illinois State Historical Library. The Survey (now a unit of the University of Illinois Library) retained this set of the typescripts, while the original letters are on file at the Illinois State Historical Library (now the Abraham Lincoln Presidential Library).</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

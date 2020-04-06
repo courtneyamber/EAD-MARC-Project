@@ -1,0 +1,134 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:718">733</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Illinois Department Of Public Works And Buildings. Fort de Chartres Restoration Papers</titleproper>
+               <titleproper type="filing">Illinois Department Of Public Works And Buildings. Fort de Chartres Restoration</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Illinois Department Of Public Works And Buildings. Fort de Chartres Restoration Papers
+                              <date normal="1942" encodinganalog="260$c">1942</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Illinois Department Of Public Works And Buildings. Fort de Chartres Restoration Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1942">1942</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">733</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Illinois Department of Public Works and Buildings" source="local" role="Collector">Illinois Department of Public Works and Buildings</corpname>
+                                 <persname encodinganalog="100" normal="Natalia M. Belting" source="local" role="Collector">Natalia M. Belting</persname>
+                                 <persname encodinganalog="100" normal="Theodore C. Pease" source="local" role="Collector">Theodore C. Pease</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">13 items</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Fort de Chartres Site (Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois. Department of Public Works and Buildings</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Randolph County--Prairie du Rocher (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Belting, Natalia Maree, 1915-1997</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Pease, Theodore C. (Theodore Claudius), 1853-1893</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Historic buildings</subject>
+                                       <subject encodinganalog="650" source="lcsh">Historic preservation</subject>
+                                       <subject encodinganalog="650" source="lcsh">Historic sites</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains records from the Illinois Department of Public Works and Buildings regarding the restoration of the chapel at Fort de Chartres located in Prairie du Rocher, Illinois. Records include correspondence and a photograph.</p>
+                                 <p>Located on the eastern bank of the Mississippi River, the Fort de Chartres was originally constructed in 1720 during French colonization of the Illinois territory. The Fort was later rebuilt several times due to flooding and decay. Between 1935 and 1942, the Illinois Department of Public Works and Buildings began work on the restoration of the chapel at Fort de Chartres.</p>
+                                 <p>Records include letters between Natalia M. Belting, Theodore C. Pease, and Joseph H. Booton. At the time of the restoration project, Natalia Belting and Theodore Pease were history professors at the University of Illinois at Urbana-Champaign, and Joseph Booton was the Chief of Design of the Division of Architecture and Engineering for the State of Illinois. Correspondents discuss issues of historical accuracy in relation to the restoration of the chapel, such as furnishings and use of the chapel. Included in the correspondence is Dr. Belting&#039;s translation of an inventory of the chapel&#039;s furnishings written in French, as well as a photograph of the original inventory.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

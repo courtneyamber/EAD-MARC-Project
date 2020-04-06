@@ -1,0 +1,142 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:897">842</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Watson, William Walcott &quot;Buck.&quot; Papers</titleproper>
+               <titleproper type="filing">Watson, William W. &quot;Buck.&quot;ÃÂ  Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Watson, William Walcott &quot;Buck.&quot; Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Watson, William Walcott &quot;Buck.&quot; Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1875-1930</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">842</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Watson, William Walcott &quot;Buck&quot;" source="lcnaf" role="Collector">Watson, William Walcott &quot;Buck&quot;</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/wwwatson.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Colfax, Schuyler, 1823-1885</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Cullom, Shelby M. (Shelby Moore), 1829-1914</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Deneen, Charles Samuel, 1863-1940</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Emmerson, Louis L. (Louis Lincoln), 1863-1941</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lowden, Frank O. (Frank Orren), 1861-1943</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Mason, William E. (William Ernest), 1850-1921</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCormick, Medill, 1877-1925</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCormick, Robert R. (Robert Rutherford), 1880-1955</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Rainey, Henry Thomas, 1860-1934</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Russel, Andrew, 1856-1934</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Shaw, Guy Loren, 1881-1950</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Simms, Ruth Hanna McCormick, 1880-1944</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, Frank L. (Frank Leslie), 1867-1950</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Stead, William H., 1858-1918</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Tanner, John R., 1844-1901</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Thompson, William Hale, 1869-1944</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Willcox, William R. (William Russell), 1863-1940</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Yates, Richard, 1815-1873</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>William Walcott &quot;Buck&quot; Watson (1857-1932) was a Republican Party supporter, newspaper editor, insurance salesman, and one-term mayor of Barry, Pike County, Ill. From 1880 to 1898 he was the publisher and editor of the Barry <emph render="italic">Adage</emph>, a Republican weekly. At the turn of the twentieth century he was chairman of the Pike County Republican Central Committee (Pike County typically voted Democratic), as well as county manager of Richard Yates&#039;s gubernatorial campaigns of 1900 and 1904.</p>
+                                 <p>Though he did not actively seek political office at the state level (and in fact refused several gubernatorial appointments), Watson was active in the Republican Party in Illinois. Governors John R. Tanner, Richard Yates, Charles S. Deneen, Frank O. Lowden, and Louis L. Emmerson often consulted him during their candidacies and administrations, both to gauge the political climate in west central Illinois and to ask his opinion of suggested political appointments.</p>
+                                 <p>During his career Watson served as a delegate to many local, state, and national Republican conventions. He was also a member of Barry&#039;s Board of Education, an officer of the Pike County Masonic Lodge, an active member of the Liberty Loan Organization, and a founder and officer of the Home Forum insurance society. From 1901 to 1913 he was a trustee of the Illinois School for the Deaf in Jacksonville, and in 1920 he was a presidential elector, voting for Warren G. Harding.</p>
+                                 <p>This collection consists of Watson&#039;s political correspondence from 1875 to 1930. Correspondents include Ray N. Anderson, Joseph N. Carter, Schuyler Colfax, Shelby M. Cullom, Charles S. Deneen, L. L. Emmerson, Charles P. Gillett, H. D. L. Grigsby, Frank O. Lowden, Medill McCormick, Col. Robert R. McCormick, Ruth Hanna McCormick, William E. Mason, A. C. Matthews, John G. Oglesby, Henry T. Rainey, Andrew Russel, Guy L. Shaw, Lawrence Y. Sherman, Frank L. Smith, William H. Stead, Fred E. Sterling, John R. Tanner, William Hale &quot;Big Bill&quot; Thompson, Homer J. Tice, William R. Willcox, and Richard Yates. The correspondence is arranged chronologically. Watson&#039;s outgoing letters are interfiled with his incoming mail.</p>
+                                 <p>The Library acquired the collection in 2008 from Watson&#039;s great-granddaughter, Margaret Rutledge, of Costa Mesa, Calif.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

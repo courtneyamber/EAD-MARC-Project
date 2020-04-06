@@ -1,0 +1,121 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7080">913</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Graebel Scrapbook Collection</titleproper>
+               <titleproper type="filing">Graebel Scrapbook Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Graebel Scrapbook Collection
+                              <date normal="1840/1893" encodinganalog="260$c">1840/1893</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Graebel Scrapbook Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1840/1893">1840-1893</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">913</unitid>
+               <physdesc label="Physical Description"><extent encodinganalog="300" type="volumes">5.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Massachusetts</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New York</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Poetry</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains five scrapbooks of newspaper clippings from the mid- to late nineteenth century. The articles were clipped from many different newspapers, including the <emph render="italic">Examiner and Chronicle</emph> [New York, NY], <emph render="italic">Watchman and Reflector</emph> [Boston, MA], <emph render="italic">Louisville</emph> <emph render="italic">Courier-Journal </emph>[Louisville, KY], <emph render="italic">Sherburne News</emph> [Sherburne, NY], <emph render="italic">Albany Evening Journal</emph> [Albany, NY], and others.</p>
+                                 <p>Volume A includes clippings of stories and poems with themes relating to morality and religion. Volume B focuses on Sherburne, New York, and includes clippings about important families in the history of the town, church histories, and plans for the centennial celebration of the founding of Sherburne. Volume C features printed speeches, biographic sketches and histories, news stories, and poetry.</p>
+                                 <p>Volume D contains articles and poetry about many different subjects, including financial and commercial statistics, agriculture production, reports on New York canals and bank holdings, national treasury reports, lectures and speeches, and European politics and history. Volume E primarily features political articles that include speeches supporting or opposing various acts in Congress, voting returns, presidential nominations, and stories about the Free Soil and Locofoco Parties. Indexes are located at the end of Volume D and the beginning of Volume E for the clippings included in those volumes.</p>
+                                 <p>This collection was donated by Mrs. Dorothy Graebel circa 1993.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:487">492</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Brown, Robert Carlton. Collection</titleproper>
+               <titleproper type="filing">Brown: Robert Carlton Brown Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Brown, Robert Carlton. Collection
+                              <date normal="1919/1942" encodinganalog="260$c">1919/1942</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Brown, Robert Carlton. Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1919/1942">1919-1942</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">492</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Brown, Robert Carlton" source="lcnaf" role="Collector">Brown, Robert Carlton, 1886-1959</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/brownrobert.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Commonwealth College (Mena, Ark.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">New Llano (La.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Arkansas--Mena</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Louisiana--New Llano</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Communitarianism</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Robert Brown was a radical writer who gathered materials for a history of cooperative movements. In 1934, he circulated questionnaires to over 300 organizations in 20 different countries. His book, <emph render="italic">Can We Cooperate?</emph> (1940), is partly autobiographical.</p>
+                                 <p>The collection contains files including a questionnaire, correspondence, printed materials, and clippings relating to over 142 cooperative organizations. The questionnaires reveal the principles, objectives, land and financial holdings, membership, and practices of the different organizations. In addition, there are approximately 200 questionnaires from other organizations which contain only minimal information such as name and location.</p>
+                                 <p>Beyond the general information provided in the questionnaires, the collection includes further information on Commonwealth College, in Mena, Ark., and the Newllano Colony, Vernon County, La. The extra information on Commonwealth College includes several issues of the <emph render="italic">Commonwealth College Fortnightly</emph>, 1928-38, and three copies of <emph render="italic">The Commoner</emph> (June, Nov.-Dec., 1939, and Apr. 1940). The additional material on Newllano includes clippings from the <emph render="italic">Llano Colonist</emph> and manuscripts written by George Pickett, general manager of the colony.</p>
+                                 <p>The collection also contains Brown&#039;s general correspondence, 1918-42, along with newspaper clippings, photographs, bibliographies, and notes, mostly relating to his book. There are also several manuscript drafts of <emph render="italic">Can We Cooperate? </emph>and a copy of Ernest S. Wooster&#039;s <emph render="italic">Communities of the Past and Present</emph> (Newllano, La: Llano Colonist, 1924) included in the collection.</p>
+                                 <p>Robert Brown sold the collection to the Library in 1951.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

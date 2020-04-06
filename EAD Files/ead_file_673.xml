@@ -1,0 +1,151 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:673">687</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hammet-Talbot-Goodell Families. Papers</titleproper>
+               <titleproper type="filing">Hammet-Talbot-Goodell Families Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hammet-Talbot-Goodell Families. Papers
+                              <date normal="1816/1994" encodinganalog="260$c">1816/1994</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hammet-Talbot-Goodell Families. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1816/1994">1816-1921, 1994</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">687</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hammet-Talbot-Goodell Families" source="lcnaf" role="Collector">Hammet-Talbot-Goodell Families</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 microfilm reel</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hammet-talbot-goodell.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Industrial University (Urbana, Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Preston, John Smith, 1809-1881</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Talbot, A. N. (Arthur Newell), 1857-1942</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Engineering</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                       <subject encodinganalog="650" source="lcsh">Slavery</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the personal papers of the Hammet, Talbot, and Goodell families. Papers include correspondence, diaries, genealogies, financial records, and other materials.</p>
+                                 <p>John Hammet (1795-1834) emigrated from County Cork, Ireland, to Virginia in 1816. From 1818 to 1826, he worked as an overseer in Montgomery County, Virginia, for General John Preston, an influential politician and member of southwest Virginia&#039;s leading family. Five of Hammet&#039;s relatives followed him to Virginia between 1816 and 1830. One, half-brother William Hammet (1799-1861), became chaplain of the University of Virginia and later a Mississippi congressman. In 1826, John Hammet moved to Bourbon County, Kentucky, as a partner of James McDowell, who later served as governor of Virginia. In 1828, Hammet moved to Illinois, followed by several relatives.</p>
+                                 <p>In 1886, Hammet&#039;s granddaughter Virginia married Arthur Newell Talbot (1857-1942). Talbot was the grandson of George Newell (1795-1878), an English immigrant farmer who settled in Illinois in 1851. In 1881, Talbot graduated from the Illinois Industrial University (now the University of Illinois at Urbana-Champaign) with a degree in civil engineering. After working for several western railroad companies, he joined the faculty of his alma mater in 1885, where he remained until 1926. Talbot&#039;s daughter, Dorothy, married Warren Franklin Goodell (1899-1965), a member of one of central Illinois&#039; most important commercial families.</p>
+                                 <p>The collection is organized in three series: Hammet Family Papers (1817-1865), Talbot Family Papers (1851-1921, 1994), and Photocopies.</p>
+                                 <p>The Hammet Family Papers series contains correspondence between family members and acquaintances, as well as financial and legal records. Notable correspondents include James McDowell, James Preston, John Preston, and William R. Preston. Topics discussed include agricultural practices in the free and slave states, brewing and distilling on the frontier, family life, Illinois Industrial University, milling, political issues from Virginia&#039;s 1830 constitutional convention, railroads, religion, and teaching. Several of John Hammet&#039;s letters describe how slavery was practiced in the south.</p>
+                                 <p>The Talbot Family Papers series contains correspondence, diaries, genealogies, poetry, financial and legal records, and printed material. The papers of George Newell focus primarily on farming conditions in Illinois and the family&#039;s financial records. His grandson, Arthur Newell Talbot, maintained a large letterbook discussing topics related to his field of civil engineering and his choice to join the faculty of Illinois Industrial University. His wife Virginia Hammet Talbot&#039;s papers pertain to her genealogical work on the Hammet family, specifically on William and John Hammet. Their daughter, Dorothy Talbot Goodell, continued her mother&#039;s genealogical work later on.</p>
+                                 <p>The Photocopies series contains photocopies of original materials. As noted within the inventory, there are a few documents that exist only in photocopy form. These photocopies can be found in boxes 3 or 4 as indicated in the inventory.</p>
+                                 <p>The Library acquired the collection in a series of deposits beginning in 1978.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

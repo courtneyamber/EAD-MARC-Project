@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:553">562</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Crabbs, Clarence Lincoln. Letters</titleproper>
+               <titleproper type="filing">Crabbs: Clarence Lincoln Crabbs Letters</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Crabbs, Clarence Lincoln. Letters
+                              <date normal="1886/1935" encodinganalog="260$c">1886/1935</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Crabbs, Clarence Lincoln. Letters                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1886/1935">1886-1935</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">562</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Crabbs, Clarence Lincoln" source="lcnaf" role="Collector">Crabbs, Clarence Lincoln</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Harrison, Carter H. (Carter Henry), 1825-1893</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, William Sooy, 1830-1916</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Pullman Strike, 1894</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">World&#039;s Columbian Exposition (1893 : Chicago, Ill.)</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the transcribed personal letters of Clarence Lincoln Crabbs, a University of Illinois alumnus and engineer.</p>
+                                 <p>Clarence Lincoln Crabbs (b. 1866) was born in Decatur, Indiana, and raised in Gibson City, Illinois. In 1890, he graduated first in his class at the University of Illinois. As a student, Crabbs served as the Business Manager of the <emph render="italic">Illini</emph>, held the rank of major in the university&#039;s cadet corps, and played on the first football team. After graduation, Crabbs moved to Chicago where he worked as an engineer for the Metropolitan West Side Elevated Railroad Company. By 1900, he relocated to Moline, Illinois to work as a civil engineer. Later in life Crabbs lived in Brooklyn, New York before retiring to Florida.</p>
+                                 <p>The collection includes a bound volume of typescript copies of his letters. Crabbs&#039;s sister, Josephine, transcribed Crabbs&#039;s letters to his parents and siblings from 1886 to 1901 and from 1917 to 1935. Josephine included a list of notes in the front as well as her editorâs notes throughout. The volume also contains some original pages of correspondence and photographs of Clarence Crabbs pasted onto pages. Crabbsâs letters from his time at the University of Illinois (1886-1890) describe campus activities, coursework, military training, and the university band. Crabbs&#039;s letters from Chicago include references to his work on the elevated train, General William Sooy Smith, the 1893 World&#039;s Fair, the assassination of Mayor Carter Harrison, and the Pullman Strike. Correspondence from 1917-1935, when Crabbs lives in New York, is more personal in nature, as Crabbs mainly writes about family matters and his health. The transcription ends with select passages from Crabbsâs notebook. The volume was given by Josephine to Crabbsâs daughter, Helen Rippey.</p>
+                                 <p>Photocopies of pages 1 through 83 of the bound volume were made, covering the period when Crabbs attended University of Illinois from 1886-1890.</p>
+                                 <p>The photocopies were donated to the Illinois History Survey, predecessor to the Illinois History and Lincoln Collections, by Helen and Arthur Rippey in 1986, and the bound volume was acquired by the Survey in 2004.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

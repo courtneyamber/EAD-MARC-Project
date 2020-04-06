@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:64">063</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the League of Women Voters of Champaign County, Ill. Records</titleproper>
+               <titleproper type="filing">League of Women Voters Champaign County, Ill, Reco</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the League of Women Voters of Champaign County, Ill. Records
+                              <date normal="1870/2009" encodinganalog="260$c">1870/2009</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">League of Women Voters of Champaign County, Ill. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1870/2009">1870, 1918-2009</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1922-2009</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">063</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="League of Women Voters, Champaign County, Ill." source="local" role="Collector">League of Women Voters, Champaign County, Ill.</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">19.80</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/lwv-champaigncounty.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois League of Women Voters</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">National League of Women Voters (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of records from the League of Women Voters of Champaign County (LWV), located in Urbana, Illinois. Records include scrapbooks, minutes, reports, newspaper clippings, correspondence, newsletters, and other materials.</p>
+                                 <p>The League of Women Voters of Champaign County was formed in 1922. As noted in their website in 2016, the LWV is a non-partisan organization that &quot;promotes civic involvement by studying community issues, encouraging voter registration, observing governmental meetings, and sponsoring candidate forums.&quot;</p>
+                                 <p>The collection is organized into a series of four accessions: 1972; 1983; 1997, 2000, and 2007; and 2011.</p>
+                                 <p>The 1972 accession consists of materials dating from 1922 to 1976 (additional materials were most likely received in the mid- to late 1970s). Records in this accession include Board of Directors minutes, general meeting minutes, officer reports, and financial ledgers. Also included in this accession are scrapbooks, which hold newspaper clippings regarding the various activities, interests, and meetings of the LWV. Topics include civil rights, sanitation, public housing, welfare, and other issues.</p>
+                                 <p>The 1983 accession contains records dating from 1870 to 1980, although the bulk of the material dates from the 1930s through 1980. It includes records concerning Illinois state constitutional reform such as reports, petitioning materials, and newsletters. Also included are newspaper articles, outlines, and a report regarding the proposed merger of the cities of Champaign and Urbana.</p>
+                                 <p>The 1997, 2000, and 2007 accessions consist of materials dating from 1922 to 2007. These records include both Board of Directors and general meeting minutes, the history of the LWV, financial ledgers and papers, eleven scrapbooks containing clippings about the LWV&#039;s meetings and activities, and photographs. Also included are volumes related to particular governmental and social topics, such as judicial, educational, environmental, and health related issues.</p>
+                                 <p>The 2011 accession contains records from the 1950s to the late 2000s. This accession includes the LWV&#039;s Observer Corps Reports, in which neutral observers report on the activities of local governing bodies, including the cities of Champaign and Urbana, Champaign County, and various taxing districts in the county. The accession also contains material on the full range of programs supported by the League on local, state, and national levels.</p>
+                                 <p>This collection was donated to the Library in 1972, 1983, 1997, 2000, 2007, and 2011 by members of the League of Women Voters of Champaign County. Donations were made by Mary Blair in 1997, Jayne Burkhardt in 2000, Deborah Rugg in 2007, and Carole Rebeiz in 2011.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

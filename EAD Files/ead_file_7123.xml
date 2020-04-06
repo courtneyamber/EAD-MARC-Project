@@ -1,0 +1,113 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7123">1043</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Invitation to George C. Bestor and note</titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Invitation to George C. Bestor and note</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Invitation to George C. Bestor and note
+                              <date normal="1864" encodinganalog="260$c">1864</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Invitation to George C. Bestor and note                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1864">1864</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1043</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">2.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required. Please contact the Illinois History and Lincoln Collections for more information.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains an invitation requesting the company of George C. Bestor, a businessman and civil servant from Peoria, Illinois, and his wife, Sarah, at Abraham Lincoln&#039;s second inauguration ball on March 4, 1865. It also includes a note written by Lincoln concerning a visit from Bestor on March 21, 1865.</p>
+                                 <p>George Clinton Bestor was born in Washington, D.C., on April 16, 1811. Bestor served as a page and Assistant Document Clerk in the United States House of Representatives as a young man, and then moved to Illinois in 1835, making a home in Peoria, Illinois. He worked in real estate and directed several railroad companies. He was also elected or chosen for several civil positions, including Trustee, Postmaster, and Mayor, all positions he held in Peoria. He was also elected to the Illinois Senate, serving from 1858 to 1862. A Whig and then a Republican, Bestor was a supporter of Abraham Lincoln&#039;s campaigns for United States Senator and for President, and the two developed a friendship. Bestor died in Washington, D.C., on May 14, 1872.</p>
+                                 <p>The printed invitation, addressed to Mr. and Mrs. George Bestor, requests the couple&#039;s company at Abraham Lincoln&#039;s second inaugural ball, which was held on March 4, 1865. The note, a memorandum written in Lincoln&#039;s hand, refers to a visit from Bestor on March 21, 1865, which may have been connected to a contract Bestor had with the federal government to build gunboats. The note indicated that Bestor should not return to the White House concerning the matter, as Lincoln wrote &quot;I can do no better than I have already said.&quot;</p>
+                                 <p>A transcription of Lincoln&#039;s note can be found in <emph render="italic">The Collected Works of Abraham Lincoln</emph> (edited by Roy P. Basler <emph render="italic">et al.</emph>) in Volume 8, on page 369. However, the transcription incorrectly identifies Bestor as &quot;Benton.&quot; An online version of the transcription can be found through the online <emph render="italic">Collected Works</emph>: <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="https://quod.lib.umich.edu/l/lincoln/lincoln8/1:799?rgn=div1;view=fulltext">https://quod.lib.umich.edu/l/lincoln/lincoln8/1:799?rgn=div1;view=fulltext</extref>.</p>
+                                 <p>The invitation and note were donated to the Illinois History and Lincoln Collections by Letha Gast in 2016.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

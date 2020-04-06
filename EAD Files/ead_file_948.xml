@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:948">969</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hammond, Robert, Sr. Correspondence and other materials</titleproper>
+               <titleproper type="filing">Hammond, Robert, Sr. Correspondence and other materials</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hammond, Robert, Sr. Correspondence and other materials
+                              <date normal="1867/1921" encodinganalog="260$c">1867/1921</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hammond, Robert, Sr. Correspondence and other materials                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1867/1921">1867-1921</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">969</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hammond, Robert, Sr." source="local" role="Collector">Hammond, Robert, Sr.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hammond-robert.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">New York Juvenile Asylum</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Alabama--Huntsville</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New Jersey</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New York</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Weather</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>In 1859, Robert Hammond and his family emigrated from Castleblayney, County Monaghan, Ireland, to New York City. During the Civil War, he served in New York units, first for three months and then for three years, during which time his wife died. Matthew and John, the oldest of his five children, became newsboys in New York City and otherwise fended for themselves, while the younger children were placed in the New York Juvenile Asylum, from which they were bound out, Robert, Jr., and George to Jacob L. and John Smith, farmers near Duncan Mills, Fulton County, Ill., and Sarah (Sadie) to a family in Iowa.</p>
+                                 <p>After the war, Hammond enlisted in Co. A, 22<emph render="super">nd</emph> U.S. Infantry and was stationed at Fort Randall and Fort Rice in the Dakota Territory. He then either worked on a plantation or engaged in garden farming in Whitesburg (near Huntsville), Ala.</p>
+                                 <p>This collection contains letters from and about Hammond and also a 19-page typescript of those letters. In 1867, Jacob Smith assured him that his bound-out sons were satisfied with their situations. In the same year, Hammond wrote his older boys, sending them funds to pay off his creditors in New York and referring to the harsh weather and Indian troubles on the frontier.</p>
+                                 <p>Between 1872 and 1874, Hammond wrote to his son Robert as well as to Matthew. The indentures of his younger sons were coming to an end and the older sons had established themselves in business in New Jersey. As Hammond grew older, he turned to his children for support, asking for particular items of clothing. The collection also includes letters to Matthew Hammond from I. C. Underwood of Huntsville, Ala., who sought to be reimbursed for his expenses in caring for the senior Hammond before his death.</p>
+                                 <p>In 1921, Robert Hammond, Jr.&#039;s sister, Sarah Packard Andrew, who had moved from Keokuk, Iowa to Bloomington, Ill., wrote his widow, returning a newspaper clipping from her that reprinted the biographical sketch of Hammond in the <emph render="italic">Historical Encyclopedia of Illinois and History of Fulton County</emph>, ed. Newton Bateman, Paul Selby, and Jesse Heylin (Chicago: Munsell Publishing Co., 1908), 2:900.</p>
+                                 <p>The collection includes copies of a photograph of the younger boys in 1867, and of Hammond&#039;s clothing store in Paterson, N.J., in the 1870s, by which point the older boys had established themselves in business.</p>
+                                 <p>The letters, although fragmentary, illustrate the difficulties of a poor Irish emigrant family as it adjusted to life in America.</p>
+                                 <p>The collection was donated to the University of Illinois Library in 2012 by Robert Hammond, Sr.&#039;s great-grandson, Charles Hammond, Jr. of Key West, Fla., who received a B.A., M.A., and Ph.D. from the University. Dr. Hammond is a great-grandson of Robert Hammond, Sr.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

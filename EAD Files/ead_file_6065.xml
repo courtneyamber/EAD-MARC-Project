@@ -1,0 +1,127 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:6065">653</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hall, Arthur Raymond. Map Collection</titleproper>
+               <titleproper type="filing">Hall, Arthur Raymond. Map Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hall, Arthur Raymond. Map Collection
+                              <date normal="1928" encodinganalog="260$c">1928</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hall, Arthur Raymond. Map Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1928">1928</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">653</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hall, Arthur Raymond" source="local" role="Collector">Hall, Arthur Raymond, 1869-1955</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>For more information about Arthur Raymond Hall, please see the Arthur Hall Papers, 1897-1955 [RS 28/3/24] in the University Archives.</p>
+                                    <p>Information about related materials is available at http://archives.library.illinois.edu/archon/index.php?p=collections/controlcard&amp;id=5839</p>
+                              </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains three maps created by Arthur Raymond Hall. They illustrate Hall&#039;s proposal to construct paved roads across the United States during the early twentieth century.</p>
+                                 <p>Arthur Raymond Hall (1869-1955) was born in Tonica, Illinois. He attended the University of Illinois at Urbana-Champaign from 1897 to 1902, earning his Bachelor&#039;s degree in Law and Master&#039;s degree in English and Rhetoric. After graduating, Hall opened a law firm in Danville, Illinois, and in 1938, he became a probate judge of Vermilion County. In addition to his work as a lawyer and judge, Hall designed the first uniform system for building roads in the United States.</p>
+                                 <p>Hall created the maps in this collection in order to advance the Holaday bill. According to Hall in his address to the United States Good Roads Association, the bill would &quot;provide for the construction, maintenance, and regulation within and by the United States of America of a nation-wide system of durable hard-surfaced post roads.&quot; The bill was sponsored by William P. Holaday, who represented the Danville district in Congress from 1923 to 1933.</p>
+                                 <p>The collection contains three maps. The first is entitled <emph render="italic">United States Post Road Routes to be Paved under Holaday Bill</emph>, (Copyright Arthur R. Hall, Danville, Ill., 1928?). It depicts the continental United States, showing major cities in each state. The second map illustrates the proposed highways to be built. It is a translucent overlay to be placed onto the first map, and together they show where the proposed highways will be constructed and what cities they will connect. The third map is an opaque duplicate of the overlay.</p>
+                                 <p>In 1994, Arthur Raymond Hall, Jr. donated this collection to the Vermilion County Museum Society located in Danville, Illinois. In October of 1995, the Society&#039;s curator, Susan E. Richter, donated duplicates from the collection to the University of Illinois Library.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

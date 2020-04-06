@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:542">547</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Cohen, Sol B. Papers</titleproper>
+               <titleproper type="filing">Cohen: Sol B. Cohen Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Cohen, Sol B. Papers
+                              <date normal="1870/2010" encodinganalog="260$c">1870/2010</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Cohen, Sol B. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1870/2010">1870-1988</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">547</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Cohen, Sol B." source="lcnaf" role="Collector">Cohen, Sol B.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">30.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/cohensol.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">California--Los Angeles</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">France</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Luxembourg</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">North Carolina</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Peoria County--Peoria (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Cohen, Sol B., 1891-1988</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Orchestras</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1914-1918</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the personal and professional papers, correspondence, photographs, music compositions, and artifacts of Sol Cohen, a violinist, composer, and educator from Urbana, Illinois.</p>
+                                 <p>Sol B. Cohen was born in Urbana, Illinois, on January 11, 1891, the son of Nathaniel H. Cohen, a prominent Urbana cigar manufacturer, and Addie Bernstein Cohen. During the early 1900s, Cohen studied the violin with Emile Sauret in Chicago, Jeno Hubay in Budapest, and Ottokar Sevcik in Prague, in addition to studying music composition with Max d&#039;Ollone in Paris. He made his solo violin debut in Chicago in 1911, after which he played in the Cincinnati Symphony Orchestra, and joined the faculty of Peoria Musical College. After serving in World War I, Sol settled in Los Angeles, where he wrote scores for movies, performed live and for radio broadcasts, served as the musical director for the Ruth St. Denis and Ted Shawn Ballet, and performed with the Hollywood Bowl Orchestra. He published a number of songs with Katherine Bainbridge under the name &quot;Andre Vaneuf.&quot; Sol sojourned at the MacDowell Colony during the 1940s, where he became good friends with Marion MacDowell. Returning to Illinois later in life, Cohen taught music at a variety of schools, including Champaign Centennial High School, and taught music and the violin privately in the Champaign-Urbana area.</p>
+                                 <p>The correspondence in the collection is extensive for all periods, and includes Katherine Bainbridge, Marion Bowen, Josephine Curtis, Josephine Dale, Gertrude Hoover and her daughters, Anne Marie Osberg, May Ulrich, and Laura Evangeline Lovett Murphy. International correspondents include Sisy Beringer and Erzsi Guthi. The correspondence from Charles Wakefield Cadman, Ruth St. Denis, Artie Mason Carter (of the Hollywood Bowl), and Marion MacDowell is particularly significant, as are letters from Max Frankel, Emma Goldman, Max Kaplan, William Maxwell, John Cowper Powys, Abram Leon Sachar, and Sara Teasdale Filsinger. Local correspondents include Garreta Busey, Jean Busey Yntema, and Boris and Lillian Katz. In addition, there is substantial undated correspondence between Cohen and his brother Julius, and several letters written from the Western Front during World War I, many of which were published in local newspapers.</p>
+                                 <p>Cohen&#039;s diaries are also extensive, especially for the period from 1950 to 1980, and the collection also contains essays, fiction, and the manuscript for his <emph render="italic">Years of Pilgrimage: Memoirs of an American Musician </emph>(1982). In addition, there are boxes of Cohen&#039;s manuscript music, from complete works to fragments; a few of Cohen&#039;s published musical works; and numerous published works by Cadman and other composers. The collection also includes a large number of photographs, documenting the Cohen family at nearly every age, with many friends appearing as well. Other materials include royalty statements, performance programs, clippings, a handful of recordings, a small collection of books, and a film featuring Cohen.</p>
+                                 <p>Sol B. Cohen donated the collection to the Library in 1980. In 2010, Carole Appel of Dover, N.H., who had facilitated the publication of <emph render="italic">Years of Pilgrimage,</emph> added to the collection, correspondence, announcements, promotions, and photographs relating to the preparation of Sol Cohen&#039;s manuscript for publication, along with typescript drafts of the memoir. Drawing on her experience as an editor of the University of Illinois Press from 1969 to 1993, she copy-edited the book, arranged for it to be printed, and prepared promotional material to accompany its publication.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

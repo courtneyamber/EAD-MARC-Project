@@ -1,0 +1,152 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:872">990</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Spitler, Noble &amp; Co., Mattoon, Ill. Drafts of Sanborn Maps</titleproper>
+               <titleproper type="filing">Spitler, Noble &amp; Company, Mattoon, Ill. Sanborn Maps Drafts.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Spitler, Noble &amp; Co., Mattoon, Ill. Drafts of Sanborn Maps
+                              <date normal="1889/1897" encodinganalog="260$c">1889/1897</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Spitler, Noble &amp; Co., Mattoon, Ill. Drafts of Sanborn Maps                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1889/1897">1889-1897</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">990</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Spitler, Noble &amp; Company Insurance Agency, Mattoon, Ill." source="lcnaf" role="Collector">Spitler, Noble &amp; Company Insurance Agency, Mattoon, Ill.</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Sanborn Map Company</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Bureau County--Walnut (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Christian County--Taylorville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Clark County--Casey (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Clark County--Marshall (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Humboldt (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Mattoon (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Oakland (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cumberland County--Jewett (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cumberland County--Neoga (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Douglas County--Tuscola (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Effingham County--Altamont (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Effingham County--Effingham (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Effingham County--Montrose (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Jasper County--Newton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Logan County--Mt. Pulaski (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Macon County--Decatur (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Montgomery County--Irving (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Montgomery County--Litchfield (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Morgan County--Jacksonville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Moultrie County--Allenville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Moultrie County--Bethany (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Moultrie County--Gays (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Shelby County--Shelbyville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Shelby County--Stewardson (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Shelby County--Strasburg (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Wayne County--Fairfield (Ill.)</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Spitler, Noble &amp; Co. of Mattoon, Ill. compiled this ledger for the Sanborn Co. The ledger illustrates the fire insurance system of the Sanborn Co. It contains hand-drawn maps of miscellaneous properties in 27 Illinois towns as well as notes on policy holders&#039; insurance and mortgage rates. Among the properties depicted in the volume are farm buildings, flour mills, grain elevators, hay presses, private homes, and town halls. The volume includes about 50 pages of data and a dozen tipped-in or loose pages.</p>
+                                 <p>Towns represented include Allenville, Altamont, Bethany, Casey, Charleston, Decatur, Effingham, Fairfield, Gays, Humboldt, Irving, Jacksonville, Jewett, Litchfield, Marshall, Mattoon, Montrose, Mt. Pulaski, Neoga, Newton, Oakland, Shelbyville, Stewardson, Strasburg, Taylorville, Tuscola, and Walnut, Ill., and Batesville, Ind. Many of the properties were owned by the Arthur Jordan Company, a regional dealer in eggs and poultry whose headquarters were in Indianapolis.</p>
+                                 <p>The University of Illinois Library acquired the volume from the Urbana Free Library in 2004.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

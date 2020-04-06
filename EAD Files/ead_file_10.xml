@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:10">009</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Brichford, Maynard J. Political Ephemera Collection</titleproper>
+               <titleproper type="filing">Brichford, Maynard J. Political Ephemera Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Brichford, Maynard J. Political Ephemera Collection
+                              <date normal="1953/2012" encodinganalog="260$c">1953/2012</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Brichford, Maynard J. Political Ephemera Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1953/2012">1953-2012</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">009</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Brichford, Maynard J" source="lcnaf" role="Collector">Brichford, Maynard J</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/brichford-political.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Brichford, Maynard J.</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Political campaigns</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of political ephemera from Maynard J. Brichford, former University Archivist for the University of Illinois at Urbana-Champaign. Brichford collected a variety of political ephemera promoting candidates for federal, state, and local elections. The collection includes campaign flyers, newspaper clippings, voters&#039; guides, correspondence, and other materials.</p>
+                                 <p>The political ephemera in this collection highlights elections at various levels of government. Federal elections include U.S. Presidential and U.S. Congressional offices. State elections include offices for Governor, State Representatives, Secretary of State, and other positions for the state of Illinois, although a few materials cover Indiana, Ohio, and Wisconsin state offices. Local elections include seats for school boards, County Auditor, Mayor, and other positions for Champaign County, although Sangamon County political ephemera can also be found in the collection. Both Champaign and Urbana, Illinois, are represented in Champaign County elections.</p>
+                                 <p>This collection is comprised of five series: Campaign Flyers (Series I), Politicians&#039; Updates to Constituents (Series II), Political Organizations&#039; Publications (Series III), Miscellaneous (Series IV), and Mixed Political Ephemera (Series V).</p>
+                                 <p>Series I offers insight into campaign marketing throughout the 1970s and 1980s up until 1990. The campaign flyers cover a wide variety of elections, ranging from local Champaign County Treasurer to President of the United States. Campaign flyers include background information on the candidate, the position he or she is running for, past achievements, future plans of action if he or she is elected, and other information related to the election. Also included in the series are letters of recommendation from neighbors, friends, community members, or other politicians urging the reader to vote for a specific candidate. Other formats of campaign material include brochures, pamphlets, and newsletters.</p>
+                                 <p>Series II contains correspondence and newsletters sent by elected politicians to their constituents, offering updates on their terms in office. U.S. Congressional, Illinois State, and local Champaign County political offices are represented under Series II. Elected officials discuss topics such as budgets, property development, international relations, voting records, agriculture, Social Security, bills, and other issues. These letters offer insight into contemporary issues, as well as the accomplishments of elected politicians.</p>
+                                 <p>Series III highlights the variety of issues raised by political groups, such as nuclear arms, inflation, foreign policy, and other topics. Ephemera includes letters, pamphlets, and newsletters. Candidates and/or elected officials who were supported by an organization, such as the Political Action Committee for Survival&#039;s (PACS) support of Congressman Dan Crane in 1986, appear in the material. Newsletters also offer a glimpse into the administrative functions of local political groups, discussing upcoming meetings, recent chair appointments, and other organizational updates.</p>
+                                 <p>Series IV includes a miscellaneous collection of materials, such as newspaper clippings, election guides, newsletters, proposed amendments to the Constitution of Illinois, campaign flyers, and other assorted ephemera. The topics discussed in the materials include upcoming elections, political candidates, foreign policy, Urbana events and programs, firearm control, and other issues.</p>
+                                 <p>Series V consists of materials Brichford donated after the collection was originally processed, and it contains the bulk of the material in the collection. The records are organized chronologically and include the types of material found in Series I through IV. While the dates range from the 1950s to 2012, most of the records originate from the 1990s and 2000s.</p>
+                                 <p>Former University Archivist Maynard J. Brichford donated the items contained in Series I through IV between 1982 and 1987. Brichford donated additional items between 1990 and 2015, which are organized under Series V. Library staff also supplemented the collection with several related items.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

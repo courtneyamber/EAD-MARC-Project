@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:805">809</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Cunningham Children&#039;s Home Records</titleproper>
+               <titleproper type="filing">Cunningham Children&#039;s Home. Records.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Cunningham Children&#039;s Home Records
+                              <date normal="1895/2005" encodinganalog="260$c">1895/2005</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Cunningham Children&#039;s Home Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1895/2005">1895-2005</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">809</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Cunningham Children&#039;s Home" source="lcnaf" role="Collector">Cunningham Children&#039;s Home</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">18.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/cunninghamchildrenshome.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">United Methodist Women (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Group homes for youth</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of records from the Cunningham Children&#039;s Home, located in Urbana, Illinois. Records include ledgers, correspondence, reports, yearbooks, minutes, newsletters, photographs, newspaper articles, and other materials.</p>
+                                 <p>The Cunningham Children&#039;s Home was founded in 1894 by two of Champaign County&#039;s early settlers, Judge Joseph O. Cunningham and his wife Mary. The Cunninghams, who were childless, donated fifteen acres of farm land and their stately Urbana mansion to the Methodist Episcopal Church for the establishment of a Deaconess Home and Orphanage. Judge and Mrs. Cunningham died in 1917 and 1921 respectively. The Cunningham Children&#039;s Home has been under the stewardship of the United Methodist Women since 1895. As noted on their website in 2016, Cunningham Children&#039;s Home is a &quot;child welfare and educational services agency&quot; that serves &quot;close to 300 children, youth, young adults, and their families each year.&quot;</p>
+                                 <p>The collection was donated in a series of four lots by the Cunningham Board of Directors. Lot 1 was acquired in 1981, Lot 2 in 1984, Lot 3 in 1995, and while the date of donation for Lot 4 is unknown, it was processed in 2016.</p>
+                                 <p>Lot 1 contains materials dating from 1895 to 1982. Records in this lot include Board of Directors minutes that cover the first 51 years of Cunningham&#039;s history. Ledger books and treasurers&#039; reports list contributions to Cunningham, from home-canned fruit and homemade clothing, to cash, stock, and farm land. Both legal counsel and farm managers have kept detailed records of their activities. The role of the Methodist Church in Cunningham&#039;s development is clearly outlined in correspondence and reports, and the more recent role of state child welfare agencies may also be seen in evaluations of the Cunningham organization, staff, and facilities. This lot also includes photographs, press releases, newspaper clippings, newsletters, and anniversary publications, which document Cunningham&#039;s relationship with the community.</p>
+                                 <p>Lot 2 includes records dating from 1895 to 1975. This lot highlights financial and fundraising activities for Cunningham Children&#039;s Home. Correspondence regarding donations and gifts to CCH are organized alphabetically. Building fund records include correspondence, pledge cards, and contracts. Also included in the collection are thirteen papers from the 1975 Advertising 281 class at the University of Illinois, where students designed a fund drive for Cunningham as part of an assignment.</p>
+                                 <p>Lot 3 contains materials dating from 1931 to 1994. This lot offers insight into the administrative functions of CCH with records including bylaws, annual reports, incorporation documents, Board of Directors and committee minutes, and building and maintenance inspections. The collection also includes progress reports, correspondence, studies, a certificate, and other materials regarding child welfare at CCH. Also included in Lot 3 are materials related to community relations such as CCH promotional materials, fundraising plans, event information, and Development Committee minutes. Event information includes building dedications and a former Board Members luncheon, which give a glimpse into CCH&#039;s presence in community news.</p>
+                                 <p>Lot 4 includes records dating from 1982 to 2005. This lot consists mostly of publication materials, including newsletters and event programs. Newsletters discuss administrative and financial information, upcoming events, short biographies of staff and participants, partnerships with other groups, and program updates. Three event programs from 2005 include fundraising opportunities such as the Festival of Quilts, as well as anniversary celebrations that highlight Cunningham&#039;s history. Also included in Lot 4 is an undated CCH promotional button with the saying &quot;Kids&#039; Needs First&quot; on it.</p>
+                                 <p>The Cunningham Children&#039;s Home Board of Directors donated this collection to the Library in 1981, 1984, and 1995. The materials found in Lot 4 were sent over the course of several years to the Library and Library staff beginning in 1982.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

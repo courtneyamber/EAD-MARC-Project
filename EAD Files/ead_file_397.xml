@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:397">397</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Williams, Wesley (1792-1870). Letters</titleproper>
+               <titleproper type="filing">Williams, Wesley</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Williams, Wesley (1792-1870). Letters
+                              <date normal="1839/1870" encodinganalog="260$c">1839/1870</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Williams, Wesley (1792-1870). Letters                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1839/1870">1839-1870</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">397</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Williams, Wesley" source="lcnaf" role="Collector">Williams, Wesley</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">13.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 folder</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">California</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Carthage (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Elvaston (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Warsaw (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Crops</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Methodist</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mines and mineral resources</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mormonism</subject>
+                                       <subject encodinganalog="650" source="lcsh">Religion</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Wesley Williams moved with his family from Montgomery County, Kentucky, to Adams County, Illinois, in 1825. In the 1830s he became an early settler of Hancock County and built one of the first houses in Carthage. There, and later at nearby Elvaston, he held various public offices, including justice of the peace, circuit court clerk, probate court judge, and postmaster. He also owned a grist and saw mill.</p>
+                                 <p>This collection consists of letters from Williams to his family. Eight letters, 1839-49, are to his son John Wesley Williams, of Bourbon County, Kentucky. Subsequent letters are to &quot;children,&quot; &quot;grandchildren,&quot; or simply &quot;daughter.&quot; The letters relate to farming, crop prices, family news, the Mormons, the Methodist Church, an 1849 cholera outbreak in Warsaw, Illinois, and the experiences of Williams&#039; pro-Union family members living in Kentucky during the Civil War. Several letters in 1849 refer to a team of prospectors Williams hired to mine for gold in California during the Gold Rush. The collection also contains an obituary of Williams, written by his Masonic brethren.</p>
+                                 <p>Miriam E. Williams donated typescripts of the letters to the Illinois Historical Survey in 1974.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

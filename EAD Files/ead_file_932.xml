@@ -1,0 +1,138 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:932">955</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Alayu Family. Papers</titleproper>
+               <titleproper type="filing">Alayu Family. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Alayu Family. Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Alayu Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1889-2010</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">955</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Alayu Family" source="local" role="Collector">Alayu Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/alayufamily.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Institute of Technology</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Lewis Institute</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Order of the Knights of Rizal</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Chicago</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Philippines--Nueva Vizcaya</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Washington--Sunnyside</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Emigration and immigration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Filipino Americans</subject>
+                                       <subject encodinganalog="650" source="lcsh">Filipino students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gaddang language</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military occupation</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1939-1945</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Alayu Family collection documents the experiences of an immigrant Filipino family living in Chicago during the twentieth century. The earliest materials relate to the family&#039;s patriarch, Joaquin Alayu (1867-1947), who lived and farmed in Solano, Nueva Vizcaya, Philippines, for much of his life. A diary and correspondence written in the Gaddang language are included in his papers. The collection also contains materials related to Joaquin&#039;s son, Francisco (&quot;Frank&quot;) P. Alayu (1894-1982), who immigrated to Sunnyside, Wash., in the 1920s to attend preparatory school and worked as a clerk at the University of Chicago Library for much of his career. Other family members represented in the collection are Francisco&#039;s wife, Melchora G. Alayu (1896-1988), a clerk at Argonne National Laboratory, and their daughters, Jane (Juana) Teresa Alayu (1926-2009), a one-time president of the Midwest Chapter of the Filipino American National Historical Society, and Fran Alayu Womack (1932-), a treasurer for that organization. There are no papers for another daughter, Ethel Alayu Parisot (1929-2003), a teacher, although she is mentioned in letters throughout the collection.</p>
+                                 <p>The collection contains diaries; correspondence; papers related to the family&#039;s agricultural, financial, and real estate interests; and family photographs. The correspondence relates in part to the Japanese occupation of the Philippines during World War II, life in the Philippines during World War II, life in the post-War Philippines, the experiences of Filipino students in the United States, and family news.</p>
+                                 <p>The collection also documents civil court cases relating to the Alayu family&#039;s real estate properties in Solano, Nueva Vizcaya, Philippines.</p>
+                                 <p>In addition, the collection includes correspondence, event programs, and photographs related to Filipino-American organizations and social clubs based in Chicago, including the Filipino Community Center, Filipino National Council, and Nueva Vizcaya Association.</p>
+                                 <p>The collection was donated to the Library by Fran Alayu Womack in 2011.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

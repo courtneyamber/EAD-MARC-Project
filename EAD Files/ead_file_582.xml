@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:582">593</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Dohrman, Arnold Henry (1749-1813). Papers</titleproper>
+               <titleproper type="filing">Dohrman: Arnold Henry Dohrman Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Dohrman, Arnold Henry (1749-1813). Papers
+                              <date normal="1777/1833" encodinganalog="260$c">1777/1833</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Dohrman, Arnold Henry (1749-1813). Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1777/1833">1777-1833</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">593</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Dohrman, Arnold Henry" source="lcnaf" role="Collector">Dohrman, Arnold Henry, 1749-1813</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">New York--New York City</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Portugal--Lisbon</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Occupation:</head>
+                                       <occupation encodinganalog="656" source="lcsh">Merchants</occupation>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Napoleonic Wars, 1800-1815</subject>
+                                       <subject encodinganalog="650" source="lcsh">Treaties</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Revolution, 1775-1783</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                        <altformavail encodinganalog="530">
+                     <head>Electronic Format:</head>
+                                             <p>Originals form part of the Rattermann Collection.</p>
+                                             <p>http://www.library.illinois.edu/ihx/archon/index.php?p=collections/controlcard&amp;id=210</p>
+                              </altformavail>
+            </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Dohrman brothers were merchants who operated two offices of their mercantile house-- Jacob Dohrman in Lisbon and Arnold Henry Dohrman in New York. Their correspondence reports on arrivals of vessels, cargoes, prices of commodities, and general information concerning trade conditions in Europe, especially in Portugal and Spain during the period 1777-1808. Other correspondence reveals the assistance given by Arnold Dohrman to American sailors imprisoned in Portugal during the American Revolution, and his later claims to Congress for compensation for his services. The collection also contains a 1784 letter from Arthur Lee to his brother, Richard Henry Lee, in which Arthur Lee refers to the situation between American and British in regard to the Canadian border and treaties with Native Americans. Later correspondence includes accounts of the Napoleonic wars, including a description of the death of Lord Nelson.</p>
+                                 <p>This collection contains translations and copies of materials found in A.20.1.1 through A.20.5.1 of the <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.library.illinois.edu/ihx/archon/index.php?p=collections/controlcard&amp;id=210">Heinrich A. Rattermann Collection</extref>.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

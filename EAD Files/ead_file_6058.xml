@@ -1,0 +1,140 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:6058">515</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Caldwell, Edward. Cherry Mine Disaster Research Collection</titleproper>
+               <titleproper type="filing">Caldwell, Edward. Cherry Hill Mine Disaster Research Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Caldwell, Edward. Cherry Mine Disaster Research Collection
+                              <date normal="1903/2007" encodinganalog="260$c">1903/2007</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Caldwell, Edward. Cherry Mine Disaster Research Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1903/2007">1903-2007</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">515</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Caldwell, Edward" source="local" role="Collector">Caldwell, Edward</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 oversized folder</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/caldwell_cherry-mine-disaster.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Bureau County--Cherry (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Cherry Mine Disaster, Cherry, Ill., 1909</subject>
+                                       <subject encodinganalog="650" source="lcsh">Coal mine accidents</subject>
+                                       <subject encodinganalog="650" source="lcsh">Coal mines and mining</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mines and mineral resources</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                                    <dao xlink:type="simple" xlink:href="https://digital.library.illinois.edu/collections/593ea720-7dc3-0134-1e9d-0050569601ca-d" xlink:actuate="onRequest" xlink:show="new">
+                        <daodesc>
+                           <head>Title:</head>
+                           <p>Born Digital and Digitized Content of the Edward Caldwell Cherry Mine Disaster Research Collection</p>
+                        </daodesc>
+                     </dao>
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains research copies of magazine and newspaper articles, books, reports, documents, photographs, and name indexes in both paper and digital formats related to the Cherry Mine disaster.</p>
+                                 <p>The St. Paul Coal Company opened a mine located in Cherry, Illinois in 1905. On November 13, 1909, a fire erupted and spread through parts of the mine. The two coal shafts were sealed with the goal of smothering the fire, but miners became trapped underground with a decreasing supply of oxygen. As a result of the fire, two-hundred fifty-nine men and boys lost their lives, and some of the survivors spent up to eight days in the mine before they were rescued. The disaster helped bring national media attention to the problems of child labor and mine safety. In 1910, the Illinois General Assembly enacted stronger laws for regulating safety in mining and passed legislation that would eventually become the Illinois Workmen&#039;s Compensation Act. The Cherry Mine disaster remains the deadliest coal mine fire in American history.</p>
+                                 <p>Edward E. Caldwell (1930-2015) was an engineer with an interest in local history. He began collecting and organizing materials related to the Cherry Mine disaster in 1975 and continued gathering research for the next thirty years. The materials were indexed and placed on DVDs, with additional copies located at the Illinois State Historical Society, the Abraham Lincoln Presidential Library, and the Princeton Public Library. Caldwell&#039;s research has been used in publications such as Karen Tintori&#039;s <emph render="italic">Trapped: the Cherry Mine Disaster of 1909</emph> (2002). Many original documents and photographs discovered by Caldwell became part of an exhibit which was created for the centennial of the disaster in 2009. The exhibit was displayed at the Princeton Public Library and the Abraham Lincoln Presidential Library.</p>
+                                 <p>The collection includes five series: Series I. Research articles and primary documents, Series II. Newspapers, reports, and publications, Series III. Indexes, Series IV. Photographs, diagrams, and maps, and Series V. Digital media.</p>
+                                 <p>Series I. (1903-2003) contains research information from primary and secondary sources grouped together by Caldwell. Primary documents include photographs of the monument to the victims of the disaster; reports by the Illinois Bureau of Labor, State Mining Inspector, Cherry Relief Commission, and the Union Executive Board; correspondence and telegrams between mining officials; statements of the Mining Commission of Illinois; notes from proceedings of the Coroner&#039;s Jury, Illinois Mining Commission, and Illinois Mining Inspectors; and writings from some of the trapped mine workers during the disaster. Other materials include newspaper clippings, articles from historic societies and magazines, and a paper presented to the Coal Mining Institute of America.</p>
+                                 <p>Series II. (1909-2003) consists of articles, reports, and other accounts of the disaster. These include newspaper articles from the <emph render="italic">Bureau County Republican </emph>and <emph render="italic">Bureau County Record</emph>; correspondence; articles and other papers related to George S. Rice, the Chief Mining Engineer of the U.S. Geological Survey, Department of the Interior; a copy of <emph render="italic">The Cherry Mine Disaster</emph> (1910) by F.P. Buck; and magazine articles.</p>
+                                 <p>Series III. (circa 2000) contains indexes created by Caldwell for works about the disaster. Included in this series are photographs, names, and letters of victims, indexes of names for reports, newspaper articles, and books about the disaster, and a directory of coal mines in northern Illinois.</p>
+                                 <p>Series IV. (1909-2003) contains visual material related to the disaster. It includes selected photographs related to the disaster and the mine location, indexes for the photographs, diagrams of the mine, and a map of Bureau County.</p>
+                                 <p>Series V. (2002-2007) includes digital copies on DVD of the information and documents mentioned above. One disk contains the <emph render="italic">Bureau County Republican</emph> articles, while the others contain copies of all of the documents in the collection. An updated version from 2007 consists of thirteen disks, including one master disk.  Some of the files from the disks made in 2007 as well as a master disk from 2006 will be available online and other materials from these disks will be available upon request.</p>
+                                 <p>Edward E. Caldwell donated this collection to the Library from 2005 to 2007.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

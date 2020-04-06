@@ -1,0 +1,155 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:234">234</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Riehl-Thompson Family. Papers</titleproper>
+               <titleproper type="filing">Riehl-Thompson Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Riehl-Thompson Family. Papers
+                              <date normal="1853/2010" encodinganalog="260$c">1853/2010</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Riehl-Thompson Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1853/2010">1853-2010</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">234</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Riehl-Thompson" source="local" role="Collector">Riehl-Thompson</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">4.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/riehlthompson.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois State Horticultural Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Northern Nut Growers Association</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Rantoul (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Alton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Godfrey (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Normal (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Missouri--St. Louis</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Rock Island County--Rock Island (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Schuyler County--Rushville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Addams, Jane, 1860-1935</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Alvord, Clarence Walworth, 1868-1928</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Forbes, Stephen Alfred, 1844-1930</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Horticulture</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)</subject>
+                                       <subject encodinganalog="650" source="lcsh">Methodist</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Missionaries</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Riehl-Thompson Family Papers contain materials collected from two related Illinois families: the Riehls of Godfrey, on the Mississippi River near Alton, and the Thompsons of Rushville, in Schuyler County.</p>
+                                 <p>The collection is divided into three parts.</p>
+                                 <p>Part One consists of personal papers from the Riehl family, including a family history, biographical sketches and obituaries, correspondence, newspaper and magazine clippings, annotated family photographs, publications and other writings, and ephemera. Family members whose papers are included in the collection are Emil A. Riehl (1837-1926), a leading horticulturalist and developer of new varieties of nuts, and his children Amelia Riehl (1877-1954), who managed the family farm after her father&#039;s death; Edwin H. Riehl (1868-1951), a horticulturist and writer; Emma Riehl Gibbens (1872-1956), who helped manage the farm; Frank C. Riehl (1867-1932), a poet and ammunition salesman; Helen Riehl McLennan (1869-1925), a musician and the first female secretary of the Alton Horticultural Society; Julia Riehl (1871-1940), who helped manage the farm; and Walter Riehl (1889-1957), a horticulturist.</p>
+                                 <p>Part Two consists of business papers from the E. A. Riehl Farm, &quot;Evergreen Heights,&quot; which was engaged in nut and fruit production. The farm business was continued after E. A. Riehl&#039;s death by his daughters, Amelia, Julia, and Emma, and by Emma&#039;s husband George Gibbens. The papers in this section include a history of the farm, correspondence, financial records, order and ledger books, ribbons and awards for nut and fruit production, photographs of fruits, nuts, and nut trees, newspaper and magazine clippings about the farm and its owners, brochures and other publicity materials, notes on fruit and nut growing, lists of nut growers, price lists, tests on various kinds of nut trees, and papers related to the Alton Horticultural Society, Illinois State Horticultural Society, and Northern Nut Growers&#039; Association, of which the Riehls were members. The bulk of the correspondence deals with farm business from 1882 to 1946. Much of the correspondence covers the period 1920-24. Frequent correspondents of E. A. Riehl and his daughters include N. F. Drake, a nut grower from Fayetteville, Ark., and C. A. Reed, who served as a pomologist in the U. S. Department of Agriculture. There is a lively correspondence with many nut growers and other experts in the field, including a Jan. 1902 letter from the Luther Burbank farm, a Nov. 1914 letter from Stephen A. Forbes, Illinois State Entomologist, a Nov. 1924 letter from A. S. Colby, Pomologist at the University of Illinois, and several 1922 letters from the Stark Brothers Nurseries, where the golden delicious apple originated. The majority of the business materials in the collection date from the late 1920s and the 1930s when the Riehl farm was administered by E. A. Riehl&#039;s daughters and son-in-law.</p>
+                                 <p>Part Three consists of personal papers from the Thompson family, including a family history, biographical sketches and obituaries, correspondence, newspaper and magazine clippings, annotated family photographs, publications and other writings, and ephemera. The Thompson family owned Gladacres, Inc., a tool manufacturing business based in Rushville that closed during the Great Depression. Family members whose papers are included in the collection are Anna Riehl Thompson (1881-1929) [daughter of Emil A. and Mathilda Riehl, and the link between the Riehl and Thompson families], a Methodist missionary and school teacher; her husband, J. Arthur Thompson (1883-1966), a missionary and founder of Gladacres, Inc.; members of the Arthur family, including the grandfather and mother of J. Arthur Thompson, Abraham Arthur (1824-98) and Margaret Jeanette &quot;Nettie&quot; Arthur Thompson (1862-1948); J. Arthur Thompson&#039;s sister, Essie Thompson Beckner; brothers, Jesse D. Thompson (1900-46), a plumber, and Walter Thompson (1890-1984); and their first cousin, Winford Thompson, a large-scale farmer in Uruguay. The collection also includes papers related to the children of Anna Riehl Thompson and J. Arthur Thompson: Alice Thompson Johnson, the wife of an Air Force pilot (once stationed in Greenland); Eleanor Thompson Dodds (1913-99), a school teacher; Ralph J. Thompson, a welder; Willard Thompson (1914-49); and Erwin A. Thompson (1915-), a writer. Papers from Erwin&#039;s wife Ruth Thompson (1916-2006), a teacher, and their daughters Janet Riehl (1948-), an author and performer, and Julia Thompson (1943-2004), a physics professor at the University of Pittsburgh, are also represented. Notable materials in the Thompson Family Papers include the college letters of J. Arthur Thompson (University of Illinois, B.S., 1905) and Anna Riehl Thompson (University of Illinois, B.S., 1908), and the couple&#039;s letters home from Korea, where they were Methodist missionaries from 1908 to 1914.</p>
+                                 <p>Erwin A. Thompson donated the collection to the Library in several installments from 1983 to 2010.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

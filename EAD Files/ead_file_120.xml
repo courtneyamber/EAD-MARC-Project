@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:120">119</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Meharry Family. Collection</titleproper>
+               <titleproper type="filing">Meharry Family Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Meharry Family. Collection
+                              <date normal="1842/1996" encodinganalog="260$c">1842/1996</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Meharry Family. Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1842/1996">1842-1996</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">119</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Meharry Family" source="lcnaf" role="Collector">Meharry Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">18.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/meharry.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Tolono (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Indiana--Tippecanoe County</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Crops</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of records and personal papers from the Meharry family. The Meharry family owned several farms in Champaign County, Illinois and Tippecanoe County, Indiana during the nineteenth and twentieth centuries. The collection includes correspondence, business records, photographs, newspaper clippings, and other materials.</p>
+                                 <p>Records and personal papers document the lives of several generations of the Meharry family of Tolono, Illinois, including Abraham Patton (A.P.) Meharry (1842-1908), Martha Jane (McMillin) Meharry, Charles Leo (C.L.) Meharry (b. 1885), Clara Esther (Burghardt) Meharry, and Rachel Elizabeth Meharry (b. 1917). C.L. Meharry owned several farms, including the A. P. Meharry Embarrass Farm in Tolono, Illinois (which he inherited from his parents), as well as the Odell Farm, the Ridgecrest Farm, and the Sugar Grove Farm, all located in Tippecanoe County, Indiana. Like his father, Charles was a progressive farmer and engaged in the planting of soybeans and the experimentation and sale of the seed for the legume Korean Lepedeza.</p>
+                                 <p>The collection is organized into 8 series, including: Personal Papers; Business Records; Meharry Family History; Photographs; Pamphlets, Fliers, and Handbills; Publications; Soil Maps; and Miscellaneous.</p>
+                                 <p>The Personal Papers series, dating from 1842 to 1976, contains personal correspondence, financial records, speeches, notebooks, and other materials. Correspondence includes letters between A.P. and Martha (McMillin) Meharry, as well as between C.L. and Clara Esther (Burghardt) Meharry. Letters between A.P. and Martha Meharry offer insight into the lives and emotions of nineteenth century farm families. Several of the letters contain comments on loneliness. Correspondence between C.L. and Clara Esther Meharry gives a glimpse of university life at the University of Illinois and Purdue University during the nineteenth century, including classes, sports, social events, and fraternity and sorority affairs. Also included in this series are graduation commencement programs and other college keepsakes.</p>
+                                 <p>The Business Records series, dating from 1848 to 1996, consists of correspondence and farm records for the Meharry farms. Records include soybean shipments, inventories, journal entries, contracts, and other materials. These documents offer insight into the daily operations and business of farming during the nineteenth and early twentieth centuries. The series also includes records documenting C.L. Meharry&#039;s work as an officer of the Central National Bank and Trust Company of Attica, Indiana.</p>
+                                 <p>The Publications series, dating from 1889 to 1992, includes newspapers, journals, and clippings of articles. Materials cover a variety of topics, including local news in Illinois and Indiana, farming techniques, and university news for Purdue and DePauw. Late nineteenth and early twentieth-century issues of the <emph render="italic">Champaign News-Gazette</emph> and the <emph render="italic">Tolono Weekly Herald</emph> are also included.</p>
+                                 <p>Rachel Elizabeth Meharry Newlin donated this collection to the Library in 1975. She made additional deposits in 1998 and 2001.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

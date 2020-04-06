@@ -1,0 +1,125 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:191">190</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Physician&#039;s Ledger, Sadorus, Ill.</titleproper>
+               <titleproper type="filing">Physician&#039;s Ledger, Sadorus, Ill.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Physician&#039;s Ledger, Sadorus, Ill.
+                              <date normal="1892/1918" encodinganalog="260$c">1892/1918</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Physician&#039;s Ledger, Sadorus, Ill.                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1892/1918">1892-1918</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">190</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Physician, Sadorus, Ill." source="lcnaf" role="Collector">Physician, Sadorus, Ill.</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Sadorus (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Occupation:</head>
+                                       <occupation encodinganalog="656" source="lcsh">Physician</occupation>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Medicine--practice</subject>
+                                       <subject encodinganalog="650" source="lcsh">Obstetrics</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This volume was used by an unknown physician in Sadorus, Ill., to record the names of his patients, their maladies, their treatment, and their bills (if they paid). Four pages of &#039;Obstetrics&#039; show how for a few years this unnamed doctor delivered two or three babies each month, recording the mode of delivery, length of labor, sex, condition, and the instances when the child or mother died. There is some evidence of abortions and of the sale of alcohol-as-medicine. Obstetrics (&#039;Ob care&#039; in the ledger) may have provided the most income, usually at $10.00 a visit; a few operations earned the doctor $25.00; while the great majority of entries are for $1.00 or less, to dispense powders, pills, frumentii, castoria, camphor, &#039;Wizard Oil,&#039; gin, iodine, Hire syrup, Pepsin syrup, salve, liniment, peruna, or just &#039;medicine.&#039; Catarrh, teeth, and broken bones are among the most common complaints. The ledger also documents the costs of the doctor&#039;s stock and other expenses in running the practice.</p>
+                                 <p>The patients&#039; means of payment included cash, notes, drayage, oats, lumber, labor, etc.  Some bills went unpaid for one to three years, and many are written off as &#039;Bad.&#039; Also noted are some rebates and credits to patients.  The patients came from throughout southwest Champaign County, a few from town, several from &#039;Campbell&#039;s Farm&#039; (probably that of David Campbell, five miles to the south), and a few from out of state.</p>
+                                 <p>The doctor also kept the dues and roster of the Sadorus Cornet-Band in 1906.</p>
+                                 <p>This ledger was acquired by the Library in 2005.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

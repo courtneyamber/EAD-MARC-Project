@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:823">827</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Sewell, Arthur E. Baseball Scrapbook and Photographs</titleproper>
+               <titleproper type="filing">Sewell: Arthur E. Sewell Scrapbook</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Sewell, Arthur E. Baseball Scrapbook and Photographs
+                              <date normal="1909/1915" encodinganalog="260$c">1909/1915</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Sewell, Arthur E. Baseball Scrapbook and Photographs                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1909/1915">1909-1915</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">827</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Sewell, Arthur E." source="lcnaf" role="Collector">Sewell, Arthur E.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/sewell.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Cubs (Baseball team)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Jo Daviess County--Galena (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kentucky--Lexington</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Logan County--Lincoln (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Winnebago County--Rockford (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Baseball</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the baseball scrapbook and photographs of Arthur E. Sewell.</p>
+                                 <p>Born in 1885, Arthur E. Sewell, a native of Huntley, Illinois, played catcher for several minor league baseball teams between 1909 and 1915. He began his minor league career in 1909 with the Galena Speed Boys (Galena, Illinois). The following year he played for the Lincoln Abes (Lincoln, Illinois) in the Class D Illinois-Missouri League and compiled the highest batting average of his career (.234). At the end of the 1910 season, he was drafted by the Chicago Cubs but was released after a week. In 1911, Sewell caught for the Lexington Colts (Lexington, Kentucky) of the Class D Blue Grass League, and in 1913-1914, he played for the Rockford Wolves (Rockford, Illinois) in the Wisconsin-Illinois League. He closed out his baseball career in 1915 with a Freeport, Illinois, team. The 1920 census indicates that Sewell was then working as a station agent in McHenry County, Illinois.</p>
+                                 <p>The scrapbook documents Sewell&#039;s baseball career. It includes newspaper clippings, scorecards, and other materials from 1909 to 1915. The collection also includes 14 photographs of Sewell and other players on the Galena, Lincoln, and Lexington clubs.</p>
+                                 <p>The collection was donated to the Library in 2009 by Daniel B. Potochniak with the assistance of Richard J. La Susa.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

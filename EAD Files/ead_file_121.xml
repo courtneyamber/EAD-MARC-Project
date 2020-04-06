@@ -1,0 +1,135 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:121">120</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Menard, Pierre (1766-1844). Papers</titleproper>
+               <titleproper type="filing">Menard: Pierre Menard Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Menard, Pierre (1766-1844). Papers
+                              <date normal="1741/1910" encodinganalog="260$c">1741/1910</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Menard, Pierre (1766-1844). Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1741/1910">1741-1910</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">120</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Menard, Pierre" source="lcnaf" role="Collector">Menard, Pierre</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.80</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">and 29 microfilm reels</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/menard-pierre.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Native Americans</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Randolph County--Kaskaskia (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of Pierre Menard&#039;s personal and business records, letter book, and microfilm containing personal and business correspondence of Menard, his family, and others.</p>
+                                 <p>Pierre Menard was born near Montreal, Canada. He moved to Kaskaskia in 1790, where he established himself as a prominent merchant and public figure. He took an active role in the early development of Illinois government, serving as a judge, militia colonel, representative in the territorial legislature, and sub-agent for the Kaskaskia United States Indian Department. Menard was elected the state&#039;s first lieutenant governor from 1818-1822.</p>
+                                 <p>This collection contains a letter book with 124 copies of letters by Menard. Also included is a letter from Sylvestre Saucier to his sister, Menard&#039;s wife, Angelique. Other materials include original account books, business ledgers, blotters, ferry books, journals, as well as school texts used by Menard&#039;s sons. There are several volumes recording items gifted to and traded with Native Americans. There are also transcripts and photocopies of various letters to and from Menard.</p>
+                                 <p>The collection also contains microfilm editions of the Menard Papers in the Abraham Lincoln Presidential Library. The microfilmed collection includes the personal correspondence and business papers of Pierre Menard and his family, the business ledgers of various merchants including Pierre Menard, Edmond Menard, Menard and Valle, Bryan and Morrison, and Burr and Christy. The microfilm also contains the business papers of French trader and Menard&#039;s business partner, Barthelemi Tardiveau. Included in the physical collection is a copy of the Illinois State Historical Society publication <emph render="italic">Guide to the Microfilm Edition of the Pierre Menard Collection in the Illinois State Historical Library</emph>.</p>
+                                 <p>The collection was acquired by the Illinois Historical Survey, predecessor of the Illinois History and Lincoln Collections, before 1950. The collection&#039;s microfilm was acquired in 1973 from the Illinois State Historical Library (now the Abraham Lincoln Presidential Library). The letter from Saucier was donated to the University of Illinois Library by the Nebraska State Historical Society in 2009.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

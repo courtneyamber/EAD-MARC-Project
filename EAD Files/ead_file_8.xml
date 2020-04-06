@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:8">007</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Bodman Family. Diaries, Correspondence, Papers</titleproper>
+               <titleproper type="filing">Bodman Family Diaries, Correspondence, Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Bodman Family. Diaries, Correspondence, Papers
+                              <date normal="1855/1973" encodinganalog="260$c">1855/1973</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Bodman Family. Diaries, Correspondence, Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1855/1973">1855-1903, 1973</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">007</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Bodman Family" source="lcnaf" role="Collector">Bodman Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 oversize</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/Bodman.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Piatt County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Piatt County--Bement (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Babesiosis in cattle</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Fishing</subject>
+                                       <subject encodinganalog="650" source="lcsh">Hunting</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The five Bodman brothers (Samuel, Lewis, Elam, Luther, and Joseph) and other relatives, including Sereno K. Bodman (son of Samuel Bodman), bought extensive tracts of land in Piatt County, Ill., in the 1850s, where several of the brothers settled to farm. The diaries in the collection include one of S. K. Bodman for 1857 which concerns daily life in Illinois, and seven diaries of Joseph Bodman which generally relate to fishing and hunting trips. The correspondence is mainly about farming and business matters. In addition, there are state and federal land warrants, and other business papers, including contracts, deeds, tax receipts, and mortgages. Other items are a Statement of Incorporation of the Bement Building and Loan Association, the Constitution and meeting notes of the Bement Lyceum (later the Bement Literary Society), and a copy of a petition to replace the postmaster of Bement in 1885. There are transcripts of all of the original items, with the exception of business papers. The collection also includes copies of thirty-one letters written by Lewis B. Bodman to members of his family.</p>
+                                 <p>The more recent items are a set of papers concerning the family history written or compiled by Mr. Robert Bodman of Chicago (grandson of S. K. Bodman). They include a set of biographical sketches, a set of copied obituaries, and an essay on, and map of, the Property and Estate of Joseph Bodman.</p>
+                                 <p>A major portion of the collection was donated to the Library by Robert Bodman of Bement, Illinois, in 1973. The 1866 diary and a copy of one letter were obtained through Robert Bodman from Alfred Bodman of Bement.</p>
+                                 <p>See also <emph render="italic">A Bodman Chronicle</emph> (1979) [929.2 B633b], and the Bodman Family Papers in the Sophia Smith College, Smith College, Northampton, Mass..</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

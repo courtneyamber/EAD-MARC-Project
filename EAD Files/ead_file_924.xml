@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:924">876</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Taylor, John Young. Album of a Traveling Salesman in Illinois</titleproper>
+               <titleproper type="filing">Taylor, John Young. Album of a Traveling Salesman in Illinois</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Taylor, John Young. Album of a Traveling Salesman in Illinois
+                              <date normal="1913" encodinganalog="260$c">1913</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Taylor, John Young. Album of a Traveling Salesman in Illinois                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1913">1913</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">876</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Taylor, John Young" source="local" role="Collector">Taylor, John Young</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Macon County--Decatur (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Bloomington (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Peoria County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Vermilion County--Danville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Presbyterian Church</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This volume is a record of the life of a commercial salesman who traveled across central Illinois between April and August, 1913. When in Decatur, he drew up a plan to issue a newspaper to be entitled &quot;The Far Goer: A Weekly Journal of the Open Road.&quot; The journal would be published by &quot;J. Egnor Rolyat.&quot; Spelled backward, &quot;Rolyat&quot; is &quot;Taylor,&quot; and that name can be used in this summary of his record book.</p>
+                                 <p>In the months documented by this volume, Taylor supported himself by obtaining orders in Danville, Champaign, Decatur, Springfield, Peoria, and Bloomington. It is not clear what he sold (perhaps orders for business cards and stationery), but he noted exactly whether his commission on each sale was &quot;rated&quot; or &quot;non-rated.&quot; (Possibly, he received a full &quot;rated&quot; commission if he dealt with an established business with a good credit rating such as R. G. Dun &amp; Co. established.) When sales played out, he walked to the next town or took the train or interurban.</p>
+                                 <p>Taylor&#039;s income from commissions was extremely modest, although it was slightly supplemented by remittances from &quot;the [Anti-Saloon?] League,&quot; whose literature he evidently distributed. Usually, he either camped on the road or rented a room in a boarding house in town. On the road, he slept in farm fields, school yards, even small or abandoned cemeteries. He drank from farm or town wells. He ate sparingly, and meticulously accounted for his expenses for bread, peanut butter, etc., the cost of which averaged 7 to 11 cents a day. He refused to take anything as charity. In return for a cherry pie, for example, he picked several pails of cherries.</p>
+                                 <p>Taylor relished the independent life of the open road. Three times in this volume, he described his 80-mile walk between Springfield and Peoria, when he never felt better. He ate and slept out every day, except for a single meal in a pub in Pekin. He strapped his sample goods, camping gear, and clothes to the wheel or cart that he guided along as he walked. He planned to attach another wheel to hold the paper and printing tools for his newspaper. The address that he gave for subscribers was apparently a family home: 34 W. 4<emph render="super">th</emph> St., Oswego, N.Y. (a town on Lake Ontario in upstate New York).</p>
+                                 <p>Taylor&#039;s paper would be &quot;filled with my footpath travel incidents.&quot; By 1913, he was 59 years old and the &quot;author of 40 years of diaries (still in Manuscript),&quot; a record of his travels &quot;from Maine to California and from Cuba to the North Pole (nearly).&quot; As a young man, he had worked in pre-Fire Chicago, where he apparently became familiar with printing techniques. He evidently pursued other pursuits for a time, for he also wrote in 1913 that he had &quot;at last, after 22 years,&quot; established &quot;the right idea about successfully going after orders.&quot;</p>
+                                 <p>Taylor&#039;s paper would also contain extracts from his reading. An autodidact, he read voraciously in the canon of English and American literature, from Shakespeare and Milton to Byron and Wordsworth to Emerson, Thoreau, and Whitman, but he gave equal attention to writers of his own day who are no longer read. During the week, he spent quite as much time reading for his own pleasure in local libraries or in his boarding-house room as in drumming up business. On Sundays, he often attended church, including the First Presbyterian in Springfield and the Second Presbyterian in Bloomington.</p>
+                                 <p>This volume is not only filled with extracts from the writers whom he read (hence making it a commonplace book), but also with postcards of the towns where he stopped, pictures of distant places, and book notices.</p>
+                                 <p>Taylor&#039;s diary contains 293 numbered pages, although pages 247-76 and 281-84 have been cut out. After page 246, he pasted in three pages of hotel stationery for entries on Aug. 17-18, 1913. His years as a drummer, income from the League, and plans for a newspaper are on 45, 120, and 123-28. Taylor&#039;s literary interests, his wide-ranging travels, and his independent (indeed, solitary) life make him an anomaly among the commercial salesmen depicted in Timothy B. Spears, <emph render="italic">100 Years on the Road: The Traveling Salesman in American Culture </emph>(1995). Taylor&#039;s record book came to the Library in 2010.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

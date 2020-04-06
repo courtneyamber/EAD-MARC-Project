@@ -1,0 +1,104 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7132">1003</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Moses, John. Letters</titleproper>
+               <titleproper type="filing">Moses, John. Letters</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Moses, John. Letters
+                              <date normal="1842/1845" encodinganalog="260$c">1842/1845</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Moses, John. Letters                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1842/1845">1842 and 1845</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1003</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Moses, John" source="local" role="Collector">Moses, John</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">2 items</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains two letters, dated 1842 and 1845, written by John Moses, a clerk and later an itinerant bookseller in Illinois, to his friend George Battles. The letters touched on politics and news and discuss various aspects of the book business.</p>
+                                 <p>John Moses clerked for a Mr. J J Turnbaugh in Pittsfield, in Pike County, Illinois, in 1842 and appears to have become an itinerant bookseller in Illinois in 1845. Itinerant booksellers worked much like traveling salesmen. In the two letters in this collection, which date from 1842 and 1845, Moses wrote to his friend George Battles, of Boonville, Missouri, and later Henry, Illinois.</p>
+                                 <p>In the first letter in this collection, written on December 22, 1842, from Pittsfield, in Pike County, Illinois, Moses described the town&#039;s divisive politics to his friend Battles. Moses lamented that Pittsfield was made up of primarily &quot;Locos,&quot; or Loco Focos, a faction of the Democratic Party that existed from 1835 until the mid-1840s. Moses described the relationship between Locos and Whigs and the bias of each party. Moses also suggested that the most common cause behind an individual&#039;s party affiliation was following the family&#039;s politics. In the second letter, written on August 14, 1845, Moses wrote to Battles from Henry, in Marshall County, Illinois, about his visit there and dismay that Battles was absent at the time. He described his enjoyment in the book business, especially because of the attractive young women he encountered in his work. He mentioned his last romantic interest, who resided in Peoria County. Moses went on to write that he planned to conclude his work in the book business in September and return to Perry, in Pike County, Illinois, to spend some time with the girls there before looking for a new venture.</p>
+                                 <p>The Library acquired this collection with support from Library Friends in 2018.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

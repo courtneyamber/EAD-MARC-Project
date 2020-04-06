@@ -1,0 +1,127 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4017">893</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Morton, Richard Allen. &quot;The Benevolent Boss:&quot; Roger C. Sullivan of Chicago (1861-1920)</titleproper>
+               <titleproper type="filing">Morton, Richard Allen. &quot;The Benevolent Boss: Roger C. Sullivan of Chicago&quot;</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Morton, Richard Allen. &quot;The Benevolent Boss:&quot; Roger C. Sullivan of Chicago (1861-1920)
+                              <date normal="2015" encodinganalog="260$c">2015</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Morton, Richard Allen. &quot;The Benevolent Boss:&quot; Roger C. Sullivan of Chicago (1861-1920)                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="2015">2015</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">893</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Morton, Richard Allen" source="local" role="Collector">Morton, Richard Allen</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sullivan, Roger C. (Roger Charles), 1861-1920</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Richard Morton&#039;s study of &quot;The Benevolent Boss: Roger C. Sullivan and the Rise of the Chicago Democratic Organization, 1861-1920,&quot; sets forth in detail the remarkable political career of Roger C. Sullivan. Sullivan was the principal founder and the first boss of the Chicago Democratic organization, or &quot;machine,&quot; which he and his partner, John P. Hopkins, led for some twenty years.</p>
+                                 <p>This collection includes both a typescript and a disc of Morton&#039;s 740-page manuscript on Sullivan.</p>
+                                 <p>Within the context of national political trends, &quot;The Benevolent Boss&quot; provides an account of political events in Chicago and Illinois between 1881 and 1920, most of which have previously gone unrecorded. Included is a full record of mayoral elections and administrations, the impact the the gold/silver controversy, the power struggle between Sullivan and Carter H. Harrison II, the influenza epidemic in Chicago in 1918, and many other relevant developments and leaders of the period. In general, the study places Sullivan in the context of the evolving &quot;corporate&quot; practices of the day while jettisoning the stereotype of Sullivan as tainted by corruption and criminality, characteristics of the Chicago machine in the 1920s and 1930s, after Sullivan&#039;s death.</p>
+                                 <p>Morton is a professor of History at Clark Atlanta University and the author of <emph render="italic">Justice and Humanity: Edward F. Dunne, Illinois Progressive</emph> (Southern Illinois University Press, 1997; IHLC 977.30410924 D922m) and <emph render="italic">Roger C. Sullivan and the Making of the Chicago Democratic Machine, 1881-1908</emph> (McFarland, 2016; IHLC 977.3092 M8461r).</p>
+                                 <p>Morton donated paper and digital copies of &quot;The Benevolent Boss&quot; manuscript to the Illinois History and Lincoln Collections in 2015.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

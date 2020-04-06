@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4020">906</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Stringham, Paul H. Stagecoach and Mine Information</titleproper>
+               <titleproper type="filing">Stringham, Paul H.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Stringham, Paul H. Stagecoach and Mine Information
+                              <date normal="1980/1993" encodinganalog="260$c">1980/1993</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Stringham, Paul H. Stagecoach and Mine Information                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1980/1993">1980-2005</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1980-1993</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">906</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Stringham, Paul H." source="local" role="Collector">Stringham, Paul H.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Fulton County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Peoria County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Tazewell County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Stringham, Paul, 1913-2005</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Coal mines and mining</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mines and mineral resources</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                       <subject encodinganalog="650" source="lcsh">Stagecoach lines</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains research notes and photocopies of articles, clippings, and maps relating to early Illinois stagecoach lines from about 1819 to 1869. Most of the copies were made by Paul H. Stringham from material in the Peoria Historical Society Collection on deposit in the Special Collections Center, Bradley University Library.</p>
+                                 <p>The collection also includes Stringham&#039;s notes, on 3&quot; x 5&quot; index cards, regarding coal mines in west central, particularly in Fulton, Peoria, and Tazewell Counties. Stringham collected information on the name, owner, and exact location of each mine; its depth and years of operation; and the railroad spur that reached it.</p>
+                                 <p>Stringham (1913-2005) became interested in stagecoaches and mines as part of his research on railroads and traction lines in Illinois. His publications included <emph render="italic">76 Years of Peoria Street Cars</emph> (1965, 1989), <emph render="italic">Chicago and Illinois Midland</emph> (1979), <emph render="italic">Illinois Terminal: The Electric Years</emph> (1989), and <emph render="italic">Toledo, Peoria &amp; Western</emph> (1993). Richard W. and Karen D. Deller of Peoria donated the Stringham collection to the Library in 2015.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

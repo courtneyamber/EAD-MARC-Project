@@ -1,0 +1,116 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:13">012</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Buck, Solon (1884-1962). Correspondence, Paper, and Bibliographic Notecards</titleproper>
+               <titleproper type="filing">Buck: Solon J. Buck Correspondence</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Buck, Solon (1884-1962). Correspondence, Paper, and Bibliographic Notecards
+                              <date normal="1910/1931" encodinganalog="260$c">1910/1931</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Buck, Solon (1884-1962). Correspondence, Paper, and Bibliographic Notecards                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1910/1931">1910-1916, 1931</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">012</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Buck, Solon J" source="lcnaf" role="Collector">Buck, Solon J</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">Illinois Territory</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Buck, Solon J. (Solon Justus), 1884-1962</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Pease, Theodore C. (Theodore Claudius), 1853-1893</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Solon J. Buck was a member of the staff of the Illinois Historical Survey and a research associate in the University of Illinois History Department from 1910 to 1914. After leaving Illinois, he held the position of Superintendent of the Minnesota Historical Society (1914-1931) and later, Professor of History at the University of Pittsburgh and Director of the Western Pennsylvania Historical Society (1931-1935). He joined the National Archives in 1935 and served as the Archivist of the United States from 1941 to 1948.</p>
+                                 <p>This collection contains two letters exchanged between Buck and T. C. Pease in 1931. The letters concern Buck&#039;s offer of several papers and sets of notes to Pease. The paper entitled &quot;Material for Illinois History in the Archives of the United States Government at Washington&quot; was accepted by Pease for the Survey. There are also two sets of bibliographic notecards (4x6) in this collection. One set of six boxes is an author-subject bibliography while the other, of three boxes, is arranged chronologically, by topic, by type of work, and other categories. These bibliographies mainly concern Illinois and the Old Northwest. Other Buck correspondence can be found in the Archives of the Illinois Historical Survey.</p>
+                                 <p>Generated by Buck&#039;s work as a staff member of the Illinois Historical Survey.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

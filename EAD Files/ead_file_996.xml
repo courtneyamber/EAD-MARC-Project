@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:996">1015</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Kubicek, Earl C., <emph render="italic">collector, </emph>Lincoln-related Material</titleproper>
+               <titleproper type="filing">Kubicek, Earl C., collector</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Kubicek, Earl C., <emph render="italic">collector, </emph>Lincoln-related Material
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Kubicek, Earl C., <emph render="italic">collector, </emph>Lincoln-related Material                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1930-1984</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1015</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Kubicek, Earl C." source="local" role="Collector">Kubicek, Earl C.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Lincoln Home National Historic Site (Springfield, Ill.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">England</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Booth, John Wilkes, 1838-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Teillard, Dorothy Lamon, 1858-1953</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Historic sites</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Earl C. Kubicek was director of alumni relations and placement at the Illinois Institute of Technology in Chicago. He collected Lincoln-related material and wrote a number of articles on Lincoln topics. Much of his collection, which was acquired in 1992 from Chuck Hand, of Paris, Illinois, came to the University of Illinois Library.</p>
+                                 <p>At Illinois, the material was divided by topic into separate lots and cataloged in 1993. Because the catalog records contain detailed information about each lot, they are retained in this collection and in the online catalog. The call number of each lot is preceded by the &quot;Lincoln&quot; call number (973.7L63).</p>
+                                 <p>C2L6385. Lincoln Family in England (11 pieces, 1945-72)</p>
+                                 <p>DJ614. John Wilkes Booth (16 pieces, 1939-84)</p>
+                                 <p>DB644L. Gustaf John Booth to Kubicek, Mar. 13, 1960</p>
+                                 <p>D2Ou72. Our American Cousin (3 pieces, 1935)</p>
+                                 <p>E5P412E. Lincoln Home National Historic Site, 1971</p>
+                                 <p>GT172L. Ida Tarbell to Kubicek, Jan. 17, 1930</p>
+                                 <p>Certain lots, however, are entered in this database under separate headings. They include the following collections:</p>
+                                 <p>A3L6383. Lincoln Historical Fund Campaign, 14 pieces, 1950-52. Barrett auction: see Oliver R. Barrett Papers</p>
+                                 <p>DJ614. <emph render="italic">Prince of Players</emph>, 1955 (from John Wilkes Booth cluster)</p>
+                                 <p>B2D737. Teillard, Dorothy Lamon (27 pieces, 1946-53)</p>
+                                 <p>Also filed in the Kubicek collection are articles that he wrote himself. They include &quot;The Engineering Mind of Abraham Lincoln,&quot; <emph render="italic">Illinois Tech Engineer,&quot; </emph>12:2 (Dec. 1946), copy, and articles on Lincoln in the <emph render="italic">Chicago Tribune Magazine </emph>on Feb. 7, 14, 28, Mar. 6, 13, 1960; and Feb. 12, 19, 26, 1961.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,126 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:6044">134</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Chiniquy, Charles. Collection</titleproper>
+               <titleproper type="filing">Chiniquy, Charles. Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Chiniquy, Charles. Collection
+                              <date normal="1876/1909" encodinganalog="260$c">1876/1909</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Chiniquy, Charles. Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1876/1909">1876-1909</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">134</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Chiniquy, Charles" source="local" role="Collector">Chiniquy, Charles, 1809-1899</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">24.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Blaine, James Gillespie, 1830-1893</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Chiniquy, Charles Paschal Telesphore, 1809-1899</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Power, John Carroll, 1819-1894</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sherman, Edwin A. (Edwin Allen), 1829-1914</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Catholic Church</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Chiniquy collection, which the Library bought from John Howell, the San Francisco bookseller, in 1954, adds to the extensive literature regarding Charles Paschal Telespore Chiniquy, including his connections, real and imaginary, with Abraham Lincoln.</p>
+                                 <p>Chiniquy (1809-1899), ordained in Quebec in 1833, settled in Illinois in 1851, and laid the foundations for several French-Canadian communities in Kankakee County. In 1856, after Chiniquy had been sued for slander by Peter Spink and Spink had obtained a change of venue to the Champaign County Circuit Court, Lincoln arranged for the parties to settle the suit. Leaving the Catholic Church after a number of disputes with the hierarchy and with many others, Chiniquy wrote <emph render="italic">Fifty Years in the Church of Rome</emph> (1885), in which he charges that the Jesuits had conspired to murder Lincoln.</p>
+                                 <p>This collection includes thirteen letters, 1878-1895, from Chiniquy to Edwin A. Sherman of San Francisco, commander of the Lincoln Grand Guard of Honor, who similarly attacked the Catholic church.</p>
+                                 <p>In addition, it includes letters to Sherman from John Carroll Power, director of the Lincoln Guard of Honor and custodian of the Lincoln Tomb.</p>
+                                 <p>Finally, it includes letters to Sherman regarding his book, <emph render="italic">The Engineer Corps of Hell; or, Rome&#039;s Sappers and Miners Containing the Tactics of the &quot;Militia of the Pope,&quot; or the Secret Manual of the Jesuits, and Other Matter Intensely Interesting, Especially to the Freemasons and Lovers of Civil and Religious Liberty...</emph> (1883); Chiniquy&#039;s signed promise to protect that volume; a circular dedicating <emph render="italic">Fifty Years in the Church of Rome</emph> to Sherman; and an undated broadside against Republican presidentidal candidate, James G. Blaine.</p>
+                                 <p>Stacy Pratt McDermott summarizes <emph render="italic">Spink v. Chiniquy</emph> in <emph render="italic">Lincoln Legal Briefs</emph>, 77:3-6 (Jan.-Mar. 2006). More detailed is Joseph George, Jr., &quot;The Lincoln Writings of Charles P. T. Chiniquy,&quot; <emph render="italic">Journal of the Illinois State Historical Society</emph>, 69:1 (Feb. 1976), 17-25. For the fullest discussion of the context of Chiniquy&#039;s turbulent life, see Caroline B. Brettell, <emph render="italic">Following Father Chiniquy: Immigration, Religious Schism, and Social Change in Nineteenth-Century Illinois (</emph>Carbondale: Southern Illinois University Press, 2015). Apparently missing from this literature is a lenghty entry in <emph render="italic">The United States Biographical Dictionary...Illinois Volume</emph> (1876) 718-23, written by Chiniqy himself, according to his first letter to Sherman.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

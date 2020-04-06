@@ -1,0 +1,142 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:175">174</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Paisley, Oldham. Scrapbooks</titleproper>
+               <titleproper type="filing">Paisley: Oldham Paisley Scrapbooks</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Paisley, Oldham. Scrapbooks
+                              <date normal="1922/1930" encodinganalog="260$c">1922/1930</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Paisley, Oldham. Scrapbooks                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1922/1930">1922-1930</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">174</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Paisley, Oldham" source="lcnaf" role="Collector">Paisley, Oldham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="microfilm reel">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Ku Klux Klan (1915-)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Williamson County--Marion (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Occupation:</head>
+                                       <occupation encodinganalog="656" source="lcsh">Newspaper editors</occupation>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Coal mines and mining</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gangsters</subject>
+                                       <subject encodinganalog="650" source="lcsh">Labor</subject>
+                                       <subject encodinganalog="650" source="lcsh">Prohibition</subject>
+                                       <subject encodinganalog="650" source="lcsh">Strikes and lockouts</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                        <altformavail encodinganalog="530">
+                     <head>Electronic Format:</head>
+                                             <p>Copies of the scrapbooks and related materials can be found in the &quot;Bloody Williamson research collection, 1875-1951&quot; at the Chicago History Museum.</p>
+                                             <p>http://www.worldcat.org/oclc/711884089</p>
+                              </altformavail>
+            </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Oldham Paisley was editor of the Marion, Ill., <emph render="italic">Republican</emph> during the violent years caused by striking miners, gangsters, the Ku Klux Klan, and prohibition enforcers in southern Illinois.</p>
+                                 <p>This collection contains a microfilm of Paisley&#039;s four scrapbooks, which include clippings from a variety of local newspapers. Paisley used some of these clippings for his anonymously published book <emph render="italic">The Life Story of Charlie Birger</emph> (1927). Paisley originally donated his scrapbooks to the Marion Carnegie Library in 1945, but they were taken to the Chicago Historical Society (Chicago History Museum) by Paul M. Angle during his research for <emph render="italic">Bloody Williamson: A Chapter in American Lawlessness </emph>(1952). Copies of the scrapbooks and other research materials can be found in the &quot;Bloody Williamson research collection, 1875-1951&quot; at the Chicago History Museum (see finding aid at <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://chsmedia.org/media/fa/fa/M-A/AngleP-B.htm">http://chsmedia.org/media/fa/fa/M-A/AngleP-B.htm</extref>).</p>
+                                 <p>The Library acquired the microfilm in 1963.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,124 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:152">151</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Nelson, Richard J. Papers</titleproper>
+               <titleproper type="filing">Nelson: Richard J. Nelson Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Nelson, Richard J. Papers
+                              <date normal="1959/1966" encodinganalog="260$c">1959/1966</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Nelson, Richard J. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1959/1966">1959-1966</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">151</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Nelson, Richard J" source="lcnaf" role="Collector">Nelson, Richard J</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/nelson.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Equal opportunity in employment</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Legislation</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the files of Richard J. Nelson relating to his work as chair of the Illinois Committee for Fair Employment Practices (F.E.P.). The Committee was instrumental in assuring the passage of the Illinois Fair Employment Practices Act of 1961.</p>
+                                 <p>Nelson was an executive of the Inland Steel Corporation in Chicago. Before joining Inland Steel in 1952, he served as an Assistant Attorney General for the State of Illinois and as an administrative assistant for Governor Adlai E. Stevenson. He left Inland Steel in 1971 to become President of Northern Illinois University.</p>
+                                 <p>The collection mainly consists of carbon copies of Nelson&#039;s sizable correspondence regarding F.E.P. issues, including incoming correspondence, internal memoranda and notes, and handouts, articles, and other information disseminated by Nelson and the F.E.P. Committee, and by similar organizations. Some of the correspondence is from the unsuccessful 1959 legislative campaign, when Nelson was a member of the Illinois Committee for Equal Job Opportunity, but most of the materials date from the F.E.P.&#039;s successful 1961 campaign. The collection also contains two scrapbooks, one for the 1959 campaign and the other for the 1961 campaign, together with an extensive accumulation of newspaper clippings from around the state, providing the historical context and chronology of the passage of the Illinois F.E.P. Act.</p>
+                                 <p>The collection also documents the efforts of Nelson and the F.E.P. Committee in rallying popular support for F.E.P. legislation among the leaders and constituencies of Illinois&#039; business, labor, civic, and religious communities as well as the public at large. It not only reveals the internal and external workings of the F.E.P., but also illuminates the committee&#039;s approach and tactics with state legislators and government officials. In addition, the collection reflects the conflict within the business community over the issue of forced integration of the work force and reveals the understanding of early F.E.P. supporters about the nature of affirmative action as an individual merit-based concept.</p>
+                                 <p>Nelson, a 1940 graduate of the University of Illinois, deposited his F.E.P. files in the University&#039;s Labor and Industrial Relations Library. In 1995, they were transferred to the Illinois Historical Survey (now the Illinois History and Lincoln Collections).</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

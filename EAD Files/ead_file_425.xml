@@ -1,0 +1,145 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:425">429</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Anderson, Richard Clough. Papers, Ohio Manuscripts</titleproper>
+               <titleproper type="filing">Anderson: Richard Clough Anderson Papers, Ohio Man</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Anderson, Richard Clough. Papers, Ohio Manuscripts
+                              <date normal="1782/1914" encodinganalog="260$c">1782/1914</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Anderson, Richard Clough. Papers, Ohio Manuscripts                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1782/1914">1782-1905, 1912-1914</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">429</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Anderson, Richard Clough" source="lcnaf" role="Collector">Anderson, Richard Clough, 1750-1826</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">12.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 microfilm reel.</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/andersonrc.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Delta Upsilon Fraternity</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Ohio</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Ohio--Chillicothe</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia Military District</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Anderson, Richard C. (Richard Clough), 1750-1826</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Anderson, William Marshall, 1807-1881</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Kendrick, Eleazer Porter, 1790-1885</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Latham, Allen, 1792-1871</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Surveying</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Richard Clough Anderson collection consists in large part of material relating to the bounty lands in the Virginia Military District in Kentucky and Ohio. These lands were awarded to Virginia soldiers in the Continental Line during and after the American Revolution. In addition to over 10,000 loose papers, there are 28 bound volumes in the collection, with volumes 9 and 10 available on microfilm.</p>
+                                 <p>The earliest papers are those of Col. Richard Clough Anderson, who was appointed principal surveyor in 1783 and conducted operations near Louisville, Ky. When the bounty lands in Kentucky were exhausted, an office was set up in Chillicothe, Ohio. Allen Latham (1792-1871), who was Col. Anderson&#039;s son-in-law and was also in the land business with Benjamin G. Leonard, was named to succeed Anderson as principal surveyor. In addition to the papers of Latham and Leonard, the collection contains some material of William Marshall Anderson and Eleazer P. Kendrick, and a larger quantity of papers of the surveyor Daniel Gregg, Latham&#039;s associate and executor.</p>
+                                 <p>Among the land records in the collection are early surveys (many in rough draft form), plats of land on which were based the 1814 map of Ohio, lists of entries with relevant data, and lists of warrants, together with innumerable documents on transfers of titles. Other land-related materials include plats and maps (mostly manuscript), court documents (particularly deeds and legal pleadings), withdrawals and reentries, patents, petitions, and memoranda. Correspondents include Duncan McArthur, Nathaniel Massie, Walter Dun, Cadwallader Wallace, Thomas Worthington, Benjamin Hough, James Galloway, Jr., and many others who acquired large tracts of bounty lands.</p>
+                                 <p>The bound volumes include an entry book for &quot;Virginia District B,&quot; 1787-1817, a partial list of Virginia officers and men entitled to bounty lands, surveying accounts, lists of surveys and proprietors, survey records, lists of lands located for refugees from Canada and Nova Scotia by act of Congress, Feb. 1, 1801, and a letterbook of John R. Anderson, 1851-52 .</p>
+                                 <p>The collection is arranged roughly in chronological order, with much undated and unclassified material found at both the beginning and end. There is an unexpectedly large amount of personal papers, both in manuscript and printed form, belonging to the various surveyors and to the subsequent owner of the collection, Dr. R. G. Lewis. Some of the historical topics covered are politics, banks and banking, railroads, slavery, religion, and fraternities (Delta Upsilon in particular). Other items of note are an engraving of Andrew Taylor Still (founder of osteopathy) and an 1870 hymn of Fannie Crosby set to music by W. H. Doane, &quot;No Where to Lay my Poor Head.&quot;</p>
+                                 <p>Most of the ephemeral material in the collection comes from Ohio, particularly Chillicothe, and includes play and theatrical bills, invitations to parties, ferry and railroad passes, almanacs, advertising notices (several for horse breeding), newspaper clippings, and a wanted poster for a murderer and counterfeiter. Other printed items include bills of the Ohio Senate and House, copies of <emph render="italic">The Register of Debates</emph>, and speeches, addresses, and treatises such as &quot;Necessity of Reformation of Morals&quot; by a citizen, printed by John Andrews at the office of the <emph render="italic">Weekly Recorder</emph> in 1815.</p>
+                                 <p>The Survey purchased the collection from Gregg&#039;s nephew, Dr. R. G. Lewis, of Madisonville and Cincinnati, Ohio, in 1912-14. The item inventory was prepared as a project of the Historical Records Survey in 1940, when the papers were known as Ohio Manuscripts or Ohio Land Records. Related documents are preserved in the office of the Auditor of the State of Ohio and in several repositories, including the Ohio Historical Society, the Western Reserve Historical Society, the Huntington Library, the Virginia State Library, and the National Archives. A small part of the collection was inventoried by Clifford Neal Smith in the American Library Association&#039;s <emph render="italic">Federal Land Series: A Calendar of Archival Materials on the Land Patents Issued by the United States Government, with Subject, Tract, and Name Indexes</emph>, volume 1 (1972) and volume 4, Part 1 (1982) and Part 2 (1986).</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

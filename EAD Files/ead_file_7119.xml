@@ -1,0 +1,114 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7119">1039</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letters to Daniel A. Cheever</titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Letter to Daniel A. Cheever</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letters to Daniel A. Cheever
+                              <date normal="1858/1859" encodinganalog="260$c">1858/1859</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Letters to Daniel A. Cheever                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1858/1859">1858-1859</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1039</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required. Please contact the Illinois History and Lincoln Collections for more information.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>These documents are letters sent from Abraham Lincoln to Dr. Daniel A. Cheever, an abolitionist and political figure in Pekin, Illinois.</p>
+                                 <p>Dr. Daniel A. Cheever, born in 1827, was an abolitionist and a conductor on the Underground Railroad in Pekin, Illinois, and was politically involved throughout Tazewell County. He served as President of the first Union League of America, which was organized in Pekin in 1862. Union Leagues were secretive clubs established during the Civil War to promote the abolition of slavery and loyalty to the Union. Dr. Cheever died in Urbana, Illinois, in 1890.</p>
+                                 <p>The first letter, sent from Abraham Lincoln to Dr. Cheever on August 9, 1858, references a speaking engagement that Cheever asked Lincoln to attend. Lincoln denied the request due to another obligation but offered another speaker instead. He also wrote on the importance of Tazewell County, presumably regarding the upcoming election for United States Senator, in which Lincoln was the Republican candidate.</p>
+                                 <p>The second letter is in response to a letter sent by Dr. Cheever on August 9, 1859, asking Lincoln for help in finding someone to come to Pekin and edit a newspaper. Lincoln replied on August 19, stating that he could think of no one and made suggestions of others who might help. He then mentioned a German Republican newspaper that was recently started in Springfield - presumably the <emph render="italic">Illinois Staats-Anzeiger</emph>.</p>
+                                 <p>A transcription of the first letter can be found in <emph render="italic">The Collected Works of Abraham Lincoln </emph>(edited by Roy P. Basler<emph render="italic"> et al.</emph>) in the first supplement (also called Volume 10), on page 32. A transcription of the second letter can be found in the same volume on page 41.</p>
+                                 <p>These letters were donated to the University Library from the estate of Sarah Elizabeth Bryan in 1959. An American flag with 34 stars, dating from sometime between 1861 and 1863 and said to have been carried during Abraham Lincoln&#039;s funeral procession, was also donated.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

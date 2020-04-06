@@ -1,0 +1,149 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:416">416</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Zinser Family. Papers</titleproper>
+               <titleproper type="filing">Zinser Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Zinser Family. Papers
+                              <date normal="1921/1975" encodinganalog="260$c">1921/1975</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Zinser Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1921/1975">1921-1975</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">416</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Zinser Family" source="lcnaf" role="Collector">Zinser Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">3.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/zinser.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Dental Association</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American-Scandinavian Foundation</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Art Institute of Chicago</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Boys Club</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Historical Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Horticultural Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Symphony Orchestra</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Athletic Club</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Lyric Opera of Chicago</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">National Federation of Business and Professional Women&#039;s Clubs</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Three Arts Club (Chicago, Ill.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Wisconsin</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Arden, Elizabeth, 1878-1966</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Kelly, Edward J. (Edward Joseph), 1876-1950</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Businesswomen</subject>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Dentistry</subject>
+                                       <subject encodinganalog="650" source="lcsh">Labor</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Zinser Family papers center on Anne V. Zinser&#039;s work with numerous charitable institutions. The wife of Melford E. Zinser, a successful dentist in Chicago, Anne was involved in a number of philanthropic and cultural endeavors in addition to being a successful businesswoman in the field of personnel services. This collection documents Zinser&#039;s work with the Lyric Opera, the Country Riding Club, the Holiday Home Benefit, the Bartelme Home for Girls, the American Scandinavian Foundation, and various Chicago museums. The collection also includes records from Zinser&#039;s service as president of the Alliance of Business and Professional Women in Chicago. In addition, the collection contains papers from Zinser Personnel Service, and Dr. Zinser&#039;s dental practice, mainly correspondence, business records, and papers from dental conferences.</p>
+                                 <p>Bryan Zinser, nephew of Anne and Melford Zinser , donated the collection to the Illinois Historical Survey in 1978.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

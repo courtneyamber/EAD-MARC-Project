@@ -1,0 +1,151 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:916">868</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Wilson, Wilbur M., Papers</titleproper>
+               <titleproper type="filing">Wilson, Wilbur M. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Wilson, Wilbur M., Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Wilson, Wilbur M., Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1898-1961</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">868</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Wilson, Wilbur M." source="local" role="Collector">Wilson, Wilbur M.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/wilson.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Iowa State College</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Iowa State University</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">United States. Navy</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Colorado</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iowa</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kansas</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Marshall Islands</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Washington</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Wilson, Wilbur M., 1881-1958</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Engineering</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gold mines and mining</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Wilbur M. Wilson (1881-1958) graduated from Iowa State College in 1900 and received his M.S. in Mechanical Engineering from Cornell University in 1904. In 1913, after teaching at Iowa State and working for the Illinois Steel Company and Strauss Bascule Bridge Company, he joined the faculty at the University of Illinois, retiring in 1949 as professor of structural engineering.</p>
+                                 <p>In 1946 Wilson served as a &quot;non-participating scientific observer&quot; in Operation Crossroads, the U.S. military&#039;s series of atomic bomb tests at Bikini, in the Marshall Islands. As a passenger aboard the U.S.S. Panamint, it was Wilson&#039;s responsibility to witness the bombings and to later assess the structural damage to ships that had been placed within the bombs&#039; blast range.</p>
+                                 <p>This collection contains biographical materials; personal correspondence; education, organizational, and professional papers; manuscripts of academic articles; and papers related to Wilson&#039;s service in Operation Crossroads.</p>
+                                 <p>The Operation Crossroads portion of the collection contains numerous photographs of the atomic tests; &quot;The Voyage of the Panamint,&quot; Wilson&#039;s 123-page diary from the experience [also in the University Archives, RS 11/5/33]; official correspondence; letters from Wilson to his family; eyewitness accounts; and other official and documentary papers. For more information about Operation Crossroads, see the documentary film <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.imdb.com/title/tt0893570/"><emph render="italic">Radio Bikini</emph></extref> (1988).</p>
+                                 <p>In addition, the collection contains personal correspondence from Wilson to his wife, Teresa, and daughter, Grace. The earliest letters document Wilson&#039;s experiences working as a gold miner and carpenter in Colorado in 1901. Later letters discuss his investigation of the famous Tacoma Narrows Bridge collapse of 1940.</p>
+                                 <p>The collection also includes Teresa Wilson&#039;s high school class photo and postcards from her sister Grace, who was an undergraduate at the University of Illinois; reminiscences by Teresa&#039;s mother, Fannie Aylworth Stewart; and genealogy records of the Aylworth and Stewart families.</p>
+                                 <p>Wilbur and Teresa Wilson&#039;s daughter, Grace Wilson of Urbana, Ill., donated the collection to the Illinois Historical Survey in 1976.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

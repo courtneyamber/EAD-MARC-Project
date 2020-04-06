@@ -1,0 +1,138 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:611">622</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Fell, Jesse W. Papers</titleproper>
+               <titleproper type="filing">Fell: Jesse W. Fell Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Fell, Jesse W. Papers
+                              <date normal="1829/1911" encodinganalog="260$c">1829/1911</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Fell, Jesse W. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1829/1911">1829-1911</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">622</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Fell, Jesse W." source="lcnaf" role="Collector">Fell, Jesse W., 1808-1887</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iowa</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Bloomington (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Normal (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Browning, Orville Hickman, 1806-1881</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Davis, David, 1815-1886</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Duncan, Joseph, 1794-1844</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Ewing, William Lee Davidson, 1795-1846</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Fell, Jesse W., 1808-1887</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Foraker, Joseph Benson, 1846-1917</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Logan, John Alexander, 1826-1886</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Oglesby, Richard J. (Richard James), 1824-1899</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Palmer, John M. (John McAuley), 1817-1900</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Swett, Leonard, 1825-1889</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Trumbull, Lyman, 1813-1896</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>In 1832, Jesse W. Fell moved to Bloomington, Ill., where he practiced law and later became involved in real estate and other business enterprises. Considered the founder of Normal, Ill., Fell was active in locating the first State Normal School there in 1857. An early friend of Abraham Lincoln, Fell took part in organizing the Republican Party in Illinois and the campaign of 1860. Appointed paymaster by Lincoln in 1862, he served for two years.</p>
+                                 <p>This collection mainly contains transcripts of letters, memoranda, drafts, and telegrams, with correspondents including Orville H. Browning, David Davis, Joseph Duncan, William L. D. Ewing, J. B. Foraker, Lincoln, John A. Logan, Richard J. Oglesby, John M. Palmer, John Reynolds, N. H. Ridgely, Leonard Swett, and Lyman Trumbull. Letters from Fell to Dr. Richard Edwards discuss the Larchwood, Iowa, land project, in which Fell sold land to colonizers to pay off his debts. In addition, the collection contains transcripts of eulogies of Fell; newspaper obituaries of Fell; and an original document nominating Fell as paymaster, signed by Lincoln, Secretary of War Stanton, and Adjutant General Lorenzo Thomas.</p>
+                                 <p>Alice and Fannie Fell, of Normal, Ill., loaned the originals to the Survey for copying in 1913. The originals are now in the Library of Congress. Transcripts of the Iowa manuscripts were acquired in 1957 from Dr. Helen E. Marshall of Illinois State University.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

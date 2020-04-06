@@ -1,0 +1,181 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:851">885</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Perkins, Frederick Wainwright. Papers</titleproper>
+               <titleproper type="filing">Perkins, Frederick Wainwright. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Perkins, Frederick Wainwright. Papers
+                              <date normal="1882/1934" encodinganalog="260$c">1882/1934</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Perkins, Frederick Wainwright. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1882/1934">1882-1934</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">885</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Perkins, Frederick Wainwright" source="lcnaf" role="Collector">Perkins, Frederick Wainwright</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">42.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                                       <p><emph render="bold">Buildings by Commission:</emph> <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.library.illinois.edu/ihx/inventories/fwperkinsbycommission.pdf">http://www.library.illinois.edu/ihx/inventories/fwperkinsbycommission.pdf</extref></p>
+                                          <p><emph render="bold">Buildings by Location:</emph> <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.library.illinois.edu/ihx/inventories/fwperkinsbylocation.pdf">http://www.library.illinois.edu/ihx/inventories/fwperkinsbylocation.pdf</extref></p>
+                                 <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/perkins-fw.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Institute of Architects</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">C.F. Pease Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Architects&#039; Business Association</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Association of Commerce</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Telephone Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Elgin National Watch Co.</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Goodrich Transportation Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Hayden Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Society of Architects</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Lincoln Highway Association</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Christian County--Taylorville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Mattoon (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Arlington Heights (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Glencoe (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Midlothian (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--River Forest (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Riverside (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Winnetka (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Henry County--Kewanee (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indiana</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Indiana--Michigan City</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">LaSalle County--Ottawa (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Highland Park (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Lake Forest (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Macon County--Decatur (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Bloomington (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Mexico</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Michigan</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Minnesota--Duluth</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Montgomery County--Nokomis (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Piatt County--Monticello (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Winnebago County--Rockford (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Wisconsin</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Architecture</subject>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Factories</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                                    <dao xlink:type="simple" xlink:href="https://digital.library.illinois.edu/collections/d16975d0-fd94-0136-53a8-0050569601ca-a" xlink:actuate="onRequest" xlink:show="new">
+                        <daodesc>
+                           <head>Title:</head>
+                           <p>Digitized Content from the Frederick Wainwright Perkins Papers</p>
+                        </daodesc>
+                     </dao>
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Frederick Wainwright Perkins (1866-1928) was a prominent Chicago architect engaged in active practice from 1886 to 1924. Perkins designed many residences and buildings, mostly in the Chicago area but also in Duluth, Minn. (where he had an office) and in downstate Illinois.</p>
+                                 <p>Born and schooled in Burlington, Wis., Perkins was educated at Phillips Exeter Academy and the Massachusetts Institute of Technology. He married Yolande Vandeveer, daughter of a banking family in Taylorville (Christian County), Ill. His papers include materials on his wife&#039;s farm land in southern Illinois, his investments in a coffee ranch in Mexico, and his participation in the American Institute of Architects and other professional organizations, but the collection primarily consists of sketches, working drawings, and blueprints of his architectural projects as well as correspondence with clients, contractors, and others.</p>
+                                 <p>Perkins was a highly successful architect in his day, although he is not well known among architectural historians today. If mentioned at all, they tend to think of Dwight H. Perkins, no relation, a founder of the present-day firm of Perkins and Will. This can be explained in part by the stylistic diversity of Frederick Wainwright Perkins, who first favored Shingle style and Queen Anne designs and then deferred to his clients&#039; preferences for Jacobean, Tudor, Mediterranean, Colonial, and other revival styles..</p>
+                                 <p>Attached to this summary of the collection are lists of Perkins&#039; commissions (alphabetically arranged by the clients&#039; names) and of the location of those commissions. The material mainly falls into three categories: The s<emph render="italic">ketches</emph> are free-hand illustrations done in the early stages of a commission. Generally they lack dates, numbers, or specific technical data. <emph render="italic">Working drawings</emph> are more formal and precise, usually executed by draftsmen following Perkins&#039; instructions. Working drawings usually include technical data, drawing numbers, and dates. Once the final design was reached, a permanent version of the working drawing was reproduced on linen, which provided a sturdy template from which multiple <emph render="italic">blueprints</emph> could be made. It is important to note, however, that few commissions are fully documented in this way, and several buildings that are known to have been designed by Perkins are not documented at all.</p>
+                                 <p>Accompanying many commissions are Perkins&#039; letters and contracts with his clients and with contractors and engineering consultants. The collection also includes a few watercolor presentation drawings by Perkins made to secure commissions, some of which he submitted in architectural competitions. In addition, many of his projects were photographed. The materials vary by size and nature, and are thus arranged in different ways, in archival files, portfolios, and flat storage. Many photographs, not being identified, are filed separately.</p>
+                                 <p>In addition to materials relating to the specific commissions which are inventoried here, the collection includes materials from Perkins&#039; day-to-day business, his general correspondence, brochures on building materials, and bills and receipts from both the Chicago and Duluth offices.</p>
+                                 <p>Personal materials in the collection include obituaries, correspondence, financial records, and papers related to social clubs, and the estate of Perkins&#039; father-in-law, Eugene Vandeveer. Files concerning Perkins&#039; farms and Mexican ranch consist of correspondence with farm managers and discussions of farm machinery (while not often on site, Perkins was keenly interested in how his investments were managed). Correspondence with Perkins&#039; brother Robert, who oversaw operations in Mexico, also discusses the political and economic conditions of Mexico in the early twentieth century.</p>
+                                 <p>After 1924, Perkins retired from active practice and spent considerable time travelling in Europe with his wife. They collected numerous post cards of European architectural examples as well as general tourist photographs. The collection also includes a portrait of Perkins and his architect&#039;s license of 1897, when the requirement was initiated.</p>
+                                 <p>With the encouragement of Paul Kruty and Jane Block of the University of Illinois, Yolande Oglesby, Perkins&#039; daughter, of Morrisonville, Ill., donated the collection to the Illinois Historical Survey in 1997.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

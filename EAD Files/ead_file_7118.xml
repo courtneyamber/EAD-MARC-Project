@@ -1,0 +1,113 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7118">1038</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Legal document on <emph render="italic">Robert Dean v. Bernard Kelly</emph></titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Legal document on</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Legal document on <emph render="italic">Robert Dean v. Bernard Kelly</emph>
+                              <date normal="1858" encodinganalog="260$c">1858</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Legal document on <emph render="italic">Robert Dean v. Bernard Kelly</emph>                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1858">1858</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1038</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required. Please contact the Illinois History and Lincoln Collections for more information.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This document is a legal declaration written in 1858 pertaining to the case of <emph render="italic">Robert Dean</emph> v. <emph render="italic">Bernard Kelly</emph>, in which Abraham Lincoln served on the legal team representing Dean.</p>
+                                 <p>In early 1858, Robert Dean pursued a case against Bernard Kelly, claiming that Kelly had charged him $5.00 per acre for 709 acres of farm land in Iowa based on false claims about the land&#039;s quality and value. Dean, after examining the land, found it was of poor quality and felt that he had been defrauded. Represented by Abraham Lincoln, Henry C. Whitney, Leonard Swett, and Oliver L. Davis, Dean requested $12,000 in damages, and also requested an injunction to stop Kelly from selling the land to Henry Simpson, another defendant in the case. The case was dismissed as of April 1858, with a settlement apparently reached outside of court.</p>
+                                 <p>The undated declaration, in Lincoln&#039;s hand, was sent to the Clerk of the Champaign County Circuit Court. It declares trespass on the case, bringing an action to recover the $12,000 dollars in damages.</p>
+                                 <p>More information and scans of additional documents from this case can be found online in <emph render="italic">The Law Practice of Abraham </emph>Lincoln, 2nd edition, at <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136521">http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136521</extref>.</p>
+                                 <p>The declaration was acquired by the University Library in 1978.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

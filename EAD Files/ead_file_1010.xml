@@ -1,0 +1,129 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:1010">1029</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln Forgeries</titleproper>
+               <titleproper type="filing">Lincoln Forgeries</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln Forgeries
+                              <date normal="1852/1858" encodinganalog="260$c">1852/1858</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln Forgeries                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1852/1858">1852-1858</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1029</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Cosey, Joseph" source="lcnaf" role="Collector">Cosey, Joseph, 1887-1950</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">9.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Forgers</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains three Lincoln forgeries: a letter of June 1, 1852, and two legal papers dated June 1, 1858. Although all are purportedly written or signed by Abraham Lincoln, they clearly are not in his hand.</p>
+                                 <p>The letter is addressed to J. Edwards to whom Lincoln in fact wrote on another matter on the same day.<emph render="super">1</emph> The forgery refers to John A. McClernand as a potential Whig candidate &quot;for a vacancy in Bloomington,&quot; although he was in fact a Douglas Democrat from Shawneetown.</p>
+                                 <p>On June 7, 1937, Felix Roppert, writing from the City Hall Station in New York City, offered this letter to the Library for $10. Annotating an inquiry from Willia K. Garver, who was in charge of Library orders, Roppert indicated that he acquired the letter from Goodspeed&#039;s Book Shop in Boston. Phineas L. Windsor, Director of the Library, approved the purchase but sought to know &quot;who owned the coll.&quot; that contained the letter. On July 12, 1937, in the last item in the collection regarding the acquisition of Roppert&#039;s letter, Banks asked to see the &quot;Lincoln&quot; letter, as Goodspeed&#039;s was not &quot;likely to have sold it to Mr Felix Roppert with whom we have had considerable correspondence.&quot;<emph render="super">2</emph></p>
+                                 <p>Two other &quot;Lincoln&quot; manuscripts concern a suit brought by William Miller against C. J. Edwards in the Circuit Court of Champaign County. In this suit, Miller, represented by Lincoln and Herndon, sued to recover $400 paid to Edwards for a certain parcel in which Edwards had no clear title. A memorandum in the collection states that the &quot;Two documents [were] identified as Cosey forgeries by G. William Bergquist, of the New York Public Library, Oct. 19 1949.&quot;</p>
+                                 <p>Bergquist was an expert on literary hoaxes such as those perpetrated by Martin Coneely (1887-1950) whose favorite alias was Joseph Cosey.<emph render="super">3</emph> Cosey became Joseph Roppert in peddling the 1852 letter, the handwriting of which matches that of the 1858 legal papers. <emph render="italic">Lincoln Day by Day</emph>, now entitled &quot;The Lincoln Log&quot; on the website of The Papers of Abraham Lincoln, places Lincoln elsewhere on the relevant dates--in Sullivan, not Springfield, and in Springfield, not Urbana.</p>
+                                 <p>Notes:</p>
+                                 <p>1. <emph render="italic">Lincoln Day by Day: A Chronology, 1809-1865</emph>, 3 vols., ed. Earl Schenck Miers (Washington, D.C.: Lincoln Sesquicentennial Commission, 1960), 2:76</p>
+                                 <p>2. The letter is one of the forgeries listed in <emph render="italic">The Collected Works of Abraham Lincoln</emph>, ed. Roy P. Basler et al. (New Brunswick, N.J.: Rutgers University Press, 1953), 8:448.</p>
+                                 <p>3. For information on Cosey&#039;s career, see <emph render="italic">Wikipedia</emph> as well as John Kobler, &quot;Yrs. Truly, A. Lincoln,&quot; <emph render="italic">New Yorker</emph>, Feb. 25, 1956.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

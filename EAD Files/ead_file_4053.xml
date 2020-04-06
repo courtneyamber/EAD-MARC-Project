@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4053">258</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Fort Sheridan Closure Research Collection</titleproper>
+               <titleproper type="filing">Fort Sheridan Closure Research Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Fort Sheridan Closure Research Collection
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Fort Sheridan Closure Research Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1988-1991</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">258</unitid>
+               <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/fort-sheridan.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Fort Sheridan (Ill.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Lake County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Porter, John, 1935-</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Historic buildings</subject>
+                                       <subject encodinganalog="650" source="lcsh">Historic sites</subject>
+                                       <subject encodinganalog="650" source="lcsh">Urban development</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains photocopies of documents related to the closure and adaptive reuse plans for Fort Sheridan, a former United States Army base located on Lake Michigan in Lake County, Illinois. Materials include copies of agendas, minutes, bylaws, and other documents from the Fort Sheridan Commission; state and local proposals and plans for future use of the fort; federal government reports; correspondence; and newspaper clippings.</p>
+                                 <p>In response to labor unrest that culminated in the Haymarket Square riots in 1886 and resulted in United States soldiers being sent to Chicago to maintain order, a group of businessmen known as the Commercial Club of Chicago petitioned the Secretary of War to set aside land near the city as a military post. The Secretary selected 632 acres of land north of Chicago at a location that was originally called Camp Highwood after the first soldiers arrived in 1887. In 1888, the site was renamed Fort Sheridan after General Philip H. Sheridan, a Civil War general and General of the Army from 1883 to 1888 who assisted with maintaining order after the Great Chicago Fire in 1871.</p>
+                                 <p>Men from Fort Sheridan participated in quelling the Pullman Strike in 1894 and fought in the Spanish-American War. During World War I, the fort served as a location for training reserve officers as well as a muster location for new recruits and a hospital. Many new recruits were processed at Fort Sheridan during World War II with more than 500,000 men and women entering and exiting military service at that location. The fort also served as the administrative headquarters for prisoner of war camps located in Illinois, Wisconsin, and Michigan during the war. Soldiers at Fort Sheridan were responsible for the Nike Hercules guided missile systems in the area during the Cold War. The number of personnel at the fort dwindled during the 1980s until its closure in 1993 due to the Base Realignment and Closure Act.</p>
+                                 <p>Today, an Army Reserve base remains on 90 acres of the original site. Many of the main buildings from the original construction of the fort, including 64 by the architecture firm Holabird &amp; Roche, are part of a historic district that was placed on the National Register of Historic Places in 1980. The site was also designated a National Historic Landmark in 1984.</p>
+                                 <p>The collection is first arranged chronologically by month and year from January 1988 to May 1991, then by the order of series headings. Items are divided into series based on creator, such as the Fort Sheridan Commission or local, state, or federal governments, or by format, including correspondence and newspaper clippings.</p>
+                                 <p>The Fort Sheridan Commission was a group of government officials and citizens proposed by Congressman John Porter. The commission worked to develop a consensus re-use plan for the fort. Their minutes and other documents include information about the potential uses for the fort that eventually became a part of the final re-use proposal.</p>
+                                 <p>The state and local plans include historic information about the fort, proposals for the use of housing on the grounds of the fort, a meeting and tour itinerary, and re-use studies prepared by Clarion Associates, Inc. for the Advocates for the Public Interest in Fort Sheridan. Federal reports and plans contain information about the Fort Sheridan base realignment and closure process and requirements regarding the disposal of federal property.</p>
+                                 <p>Correspondence primarily includes incoming and outgoing letters from the Office of Congressman John Porter that discuss preferred uses for the land of Fort Sheridan, concerns about the transfer of land to the United States Navy, and progress of the Fort Sheridan Commission. Newspaper clippings include perspectives on the possible closure of Fort Sheridan, reaction to the announcement of its closure, and proposed options for land re-use at the site.</p>
+                                 <p>The Office of Congressman John Porter donated the collection to the Library circa 1992.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

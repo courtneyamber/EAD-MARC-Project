@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:5037">795</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hook, Cornelius S., Jr. Correspondence</titleproper>
+               <titleproper type="filing">Hook, Cornelius S., Jr. Correspondence</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hook, Cornelius S., Jr. Correspondence
+                              <date normal="1850/1865" encodinganalog="260$c">1850/1865</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hook, Cornelius S., Jr. Correspondence                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1850/1865">1850-1865</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1855-1865</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">795</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hook, Cornelius S., Jr." source="local" role="Collector">Hook, Cornelius S., Jr., 1836-1864</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hookc.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">United States Military Academy</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Florida--Key West</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Morgan County--Jacksonville (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New York</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">North Carolina</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains correspondence primarily from Cornelius S. Hook, Jr. to members of his family in Jacksonville, Illinois. Also included are letters written to Cornelius from his mother and brothers, letters to his mother and brothers from his wife and others, notices of his standing in school, and announcements for his wedding and funeral.</p>
+                                 <p>Hook attended West Point Military Academy from 1855 to 1860 and served in the U.S. Army from 1860 until his death from yellow fever in 1864. He served at Fort Monroe, Virginia from 1860 to early January 1861 and was on sick leave from January through May 1861. From May 1861 to April 1862, he served on General Burnside&#039;s Expedition to North Carolina. He was again on sick leave from April to November 1862. He then returned to North Carolina and served in command of Fort Macon until June 1863. From June to October of 1863, he served as Ordnance Officer and also (starting in July) Inspecting Officer of the District of Key West and Tortugas. After retiring from active service on November 4, 1863, he married Eliza Warren in Cold Spring, New York on November 24, 1863 and then returned to Key West. There he served as the Ordnance and Inspecting Officer of the District from December 21, 1863 until his death on June 19, 1864.[1]</p>
+                                 <p>Born on December 23, 1836, Hook entered West Point at age 18. During his time there, he wrote to his mother, father, and brothers on a regular basis, discussing life as a cadet, including his classes, military training, and social life, as well as news and political decisions, particularly those affecting cadets, such as pay increases, furloughs, and uniform and curriculum changes. After graduating in 1860, his letters include descriptions of where he is stationed and his responsibilities, commentary on the events and progress of the Civil War, and updates on his health. He also recounted a harrowing journey north after spending time in Florida on sick leave in spring of 1861 and wrote about spending time with Eliza Warren and her family on sick leave in 1862, as well as his and Eliza&#039;s marriage in 1863. After he died in June 1864, Eliza wrote a long letter to Cornelius&#039;s mother describing his final illness and death. Including this one, the collection includes five letters Eliza wrote between June 1864 and January 1865 to Cornelius&#039;s mother and brother Will.</p>
+                                 <p>Sheila Hook Peddy, a great-great niece of Cornelius Hook, donated these letters to the Library in 2015.</p>
+                                 <p>References:</p>
+                                 <p>1. George W. Cullum, <emph render="italic"> Biographical Register of the Officers and Graduates of the U.S. Military Academy at West Point, N.Y. </emph>Volume II (New York, 1868), 502.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

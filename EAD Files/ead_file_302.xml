@@ -1,0 +1,125 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:302">302</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Storrs, Emery A. (1833-1885). Closing Argument in the Ransom Case</titleproper>
+               <titleproper type="filing">Storrs: Emery A Storrs Record</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Storrs, Emery A. (1833-1885). Closing Argument in the Ransom Case
+                              <date normal="1882" encodinganalog="260$c">1882</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Storrs, Emery A. (1833-1885). Closing Argument in the Ransom Case                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1882">1882</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">302</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Storrs, Emery A" source="lcnaf" role="Collector">Storrs, Emery A</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Legal records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Marshall County--Lacon (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Woodford County--El Paso (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Storrs, Emery A. (Emery Alexander), 1833-1885</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Courts</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Porter C. Ransom and Henry W. Bullock were leading citizens of El Paso, Woodford County, Ill. On May 2, 1881, Ransom shot and killed Bullock. Their backgrounds differed, Ransom being &quot;a New Yorker and loyal to the Union, while Bullock was a Kentuckian of the &#039;Copperhead&#039; stripe&quot; (<emph render="italic">Chicago Daily Tribune</emph>, Feb. 6, 1882, p. 8, col. 4). In 1868, they fell out over a local political nomination, and their feud intensified when Bullock defeated Ransom&#039;s bid to be reelected mayor of El Paso. Bullock also represented Ransom&#039;s first wife in a bitter alimony suit.</p>
+                                 <p>The case, <emph render="italic">The People of the State of Illinois vs. Porter G. Ransom</emph>, went to trial on Jan. 19, 1882, after a change of venue to the circuit court of Marshall County, in Lacon, Ill. &quot;An overwhelming array of legal talent [was] employed on both sides of the case&quot; (ibid.), including Emery A. Storrs, a renown Chicago criminal lawyer. On Feb. 5, two days after the close of arguments, the jury returned a verdict of not guilty.</p>
+                                 <p>This collection contains a 119-page manuscript copy of Storrs&#039; closing argument in defense of Ransom. The volume is morocco-bound, gilt-edged, and partly illuminated. Probably a presentation copy, it was acquired by the Library in 1940, and previously numbered Ms 308.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

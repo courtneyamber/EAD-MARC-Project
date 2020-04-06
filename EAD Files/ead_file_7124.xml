@@ -1,0 +1,112 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7124">1040</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letter to J. O. Cunningham</titleproper>
+               <titleproper type="filing">Lincoln, Abraham. Letter to J. O. Cunningham</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lincoln, Abraham. Letter to J. O. Cunningham
+                              <date normal="1858" encodinganalog="260$c">1858</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lincoln, Abraham. Letter to J. O. Cunningham                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1858">1858</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1040</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lincoln, Abraham" source="local" role="Collector">Lincoln, Abraham</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="item">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Advance appointment required. Please contact the Illinois History and Lincoln Collections for more information.</p>
+                           </accessrestrict>
+                        </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This document is a letter sent by Abraham Lincoln to Joseph O. Cunningham, a lawyer and civil servant from Urbana, Illinois, on August 22, 1858.</p>
+                                 <p>Joseph Oscar Cunningham, born in Lancaster, New York, in 1830, moved to Urbana, Illinois, in 1853. He published the <emph render="italic">Urbana Union</emph> newspaper from 1853-1858 and was a delegate to the 1856 Republican state convention in Bloomington. His career as a lawyer lasted almost fifty years, and he held several important civil positions in the community, including service as the first elected Judge of the Champaign County Court and Postmaster of Urbana.  He was also a local historian and a philanthropist, supporting causes such as the Cunningham Children&#039;s Home. Through his involvement in Republican politics, he formed a friendship with Abraham Lincoln. Cunningham died in Urbana in 1917.</p>
+                                 <p>The letter was written by Abraham Lincoln on August 22, 1858 in response to an earlier letter in which Joseph Cunningham requested that Lincoln come to Urbana to speak to local Republican Club. Lincoln declined, citing other engagements, and instead invited Cunningham and the club to see him speak in Monticello on September 6. Lincoln then remarked that the day before (on August 21, 1858), he engaged with Stephen A. Douglas in a debate, which would be the first of their famous series of debates during the 1858 race for United States Senate.</p>
+                                 <p>This letter was acquired by the University Library sometime prior to 1909. It was initially framed in the University Librarian&#039;s office with documents from the legal case of <emph render="italic">Peter Spink vs. Charles Chiniquy</emph> (MS 1036). These documents were later separated.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

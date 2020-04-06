@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7070">331</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Illinois Labor History Society. Records</titleproper>
+               <titleproper type="filing">Illinois Labor History Society. Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Illinois Labor History Society. Records
+                              <date normal="1956/2006" encodinganalog="260$c">1956/2006</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Illinois Labor History Society. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1956/2006">1956-2006</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">331</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Illinois Labor History Society" source="local" role="Collector">Illinois Labor History Society</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/illinois-labor-history-society.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Labor History Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Jewish Labor Committee (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Civil Rights Movement</subject>
+                                       <subject encodinganalog="650" source="lcsh">Labor</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>The University Archives of Roosevelt University in Chicago holds the primary collection of records and historical materials from the Illinois Labor History Society.</p>
+                                    <p>Information about related materials is available at https://www.roosevelt.edu/library/university-archives</p>
+                              </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of records from the Illinois Labor History Society and records from related organizations including the Jewish Labor Committee, Mideastern Illinois Labor Council, Labor Coalition on Public Utilities, and the Midwest Press Labor Association.</p>
+                                 <p>The Illinois Labor History Society (ILHS) began in 1969. It is comprised of academics, unionists, and persons interested in labor history. According to their website in 2016, the mission of the ILHS is &quot;to encourage the preservation and study of labor history materials of the Illinois Region. . . .&quot;</p>
+                                 <p>The collection is organized in four series: Administrative (1972-2001), Publications (1971-2001), Event Materials (1970-2000), and Related Organizations (1956-1993).</p>
+                                 <p>The Administrative series contains materials from the formation of the IHLS up until 2006. Materials include minutes, reports, and correspondence. The Publications series includes newsletters from both the ILHS and the National Rainbow Coalition Labor Network. The collection also contains event materials such as pamphlets, advertisements, and press releases from meetings, programs, and celebrations. Also included in the collection are materials on the Civil Rights movement from the Jewish Labor Committee and newsletters from the Mideastern Labor Council and Labor Coalition on Public Utilities.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

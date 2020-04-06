@@ -1,0 +1,142 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:3013">993</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Skagenberg, Richard. Bement (Ill.) Collection</titleproper>
+               <titleproper type="filing">Skagenberg, Richard. Bement (Ill.) Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Skagenberg, Richard. Bement (Ill.) Collection
+                              <date normal="1940/2014" encodinganalog="260$c">1940/2014</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Skagenberg, Richard. Bement (Ill.) Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1940/2014">1940-2014</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1955 and 2005</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">993</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Skagenberg, Richard" source="local" role="Collector">Skagenberg, Richard</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/skagenberg_bement.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Piatt County--Bement (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Carpentier, Charles F., 1896-1964</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Eichelberger, Clark M. (Clark Mell), 1896-1980</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Farley, James A. (James Aloysius), 1888-1976</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Flanders, Ralph E. (Ralph Edward), 1880-1970</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Monroe, Marilyn, 1926-1962</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sandburg, Carl, 1878-1967</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, Carleton, 1908-1984</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Weirick, Bruce, 1887-1982</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Wiley, Alexander, 1884-1967</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Willkie, Philip (Philip Herman), 1919-1974</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Richard C. Skagenberg served as the official photographer of the many events which marked the centennial of Bement, Ill. in 1955. This collection contains hundreds of Skagenberg&#039;s carefully identified photographs of that landmark year. It also contains his scrapbook of clippings, programs, and ephemera which document the centennial, and a smaller quantity of materials that document the sesquicentennial in 2005.</p>
+                                 <p>The celebration began with a Kick-off dinner on Apr. 11 and concluded with a Touchdown dinner on Nov. 9. Daily events, which drew crowds many times larger than Bement&#039;s population of about 1,500, occurred during the week of July 31 to Aug. 6, 1955.</p>
+                                 <p>Carleton Smith, a native of Bement, arranged for a number of prominent figures to come to the centennial, most notably James A. Farley, Marilyn Monroe, Carl Sandburg, and Norman Thomas. He also brought to Bement Clark Eichelberger, executive director of the American Associaton of the United Nations; Sen. Ralph Flanders of Vermont; Charles B. Shuman, president of the American Farm Bureau Federation; Rep. Philip Wilkie of Indiana; and Sen. Alexander Wiley of Wisconsin.</p>
+                                 <p>Smith (1908-84) graduated from the University of Illinois in 1928, and for a time pursued a career as a music critic. He founded the National Arts Foundation in 1948 and served as its director. Through the foundation, a precursor of the National Endowment for the Humanities, he sought to arrange international exchanges of art and artists. He endeavored to establish a range of cultural programs and exhibits, and to find donors to support them. For an exhibit at the Bement centennial in particular, he obtained on loan a broad spectrum of documents, paintings, and sculpture.</p>
+                                 <p>Richard Skagenberg and Eleanor Ann Lefever Skagenberg, residents of Monticello, Ill., gave the collection to the University of Illinois Library in 2014. They donated additional materials related to Marilyn Monroe in 2015.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

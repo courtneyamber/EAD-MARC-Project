@@ -1,0 +1,147 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7083">944</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Deming, Minor and Abigail. Correspondence</titleproper>
+               <titleproper type="filing">Deming, Minor and Abigail. Correspondence</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Deming, Minor and Abigail. Correspondence
+                              <date normal="1826/1849" encodinganalog="260$c">1826/1849</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Deming, Minor and Abigail. Correspondence                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1826/1849">1826-1849</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">944</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Deming, Minor R." source="lcnaf" role="Collector">Deming, Minor R., 1810-1845</persname>
+                                 <persname encodinganalog="100" normal="Deming, Abigail B." source="local" role="Collector">Deming, Abigail B., 1810-1890</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/deming.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Church of Jesus Christ of Latter-day Saints</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Carthage (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Nauvoo (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Knox County--Galesburg (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Ohio</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Deming, Minor R., 1810-1845</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Ford, Thomas, 1800-1850</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, Hyrum, 1800-1844</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, Joseph, Jr., 1805-1844</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Spencer, Orson, 1802-1855</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mormonism</subject>
+                                       <subject encodinganalog="650" source="lcsh">Peace and conflict issues</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Minor R. Deming and his wife Abigail moved to Illinois in 1838. Minor Deming served as a brigadier general of the state militia under Governor Thomas Ford and was later elected sheriff of Hancock County in 1844 during a time of significant conflict between Mormon and anti-Mormon citizenry in the area. This collection consists of both personal and family letters of the Demings from 1826 to 1849 as well official correspondence related to the role of the governor and state militia around the time of the arrest and subsequent murder of Joseph and Hyrum Smith in June 1844.</p>
+                                 <p>Born in Connecticut in 1810 to Stephen and Sarah Deming, Minor Rudd Deming moved west in the mid-1830s to Cincinnati, Ohio. He taught school there and later returned to Connecticut to marry Abigail Barnum (1810-1890) in 1836. Abigail gave birth to their first son, Arthur Buel Deming, in Ohio in March 1838. Later that year, they moved to St. Mary&#039;s in Hancock County, Illinois, arriving in September. A second son, Eugene Macy, was born in March 1840, and a third, Minor Rudd, was born in December 1844.</p>
+                                 <p>In Illinois, Deming worked on the farm he had purchased on a trip to Illinois, circa 1835, and later taught school. He also served as a brigadier general in the state militia. His brigade was called up by Governor Thomas Ford in late June 1844 following the arrest of Joseph and Hyrum Smith. Initially the Governor planned to march to Nauvoo with a large company of troops but later decided to dismiss most of the militia and proceed only with a small force. Shortly after the troops were dismissed, the Smiths were murdered after a mob attacked the jail where they were being held in Carthage. In his role as Brigadier General, Deming, directed by Governor Ford, worked to prevent the outbreak of greater violence in the county and surrounding region.</p>
+                                 <p>In August of 1844, Minor Deming was elected sheriff of Hancock County, with the support of the Mormon vote in Nauvoo. In this role he sought to restore order to the county, which included arresting those suspected in the murder of the Smiths. He was consequently targeted by anti-Mormon factions and on June 24, 1845, the opening day of the trial, he was attacked in the courthouse by a prominent anti-Mormon. Deming fired on his assailant in self-defense and killed him. He was arrested for his actions and released on bail. He resigned his office as sheriff, but he was fully confident that he would be acquitted of the charges. On September 10th, however, Minor died at home after suffering from what appeared to be heat stroke. Abigail reported that the &quot;mobocrats&quot; rejoiced over his death. Less than a year later, she decided to move to Galesburg, explaining in a letter to Minor&#039;s parents that &quot;there is no place nearer where Minor would have been willing to have the children brought up.&quot;</p>
+                                 <p>The letters in this collection chronicle these events as well as the Demings&#039; reactions to them. The correspondence has been arranged in two series. The first series, Personal and Family Correspondence, makes up the bulk of the collection. Primarily consisting of letters from Minor or Abigail to his family in Litchfield, Connecticut, this series documents their personal experience of both living in Ohio and Illinois as well as their reactions to and experiences of the events described above, along with commentary on the reactions of the populace to Deming&#039;s actions and presumed sympathies. Both Minor and Abigail held a strong religious faith and trust in God that they also discuss in their letters to their family. Abigail&#039;s later letters discuss her thoughts on staying in Illinois and her struggles as a widow raising three young sons in Galesburg.</p>
+                                 <p>The second series, Official Correspondence, consists of letters or handwritten copies of letters and proclamations related to Minor Deming&#039;s service as Brigadier General during the time of the arrest, imprisonment, and subsequent murder of Joseph Smith and his brother Hiram. It includes letters to and from Gov. Thomas Ford; letters to the citizens of Hancock and Adams Counties; a letter to the editor a newspaper in Warsaw correcting a story; and a letter from Orson Spencer in Nauvoo to Gen. Deming.</p>
+                                 <p>A third series consists of typed transcripts and summary cards for the letters in the first and second series.</p>
+                                 <p>This collection was donated to the University of Illinois in 1930 by Macey F. Deming of Tappan, New York, grandson of Abigail and Minor R. Deming. He donated additional letters in 1938. The staff of the Illinois Historical Survey, the collections of which are now contained in the Illinois History and Lincoln Collections unit of the Library, created transcripts and summary cards for the collection in 1971 and earlier.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

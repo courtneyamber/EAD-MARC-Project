@@ -1,0 +1,147 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:184">183</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Peck, John Mason (1789-1858). Papers</titleproper>
+               <titleproper type="filing">Peck: John Mason Peck Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Peck, John Mason (1789-1858). Papers
+                              <date normal="1841/1857" encodinganalog="260$c">1841/1857</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Peck, John Mason (1789-1858). Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1841/1857">1841-1857</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">183</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Peck, John Mason" source="lcnaf" role="Collector">Peck, John Mason, 1789-1858</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Baptists</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Shurtleff College</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Alton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Edwardsville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Leverett, Warren, 1805-1872</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Peck, John Mason, 1789-1858</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Turner, J. B. (Jonathan Baldwin), 1805-1899</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clergy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Pease, Marguerite Jenison. Papers, 1911-1991 (Series 6. John Mason Peck)</p>
+                                          <p>Blair, Leverett, and Stifler Family. Papers, 1805-2006.</p>
+                                    <p>Information about related materials is available at http://www.library.illinois.edu/ihx/archon/index.php?p=collections/controlcard&amp;id=849</p>
+                              </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>John Mason Peck (1789-1858), a native of Connecticut, was a Baptist preacher, author, and newspaper editor who came to Illinois in 1822. Peck was a leading proponent of higher education in the state and in 1832 founded Shurtleff College in Upper Alton, Ill.</p>
+                                 <p>This collection consists of Peck&#039;s correspondence with Warren Leverett and Washington Leverett, brothers and professors at Shurtleff College. Their correspondence regards the administration and finances of Shurtleff College; day-to-day church business; Baptist conventions; and the administration of the Illinois Literary and Historical Society (one of the precursors of the Illinois State Historical Society), for which Peck served as secretary. In one particularly notable letter (June 10, 1852), Peck writes the Leverett brothers about the &quot;visionary and impracticable&quot; educational ideas of Jonathan Baldwin Turner, the Illinois farmer and advocate of industrial and agricultural education. (A portion of Turner&#039;s papers are also housed in the Illinois History and Lincoln Collections.) Peck believed that Turner&#039;s ideas, if implemented, would destroy the educational landscape in which Shurtleff College thrived.</p>
+                                 <p>The collection also includes minutes of the Edwardsville (Ill.) Baptist Association Annual Meeting (1853) and a Circular stating the purpose of Shurtleff College&#039;s Society of Religious Inquiry (circa 1850s).</p>
+                                 <p>Additional materials on Peck in the Illinois History and Lincoln Collections may be found in the Marguerite Jenison Pease Papers, the Lyman C. Draper Collection, and the Austen Kennedy De Blois Collection.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

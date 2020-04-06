@@ -1,0 +1,144 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:26">025</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Gutmann-Steven Family. Papers</titleproper>
+               <titleproper type="filing">Gutmann-Steven Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Gutmann-Steven Family. Papers
+                              <date normal="1807/1918" encodinganalog="260$c">1807/1918</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Gutmann-Steven Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1807/1918">1807-1918</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">025</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Gutmann-Steven Family" source="lcnaf" role="Collector">Gutmann-Steven Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.80</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/gutmannsteven.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Central Railroad Company</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Ivesdale (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Sadorus (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Connecticut--Hartford</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">New York--New York City</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Scotland</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">South Carolina--Florence</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Crops</subject>
+                                       <subject encodinganalog="650" source="lcsh">Emigration and immigration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Gutmann-Steven Family collection documents the immigrant experiences of two related Champaign County, Ill., families during the latter half of the nineteenth century: the Gutmanns of Gorlitz, Prussia, who settled in Sadorus in 1857; and the Stevens of Arbroath, Scotland, who settled in the Ivesdale area in 1855. The collection contains biographical material; personal correspondence; education, financial, and legal papers; maps; and a family photograph. The collection also features letters regarding developments in economics, transportation, and architecture in Scotland during the mid-to-late nineteenth century.</p>
+                                 <p>The earliest Gutmann materials, including travel notebooks and immigration papers, relate to Joseph and Henrietta Gutmann, who moved from Gorlitz, Prussia, to Hartford, Conn., in 1850. Joseph, a craftsman of paintbrushes and a farmer, and his wife Henrietta had seven children, only two of whom are represented in the collection: Otto, a farmer, and Laura, a homemaker.</p>
+                                 <p>Laura Gutmann&#039;s 30-year correspondence with her childhood friend, Mary (Green) Pollard, makes up the bulk of the Gutmann half of the collection. Dating from 1857, when the Guttmanns moved from Hartford to Champaign County, the letters discuss the imprisonment and death of Mary&#039;s brother Charles at the Florence Stockade, So. Car. during the Civil War; the lifestyle of Moses Ballerstein, of Colt Manufacturing Company, who made a fortune from government contracts during the war; Mary&#039;s marriage, family life, and move to Brooklyn, N.Y.; food prices; typhoid fever, scarlet fever, and small pox outbreaks in Hartford; Otto Gutmann&#039;s 1865 death, from a high fever; an increase in the infant mortality rate in Brooklyn (1881); and news about friends in Hartford.</p>
+                                 <p>The Steven family material mainly concerns the offspring of James Steven, Sr., a farmer and blacksmith, and Christine Gray, who moved from Arbroath, Scotland, to Chicago in 1854. Two of the couple&#039;s sons, William (the oldest) and James, Jr. (the middle son), joined them. Their youngest son, Stewart, remained in Scotland to work as a sailor. In 1855 the couple and James, Jr., purchased a homestead and farm ground near Ivesdale. In 1864 James, Jr., married Laura Gutmann (or Goodman, as she sometimes called herself), linking the families.</p>
+                                 <p>After many failed attempts to buy farm ground in Champaign County, William Steven stayed in Chicago, eventually working as a painter for the Galena and Chicago Union Railroad Co. and the Chicago and Northwestern Railway Co. William&#039;s and Stewart Steven&#039;s letters to James, Jr., make up the bulk of the Steven half of the collection. William&#039;s letters to James discuss his attempts to purchase a farm in Champaign County; &quot;street railways&quot; and crop prices in Chicago; the prices of land owned by the Illinois Central Railroad and by the federal government; and the Civil War draft. Stewart&#039;s letters to James discuss the development of Arbroath, Scotland, particularly the construction of new churches; unemployment in Scotland; the failure of the City of Glasgow Bank (Oct. 1878); the Tay Bridge disaster (Dec. 28, 1879); the routes of railroads in Scotland, including the North British, Arbroath &amp; Montrose, and the Caledonian; and the construction of Scottish railroads, involving the North British Coy.</p>
+                                 <p>Also of note is a Jan. 11, 1854, letter from James Fyfer to James Steven, Sr., regarding the experiences of Scottish immigrants in Chicago, and discussing the availability of work; the differences in farming in the United States versus Scotland; provisions to pack for one&#039;s move to America; and information about transportation options from Scotland to the U.S.</p>
+                                 <p>This collection, consisting of original manuscripts, transcripts, and photocopies, was donated to the Library during the period 1966-69 by Doris Weasel, of Sadorus.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:992">1010</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lovejoy Society, Papers</titleproper>
+               <titleproper type="filing">Lovejoy Society, Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lovejoy Society, Papers
+                              <date normal="1996/2014" encodinganalog="260$c">1996/2014</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lovejoy Society, Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1996/2014">1996-2014</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1010</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lovejoy Society, Papers" source="local" role="Collector">Lovejoy Society, Papers</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Bureau County--Princeton (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lovejoy, Owen, 1811-1864</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Antislavery movements</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Slavery</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>In 1995, the Revs. William F. Moore and Jane Ann Moore formed the Owen Lovejoy Society to advance the study of Owen Lovejoy (1811-1864) of Princeton, Illinois, a leader in the anti-slavery cause. This collection contains the papers that they wrote, presented, and published--the harvest of their sustained research into the life and contributions of Lovejoy.</p>
+                                 <p>The first file of the collection contains a detailed table of contents of each issue of the <emph render="italic">Lovejoy Society Newsletter</emph> (1996-2004). The second file contains a full run (ten issues) of the <emph render="italic">Newsletter</emph>.</p>
+                                 <p>Subsequent files are organized as follows: (A) Owen Lovejoy and African Americans, (B) Owen&#039;s Lovejoy&#039;s Associates, (C) Owen Lovejoy&#039;s Family, (D) Owen Lovejoy&#039;s History, (E) Lovejoy&#039;s Relationship to Lincoln, (F) Lovejoy&#039;s Political Activities, and (G) Lovejoy and Religion.</p>
+                                 <p>Most of the papers in these files were delivered at the Illinois History Symposium and the Conference on Illinois History, in Springfield, although some were presented in other venues.</p>
+                                 <p>The collection also includes William F. and Jane Ann Moore&#039;s detailed study of Lovejoy and Lincoln: <emph render="italic">With Increasing Respect: The Lincoln-Lovejoy Saga</emph> (2010), a compact disk containing an Introduction and a discussion of their relationship from 1854 to 1864.</p>
+                                 <p>In addition, there is a a recording of William F. Moore&#039;s Prairieland Chautauqua presentation, &quot;Meet Owen Lovejoy&quot; (2005); programs of the Lovejoy Symposium in 1998 and 2000; and papers relating to William F. Moore and Jane Ann Moore, ed., <emph render="italic">Owen Lovejoy: His Brother&#039;s Blood: Speeches and Writings, 1838-64 </emph>(2004), and their book, <emph render="italic">Collaborators for Emancipation: Abraham Lincoln and Owen Lovejoy </emph>(2014). See also the Lovejoy Society website: <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.lovejoysociety.org">www.lovejoysociety.org</extref>.</p>
+                                 <p>William and Jane Ann Moore, residents of DeKalb, Illinois, and ordained ministers of the United Church of Christ, donated the collection to the Library in 2010-2014.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

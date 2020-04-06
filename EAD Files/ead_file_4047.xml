@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4047">225</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the American Association of University Women, North Shore Branch Records</titleproper>
+               <titleproper type="filing">American Association of University Women, North Shore Branch Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the American Association of University Women, North Shore Branch Records
+                              <date normal="1940/2011" encodinganalog="260$c">1940/2011</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">American Association of University Women, North Shore Branch Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1940/2011">1940-2011</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">225</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="American Association of University Women, North Shore Branch" source="local" role="Collector">American Association of University Women, North Shore Branch</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.50</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/aauw-northshore.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Association of University Women</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Association of Collegiate Alumnae (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Evanston (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Glencoe (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Kenilworth (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Wilmette (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Winnetka (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Highland Park (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Lake Bluff (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Lake Forest (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Women&#039;s rights</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of records from the North Shore branch of the American Association of University Women. Centered in the northern suburbs of Chicago, the North Shore branch focuses on advancing women&#039;s equality and rights through education, advocacy, and research. Records include newsletters, minutes, reports, correspondence, and other materials.</p>
+                                 <p>The American Association of University Women began in 1881 when seventeen women in Boston formed the Association of Collegiate Alumnae for the purpose of uniting the alumnae of different institutions for practical educational work. In 1889 it merged with the Western Association of College Women under the ACA name. A final union with the Southern Association of College Women in 1921 brought about the present AAUW.</p>
+                                 <p>The North Shore Branch of AAUW was formed on March 9, 1940, when thirty-five women gathered in the home of Ethel Stafford to discuss the creation of a branch in Evanston, Illinois. Twenty women became the Charter Members that day, and twenty-two more joined at a luncheon on April 13, 1940.</p>
+                                 <p>Although the collection includes records dating from its founding in 1940 to 2011, the bulk of the material dates from the 1970s to the 2000s. The collection offers insight into the administrative functions of the branch with records including bylaws, Board minutes, member lists, financial records, and handbooks. Branch newsletters discuss upcoming calendar events such as plays and readings to celebrate Women&#039;s History Month, member news, and study group updates. Copies of the branch&#039;s yearbook, dating from the 1970s through the 2000s, include full member directories. The collection also includes correspondence, announcements, programs, and invitations related to various events such as anniversaries, the AAUW-IL State Convention, and the branch Fall Benefit.</p>
+                                 <p>A portion of this collection is believed to have been acquired from Kate Whitcomb. Additional material was acquired from Margaret Stewart in July of 2012.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

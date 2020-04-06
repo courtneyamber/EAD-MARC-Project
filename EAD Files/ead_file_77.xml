@@ -1,0 +1,123 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:77">076</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lippincott, Thomas, and George Churchill. Papers</titleproper>
+               <titleproper type="filing">Lippincott: Thomas Lippincott Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lippincott, Thomas, and George Churchill. Papers
+                              <date normal="1860" encodinganalog="260$c">1860</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lippincott, Thomas, and George Churchill. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1860">1860-1865</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">076</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lippincott, Thomas" source="lcnaf" role="Collector">Lippincott, Thomas</persname>
+                                 <persname encodinganalog="100" normal="Churchill, George" source="local" role="Collector">Churchill, George</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Edwardsville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Slavery</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Thomas Lippincott (1791-1869), who settled in Edwardsville in 1818, was a strong foe of slavery and active in opposing the adoption of a pro-slavery constitution for Illinois in 1824. In 1825-26 he edited, in association with Hooper Warren, the <emph render="italic">Edwardsville Spectator</emph>. He then became a minister of the Presbyterian Church and associated himself with its activities throughout Illinois.</p>
+                                 <p>This collection contains transcripts of essays by Lippincott that were published in the <emph render="italic">Alton Courier</emph>, <emph render="italic">Alton Telegraph</emph>, and the <emph render="italic">Henry Weekly Courier</emph>. The topics include &quot;The Conflict of the Century,&quot; an account of pro-slavery agitation in Illinois during the 1820s (57 pages) and &quot;Early Days in Madison County&quot; (194 pages).</p>
+                                 <p>The collection also includes the &quot;Annotations&quot; of George Churchill (1789-1872) on Lippincott&#039;s &quot;Early Days in Madison County&quot; (62 pages). Churchill&#039;s career paralleled Lippincott&#039;s. He assisted Hooper Warren in editing the <emph render="italic">Edwardsville Spectator</emph>, 1819-25; actively opposed the pro-slavery movement in Illinois; and served in the General Assembly, 1822-32, and 1844. His &quot;Annotations&quot; appeared in 15 installments, as comments on each of Lippincott&#039;s 47 papers.</p>
+                                 <p>The Library&#039;s transcripts were made in 1912-1913 from a scrapbook made by Lippincott, then owned by W. T. Norton of Alton, Ill., and from sets of the <emph render="italic">Telegraph</emph> articles in the possession of Norman Flagg of Moro, Ill.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

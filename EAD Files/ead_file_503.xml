@@ -1,0 +1,130 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:503">508</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Carr, Mildred E. Journal</titleproper>
+               <titleproper type="filing">Carr: Mildred E. Carr Journal</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Carr, Mildred E. Journal
+                              <date normal="1907/1908" encodinganalog="260$c">1907/1908</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Carr, Mildred E. Journal                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1907/1908">1907-1908</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">508</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Carr, Mildred E" source="lcnaf" role="Collector">Carr, Mildred E</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volume">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago White Sox (Baseball team)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Stanford University</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Arizona</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">California</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Canada</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New York</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Pennsylvania--Philadelphia</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Washington (D.C.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Mildred E. Carr, a British native, visited the United States between July 31, 1907, and Feb. 28, 1908. Her journal of this trip includes her observations on American people and places. She traveled across the country and into Canada in the company of her friend, Mary Eldridge, of Needham, Mass. Their stops included New York City, Buffalo, and Niagara Falls, N.Y.; Chicago; Duluth, Minn.; and Halifax, Quebec, Montreal, Port Arthur, Winnipeg, Banff, and Lake Louise, Canada. They also visited several places in California, including San Francisco, Stanford University, Mt. Tamalpais, Vallecito, Sierre Madre, Monterey, and Santa Barbara. In addition, they saw the Grand Canyon and Painted Desert in Arizona; and visited Philadelphia, Washington, D.C., and Mount Vernon, before sailing from New York. Some of Carr&#039;s observations are particularly enlightening. She described Chicago, for instance, as &quot;a hazy, smoky, Birmingham.&quot;</p>
+                                 <p>Carr&#039;s journal contains a 111-page diary, 198 photographs, and 33 postcards. One photograph depicts a game between the Chicago White Sox and the Washington Senators on Aug. 16, 1907. Also included are two letters to Carr, including one from Eldridge in which they plan their trip; a folding map of the Nipigon River in the province of Ontario; a table of railroads rates; a playbill for &quot;The Jesters,&quot; performed at the Empire Theater in New York; and an envelope of Balsam Pine Needles from Nipigon.</p>
+                                 <p>This volume was purchased in 1976 from Henry Stevens, Son and Stiles.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

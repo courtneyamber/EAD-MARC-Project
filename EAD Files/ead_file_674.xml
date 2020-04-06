@@ -1,0 +1,487 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:674">688</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hand, Joseph. Papers</titleproper>
+               <titleproper type="filing">Hand: Joseph Hand Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hand, Joseph. Papers
+                              <date normal="1803/1905" encodinganalog="260$c">1803/1905</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hand, Joseph. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1803/1905">1803-1905</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">688</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hand, Joseph" source="lcnaf" role="Collector">Hand, Joseph, 1786-1861</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.60</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">Also oversize documents</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hand-joseph.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">England</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Macoupin County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Madison County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Emigration and immigration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Taxation</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                                 <daogrp>
+                                       <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_07_22_envelope_no_letter.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>[Miss] A. W. Dudley to &#039;My dear Lissley [Sarah]&#039;</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_june.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>[Miss] A. W. Dudley to &#039;My dear Lissley [Sarah]&#039;</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1886_03_30.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>[Mrs.] E. Shipton to Sarah Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1845_02_22.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>[Rev.] H. Price to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1848_01_27.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>[Rev.] H. Price to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1846_04_28.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann (Hand) Willson to Joseph Hand,Apr. 28</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1840.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Hollis to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1850_10_28.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Father</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1854_08_21.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Father Brothers and Sisters</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1855_06_17.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Father Brothers and Sisters</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1856_06_07.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Father Brothers and Sisters</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1861_03_27_b.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to George Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1852_07_29.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1856_09_13.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_03_01.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_09_21.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1859_09_19.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1860_01_29.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Joseph Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1854.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Miss [Ann] Holles</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1861_03_27_a.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1861_11_15.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Ann Wilson to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_coton_hall_dear_sarah_i_write.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>E. Bentley to Sarah Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1843.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>E. Brown to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1845_01_24.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Edward Watkin to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1835_05_17.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Elizabeth Gough to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_06_03.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Emma Bentley to Sarah Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1856_08_25.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>George Shipton to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_blue_ink.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Hall to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_a_list_of_genuine.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Hannah Dodge to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_brown_ink.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Hannah Dodge to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_01_31.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Harding to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_hymns_sung_at_the_burial.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Hymns Sung at the Burial Service of Sarah Hand&#039;</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_02_15.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Jane Geary to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1845_10_13.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Joseph Upton to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1824_03_17.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>M[ary] Turlington to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1844_08_25.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Green to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1852.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1835_03_11.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Harding to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1835_11_16.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Harding to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1836_03_15.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Harding to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1837_01_12.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Harding to Sarah S. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1903_04_23.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Partridge to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1835_1840.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Mary Toppen to Sarah A. Hand (a recipe)</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1866_06_28.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Richard and Mary Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1866_12_03.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Richard and Mary Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_06_18.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Rushton-Cooper to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_08_07.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Rushton-Cooper to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_11_06.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Rushton-Cooper to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1851_09_22.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Samuel H. Hand to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1841_01_27.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Samuel Harding to Mr. &amp; Mrs. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1843_04_24.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Sarah S. Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1843_july.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Sarah S. Hand to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1856_08_22.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Thomas Rushton to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1857_04_24.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Thomas Rushton to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_oversize_01.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Two farm-sale broadsides for Linbrook Farm</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1854_04_08.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>Unknown correspondent to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1847_03_30.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>William / Ann Willson to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1849_09_12.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>William Elkin to Joseph Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                    <daoloc xlink:type="simple" xlink:href="http://www.library.illinois.edu/ihx/pdf/ihlc_ms_688/hand_j_1842_06_08.pdf" xlink:actuate="onRequest" xlink:show="new">
+                              <daodesc>
+                                 <head>Title:</head>
+                                 <p>William Willson to Sarah A. Hand</p>
+                              </daodesc>
+                           </daoloc>
+                                 </daogrp>
+                           <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Joseph Hand, a relatively prosperous farmer in Yoxall, Staffordshire, England (about 25 miles north of Birmingham), emigrated to Illinois with his wife and children in 1845. His wife, Sarah Shipton Hand, died at sea en route. He bought land at Paddock&#039;s Grove, Madison County, and in a few years added adjacent land straddling the county line into Bunker Hill, Macoupin County. Upon his death, Joseph&#039;s daughter Sarah A. Hand (1819-1906) took over management of the farm. Sarah&#039;s brothers, Joseph, Richard, George, and John settled in the area. Their sister Mary (1825-91) married (1851) William Cruickshank[s] (1816-98), who was born in Montrose, Forfarshire, Scotland. Their other sister, Ann Wilson, remained in England with her husband, William Wilson, a blacksmith.</p>
+                                 <p>This collection contains family correspondence, county tax records and receipts, and auction records. The correspondence illustrates the lives of working and middling rural English people, and includes Ann&#039;s letters to Illinois, concerning family in England; several letters from Sarah&#039;s fellow servants at Coton Hall, a manor where she worked in 1843; four letters from Samuel or Mary Harding, a sister of Sarah Hand, brimming with the evangelical spirit of the 1830s; and two letters by Rev. H. Price seething with despair at England&#039;s political and social condition in the 1840s.</p>
+                                 <p>The county tax records (1845-1903, 1905), kept by Joseph, and then Sarah, provide a good picture of the evolution of the types of taxes levied and the forms used in two adjoining Illinois counties. Tax receipts of an in-law, Scott Mize, of Dorchester, Macoupin County, are also included. In addition, there are also an auctioneer&#039;s broadsides and reports from two pre-departure sales in Yoxall, and many small financial notes from Illinois, as Joseph Hand retained some investments in England until about 1857.</p>
+                                 <p>In 2004, Joseph Hand&#039;s great-great-grandson, Robert M. Sutton, for Mary Hand Cruickshank, donated the collection to the Illinois Historical Survey. It was inventoried by James Cornelius, who transcribed several letters.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,156 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:23">022</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Flagg Family. Diaries, Papers, Pamphlets</titleproper>
+               <titleproper type="filing">Flagg Family Diaries, Papers, Pamphlets</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Flagg Family. Diaries, Papers, Pamphlets
+                              <date normal="1819/1973" encodinganalog="260$c">1819/1973</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Flagg Family. Diaries, Papers, Pamphlets                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1819/1973">1819-1948, 1973</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">022</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Flagg Family" source="lcnaf" role="Collector">Flagg Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/flagg-family.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Washington University (Saint Louis, Mo.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Yale University</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Madison County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Flagg, Norman Gershom, 1867-1948</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Postal service</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Flagg Family <emph render="italic">Prairie Settlers</emph> Articles Collection, 1980, Illinois History and Lincoln Collections</p>
+                                          <p>Flagg Family Collection, 1850-1981, University Archives and Special Collections, Southern Illinois University-Edwardsville</p>
+                                          <p>Willard C. Flagg Papers, 1863-1878, University of Illinois Archives, University of Illinois at Urbana-Champaign</p>
+                                 </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the personal papers of the Flagg family from Madison County, Illinois. The materials in the collection include correspondence, diaries, magazines, and other personal items.</p>
+                                 <p>The collection features items related to three members of the Flagg family: Gershom Flagg, Willard C. Flagg, and Norman G. Flagg. Gershom Flagg (1792-1857), moved from Vermont to Madison County, Illinois in 1818. He worked as a farmer and a postmaster. Gershom served as a representative to the Illinois General Assembly in 1846 and a delegate to the Illinois Constitutional Convention in 1847.</p>
+                                 <p>Gershom&#039;s son, Willard C. Flagg (1829-1878) graduated from Yale College and continued his father&#039;s interest in agriculture and politics. Willard was a member of the first Board of Trustees for the institution that would become the University of Illinois at Urbana-Champaign, and he served two non-consecutive terms in that position. He also served as an Illinois State Senator from 1869-1873.</p>
+                                 <p>Norman G. Flagg (1867-1948) attended Washington University in St. Louis and was an active member of the school&#039;s alumni group. He spent many years in the state legislature, working in the Illinois General Assembly from 1909-1927 and the Illinois State Senate from 1927-1931 and 1939-1947.</p>
+                                 <p>The collection includes five series: Series I. Gershom Flagg papers, Series II. Willard C. Flagg papers, Series III. Norman G. Flagg papers, Series IV. Flagg family papers and photographs, and Series V. Pamphlets and magazines.</p>
+                                 <p>Series I includes letters and receipts given to Gershom Flagg, transcripts of correspondence, and accounts of the Paddocks&#039; Grove Post Office, where he worked as postmaster.</p>
+                                 <p>Series II features the papers of Willard C. Flagg, including original and transcript copies of correspondence with family members and colleagues, diary entries, expense accounts for his time at Yale, land acquisition papers, and a weather map.</p>
+                                 <p>Series III consists of personal and business papers of Norman G. Flagg, with many of them describing his association with Washington University in St. Louis, Missouri. These include correspondence with alumni, school essays, and a scrapbook. This series also contains many year-long diaries kept by Norman, correspondence about Illinois history, transcripts of correspondence, financial papers, copies of his father&#039;s diary entries, broadsides, handbills, and newspaper clippings.</p>
+                                 <p>Series IV contains general newspaper clippings and photographs of the family along with duplicates of transcripts of correspondence for all three family members.</p>
+                                 <p>Series V includes pamphlets and magazines about and collected by the three family members. The pamphlets contain information about the Rules of the General Assembly and a congressional directory from Willard Flagg&#039;s time in the Illinois State Senate, Washington University student life and alumni, and a copy of <emph render="italic">Pioneer Letters of Gershom Flagg</emph> published in 1912. It also features seven editions of the <emph render="italic">Yale Literary Magazine</emph> including one issue with articles written by Willard Flagg.</p>
+                                 <p>The transcripts of correspondence were created from the originals in possession of Norman G. Flagg from 1910-1913. The original materials in this collection were donated in 1974 by Willard G. Flagg.</p>
+                                 <p>In addition to this collection, other materials related to the Flagg Family are held at the University Archives and Special Collections at Southern Illinois University-Edwardsville (SIU-E), the University Archives at the University of Illinois at Urbana Champaign (UIUC), and the Madison County Historical Society. The collection at SIU-E contains Gershom Flagg letters, the journals of Willard C. Flagg and Sarah Smith Flagg, expense and account books, and some genealogical information. The collection at the UIUC University Archives contains the official papers of Willard C. Flagg during his time as a trustee of the university, including correspondence and documents relating to agriculture and horticulture programs. The Madison County Historical Society possesses letters of Willard and Norman Flagg, some letters written between Gershom and Willard, and genealogical records of the family. Many of the Gershom Flagg letters in this collection and the collection at SIU-E may also be found in the book <emph render="italic">The Flagg Correspondence: Selected Letters, 1816-1854</emph>.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

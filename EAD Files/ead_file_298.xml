@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:298">298</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Stevens, Wayne E. Papers</titleproper>
+               <titleproper type="filing">Stevens: Wayne E Stevens Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Stevens, Wayne E. Papers
+                              <date normal="1920/1959" encodinganalog="260$c">1920/1959</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Stevens, Wayne E. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1920/1959">1920-1959</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">298</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Stevens, Wayne Edson" source="lcnaf" role="Collector">Stevens, Wayne Edson, 1892-1959</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/stevenswayne.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Native Americans</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Fayette County--Vandalia (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indiana</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Stevens, Wayne Edson, 1892-1959</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Slavery</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the professional research papers, articles, letters, and notes of Wayne E. Stevens, a University of Illinois alumnus and history scholar.</p>
+                                 <p>Wayne Edson Stevens (1892-1959) was born in Avon, Illinois and earned a Bachelor of Arts degree from Knox College in 1913 before receiving his Master of Arts (1914) and Ph.D. (1916) degrees from the University of Illinois at Urbana-Champaign. As a graduate student at the University of Illinois, Stevens worked on several historical studies, including the <emph render="italic">Illinois Centennial History</emph>. He taught briefly at the University of Minnesota before accepting a position at Dartmouth College, where he taught for 38 years. Stevens&#039;s work includes editing <emph render="italic">History of the 151<emph render="super">st</emph> Field Artillery, Rainbow Division</emph> (1924), writing <emph render="italic">The Northwest Fur Trade, 1763-1800</emph> (1928), along with many articles, creating an inventory of Canadian archives for a study of the Mississippi Valley, and working on an edited edition of pamphlets related to the Vandalia and Indiana Companies of the late eighteenth century for the Alvord Memorial Commission.</p>
+                                 <p>This collection is arranged into three series containing papers related to the Vandalia and Indiana Companies, interest groups disputing lands and territories during the late eighteenth century, and Illinois politics. Making up the majority of the collection, the Vandalia and Indiana Companies Editorial Project series includes editor&#039;s comments about and outlines of the pamphlets, lists of documents related to the companies, correspondence, and reports on progress towards publication. The Rights, Settlement and Acquisition of Lands series includes copies of pamphlet and court cases concerning land rights, settlement, and acquisition of lands from Native American tribes. The Other Articles, Reports, and Notes series includes two articles on Illinois politics, including the issue of slavery, in the first decade after its statehood; a manuscript on the Vandalia Colony; a report listing Upper Mississippi Valley resources in the Canadian Archives; biographical notes of Henry Munro, Hendrick Theyanoguin, and the family of William Johnson; and notes gathered for <emph render="italic">The Illinois Country</emph>.</p>
+                                 <p>Mrs. Wayne E. Stevens donated the collection to the Illinois Historical Survey, predecessor to the Illinois History and Lincoln Collections, in 1959.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

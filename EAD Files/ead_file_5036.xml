@@ -1,0 +1,128 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:5036">910</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Brichford, Maynard J. Railroad Ephemera Collection</titleproper>
+               <titleproper type="filing">Brichford, Maynard J. Railroad Ephemera Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Brichford, Maynard J. Railroad Ephemera Collection
+                              <date normal="1913/1989" encodinganalog="260$c">1913/1989</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Brichford, Maynard J. Railroad Ephemera Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1913/1989">1913-1989</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">910</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Brichford, Maynard J" source="lcnaf" role="Collector">Brichford, Maynard J</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/brichford-railroad.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Amtrak</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago &amp; Eastern Illinois Railroad Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago and North Western Railway Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago and Western Indiana Railroad Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago, Rock Island, and Pacific Railway Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Central Railroad Company</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of railroad ephemera from across the United States and dating mostly from the 1950s and 1960s. The ephemera includes time tables, annual reports, guides, and publications related to 29 rail lines across the country, including Illinois Central, Amtrak, Chicago and Eastern, Chesapeake and Ohio, and New York Central.</p>
+                                 <p>The collection provides insight into both company and train operations, with the bulk of the material consisting of annual reports and time tables. The annual reports offer a look into the administrative functions of the rail lines with information including names of directors and officers, highlights from the past year, innovations in technology, maps of the rail lines, and financial reports. The collection also includes <emph render="italic">The Official Guide of the Railways and Steam Navigation Lines</emph>, published by the National Railway Publication Company. Although only four are in this collection, these guides were published monthly with updates and additional information. The guides are over 1,000 pages and give an overview of railroad companies, airlines, and steam lines throughout the United States, Canada, and Mexico. They also include detailed information such as time tables, maps, and points of service. Time table pamphlets for railroad companies include information for passengers such as schedules, maps, and ticket fares. Also included are a small number of time tables and passenger information for other modes of transportation such as airlines, shuttles, and ferries.</p>
+                                 <p>Maynard J. Brichford, University Archivist from 1963 to 1995, donated this collection to the Library in 1998.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

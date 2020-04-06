@@ -1,0 +1,149 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:698">712</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hinrichs, Gustavus D. (1836-1923). Papers</titleproper>
+               <titleproper type="filing">Hinrichs: Gustavus D. Hinrichs Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hinrichs, Gustavus D. (1836-1923). Papers
+                              <date normal="1842/1917" encodinganalog="260$c">1842/1917</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hinrichs, Gustavus D. (1836-1923). Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1842/1917">1842-1917</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">712</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Hinrichs, Gustavus D." source="lcnaf" role="Collector">Hinrichs, Gustavus D., 1836-1923</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">10.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hinrichs-gustavus.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">St. Louis University</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">State University of Iowa</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Copenhagen</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Iowa</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Denmark</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">France--Paris</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iowa</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Missouri--St. Louis</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Hinrichs, Gustavus Detlef, 1836-1923</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Chemistry</subject>
+                                       <subject encodinganalog="650" source="lcsh">Courts</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Physics</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Weather</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the personal and professional papers of Gustavus D. Hinrichs. Materials include correspondence, textbooks, pamphlets, articles, notebooks, lecture notes, newspaper clippings, postcards, and maps.</p>
+                                 <p>Gustavus Detlef Hinrichs (1836-1923) was born in Lunden, Denmark on December 2, 1836. After studying science at the University of Copenhagen and the Polytechnic School (Copenhagen), he immigrated to the U.S. and settled in Iowa in 1861. As a chemist and physicist, he became a professor at the State University of Iowa (now the University of Iowa) in 1864. He also conducted research in meteorology and astronomy, and in 1875 he became the founder and director of the Iowa Weather Service. Hinrichs was active in the Iowa Geological Survey and participated in other scientific conferences. As an expert witness, he provided evidence for court cases involving chloroform and phenacetine implications. In 1885, Hinrichs became involved with the university&#039;s administrative reorganization controversies and consequently left in 1886. He took a position as a professor of Chemistry at the St. Louis University in 1889. Hinrichs retired in 1907 and continued his research until he passed away in 1923 at the age of 86.</p>
+                                 <p>The collection is organized into two series: European Papers (1837-1912) and American Papers (1842-1929). The bulk of the collection consists of his papers from the United States.</p>
+                                 <p>The European Papers (1837-1912) series contains Hinrichs&#039; personal materials from Denmark and documents his educational and professional career in Europe. Papers include booklets about his hometown of Lunden, his birth certificate, correspondence, school notebooks and textbooks, and his initial research and publications.</p>
+                                 <p>The American Papers (1842-1929) series contains Hinrichs&#039; personal and professional materials including military duty, marriage licenses, and correspondence and his professional career such as research, publications, involvement with the weather service including weather reports and bulletins. Also documenting his public involvement concerning the dispute with the university and the legal proceedings of some of his court cases. There are books of fellow scientists, including the works of his son, Carl Gustav Hinrichs.</p>
+                                 <p>Much of the collection is in German or a form of shorthand. Some books and articles under the publications section are also written in French.</p>
+                                 <p>Hans Hinrichs, grandson of Gustavus Hinrichs, donated this collection to the Library from 1959 to 1964. In July of 1977, the collection was transferred from the University of Illinois Archives to the Illinois Historical Survey, the predecessor of the Illinois History and Lincoln Collections Unit.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

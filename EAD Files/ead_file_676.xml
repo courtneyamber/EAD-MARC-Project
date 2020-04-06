@@ -1,0 +1,142 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:676">690</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hannon-Phalen Family Collection</titleproper>
+               <titleproper type="filing">Hannon-Phalen Family Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hannon-Phalen Family Collection
+                              <date normal="1874/2003" encodinganalog="260$c">1874/2003</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hannon-Phalen Family Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1874/2003">1874-2003</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">690</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Hannon-Phalen Family" source="lcnaf" role="Collector">Hannon-Phalen Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">2.02</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/hannon-phalen.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Ivesdale (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Haiti</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Iowa--Cedar Rapids</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Vermilion County--Allerton (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Catholic Church</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural clergy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural conditions</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1914-1918</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of personal papers from the Hannon-Phalen family. The materials reflect rural life in and around Ivesdale, Illinois, during the late nineteenth through the twentieth centuries. The collection contains personal family items, including correspondence, photographs, certificates, and other materials.</p>
+                                 <p>A brief guide containing biographical information on members of both families can be found in the inventory. Note that the guide focuses on a few individual family members and is not comprehensive.</p>
+                                 <p>The collection is comprised of six series, including Family History and Genealogy, Personal Papers, Correspondence, Photographs, and Business Records. Although the collection includes materials dating from 1874 to 2003, the bulk of the materials dates from the 1880s to the 1950s.</p>
+                                 <p>The Family History and Genealogy series contains research and biographies on the Hannon and Phalen families. Materials in this series contain information such as birth and death dates, marriages, and details about the family farms. Also included are three journals written by Ellen Cecelia Phalen (1909-2002) in the late 1990s. She discusses her childhood memories, offering a glimpse into rural life in the United States during the early twentieth century.</p>
+                                 <p>The Personal Papers series includes family information such as Hannon house blueprints, Baptismal certificates, driver&#039;s licenses, and Navy and Army service forms. Also included in the series are newspaper clippings discussing family members, Ivesdale, and local residents.</p>
+                                 <p>The Correspondence series contains personal letters and cards written to family members. Included in the correspondence are letters written to Roy Hannon (1898-1979) detailing state-side military service during World Wars I and II. Also discussed in the letters are the 1918 Influenza breakouts in U.S. military camps.</p>
+                                 <p>The Photographs series includes pictures of Hannon and Phalen family members and their farms, Ivesdale and the surrounding area, Saint Joseph&#039;s Catholic Church (Ivesdale) and its clergy, and various trips. Photos from trips include Haiti; Chicago; Cedar Rapids, Iowa; and Springfield, Illinois. It also includes photos of Mountmellick, Ireland, and Penn Yan, New York, where members of the Phalen family lived, taken in the early 2000s.</p>
+                                 <p>The Business Records series contains mostly agricultural records, including books for both the Hannon and Phalen farms, as well as the Ivesdale Co-op Grain Company. The series also includes the Ivesdale Village Board of Trustees minutes, dating from 1874 to 1880. The minutes offer insight into the town&#039;s governance during the late nineteenth century.</p>
+                                 <p>The Library acquired this collection from Dr. Bruce Hannon in 1992-1993. Dr. Hannon made additional donations in 1997, 2000, 2007, 2012-2013, and 2016. Additional materials related to the family are located in the University Archives under the title &quot;Bruce Hannon Papers&quot; (RS 15/10/22). Dr. Hannon is Professor Emeritus of Geography &amp; Geographic Information Science at the University of Illinois at Urbana-Champaign. He is the son of Walter Hannon and Kathleen Phalen Hannon.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

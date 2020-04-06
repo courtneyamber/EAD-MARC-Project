@@ -1,0 +1,149 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:7">006</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Belting, Natalia M. Collection</titleproper>
+               <titleproper type="filing">Belting: Natalia M. Belting Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Belting, Natalia M. Collection
+                              <date normal="1954/1986" encodinganalog="260$c">1954/1986</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Belting, Natalia M. Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1954/1986">1954, 1976-1986</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">006</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Belting, Natalia M." source="lcnaf" role="Collector">Belting, Natalia M.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.30</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="local" role="subject">Fort Crevecouer (Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Fort de Chartres Site (Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Fox Nation</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Native Americans</corpname>
+                                       <corpname encodinganalog="610" source="local" role="subject">Potawatomi</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Sauk Nation</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Randolph County--Kaskaskia (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Occupation:</head>
+                                       <occupation encodinganalog="656" source="lcsh">Professor</occupation>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Belting, Natalia Maree, 1915-1997</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Cousins, Norman, 1915-1990</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Seineke, Kathrine Wagner, 1908-2001</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Architecture</subject>
+                                       <subject encodinganalog="650" source="lcsh">Emigration and immigration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Native American studies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Presbyterian</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1939-1945</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Natalia M. Belting, a well-known authority on Illinois history, was born in Iowa, but moved to Urbana, Ill., with her father, University of Illinois professor Paul E. Belting. She received her A.B. degree in journalism from the university in 1930, her A.B. in history in 1937, and her doctorate in 1940. In 1941 she joined the university&#039;s history department, remaining there until her retirement in 1985. Specializing in early Illinois history, Belting gave particular attention to the Native Americans and French of the Illinois Country. In addition to her scholarly work, Belting wrote over twenty historical works for children, authored the syndicated &quot;Illinois Past&quot; column for central Illinois newspapers, and became a widely known speaker on Illinois history.</p>
+                                 <p>In addition to Belting&#039;s papers relating to the history of Illinois, the collection contains &quot;Illinois Past&quot; columns from Dec. 9, 1979 to Jun. 29, 1986. Access to specific columns is available through annual, chronological indexes. The collection also contains drawings prepared for a 1954 WILL television series in Illinois history that Belting hosted along with Professor Robert M. Sutton. The correspondence file includes information on the Prince of Wales&#039; visit to central Illinois in 1860 and an exchange of letters with <emph render="italic">Saturday Review</emph> editor Norman Cousins.</p>
+                                 <p>Dr. Belting donated the collection to the Illinois Historical Survey throughout the 1980s.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

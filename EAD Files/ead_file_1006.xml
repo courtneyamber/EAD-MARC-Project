@@ -1,0 +1,138 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:1006">1026</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Randall, James G. Collection of Abraham Lincoln source materials</titleproper>
+               <titleproper type="filing">Randall, James G. Collection of Abraham Lincoln source materials</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Randall, James G. Collection of Abraham Lincoln source materials
+                              <date normal="1859/1891" encodinganalog="260$c">1859/1891</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Randall, James G. Collection of Abraham Lincoln source materials                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1859/1891">1859-1891</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1026</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Randall, James G." source="local" role="Collector">Randall, James G., 1881-1953</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">6.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/randall-james-lincoln-collection.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Herndon, William Henry, 1818-1891</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Randall, J. G. (James Garfield), 1881-1953</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sherman, John, 1823-1900</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Weik, Jesse William, 1857-1930</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>James G. Randall (1881-1953), professor of History at the University of Illinois, created this collection of photostatic and microfilm copies of Lincoln and Lincoln-related letters and documents from the originals in other collections.</p>
+                                 <p>Part 1 of the collection includes photostats of items in the &quot;Herndon-Weik&quot; collection that were made in the 1930s, after the deaths of William H. Herndon (1818-1891) and Jesse W. Weik (1857-1930), and before the Library of Congress acquired the collection in 1941. In the intervening years, the University of Illinois Library obtained from Emanuel Hertz, the lawyer for the owners of the Herndon-Weik collection, the opportunity to make photostatic copies of a portion of the collection. The Library then bound those copies. Those volumes constitute Part I of the Randall collection of Lincoln material.</p>
+                                 <p>For a discussion of the Herndon-Weik and Hertz manuscript collections, see David Herbert Donald, &quot;Herndon: Lincoln&#039;s Law Partner&quot; (Ph.D. diss. University of Illinois, 1946), 300-3. Those collections are also cited in Donald, <emph render="italic">Lincoln&#039;s Herndon</emph> (New York: Knopf, 1948), 376. [Henry Clinton Bell, &quot;Herndonian Sources on Lincoln&quot; (M.A. thesis, University of Illinois, 1940) is based on Hertz photostats at Illinois before the Library of Congress acquired the Herndon-Weik collection.]</p>
+                                 <p>Part 2 of the collection includes the Herndon-Weik collection as initially microfilmed on 14 reels by the Library of Congress. Reel 15 of this set contains a card index to the collection. More recently, however, the Library rearranged and renumbered the collection. It is now variously cited. <emph render="italic">Herndon&#039;s Informants: Letters, Interviews, and Statements about Abraham Lincoln</emph>, ed. Douglas L. Wilson and Rodney O. Davis (Urbana: University of Illinois Press, 1998), for example, uses the new organization.</p>
+                                 <p>Part 3 contains microfilm prints in <emph render="italic">chronological</emph> order of Groups IV and V of the Herndon-Weik collection as first organized and filmed by the Library of Congress.</p>
+                                 <p>A card catalog, the &quot;Herndon Index&quot; to the Herndon-Weik collection provides <emph render="italic">alphabetical</emph> access to Herndon&#039;s correspondents. Also indexed but filed in the separate Hertz collection are &quot;Herndon Monographs, Fragments, etc.&quot; and &quot;Misc. (non-Herndon material),&quot; mainly correspondence addressed to Hertz. David Donald (1920-2009), one of Randall&#039;s students, compiled these indexes after Randall himself prepared a preliminary inventory of the collection. The collection includes a negative microfilm of Donald&#039;s index and both positive and negative microfilms of Randall&#039;s inventory.</p>
+                                 <p>Part 4 of the Randall collection contains photostats of Lincoln-related material, other than Herndon-Weik material, in the Library of Congress. These photostats are bound in seventeen volumes and cataloged as Q.973.7L6381.</p>
+                                 <p>Part 5 of the collection contains photostats of Lincoln-related material in manuscript collections other than the Library of Congress. These photostats are bound in seven volumes and cataloged as Q.973.7L638.</p>
+                                 <p>Part 6 contains sixteen reels of &quot;Lincoln Data&quot; on microfilm. With the development of microfilm, Randall collected research material in that form rather than as photostats.</p>
+                                 <p>The Library&#039;s James G. and Ruth Painter Randall collections came to the Library after their deaths. For related material, see entries for James G. Randall Papers (MS 426), the Ruth Painter Randall Papers (MS 196), and the Emanuel Hertz collection (MS 676) in this database. Randall&#039;s career is also represented in collections of his papers at the Library of Congress and in the University of Illinois Archives.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,128 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:893">839</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Holabird &amp; Roche. Wesley Foundation, Urbana, Ill.</titleproper>
+               <titleproper type="filing">Holabird &amp; Roche. Wesley Foundation, Urbana, Ill.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Holabird &amp; Roche. Wesley Foundation, Urbana, Ill.
+                              <date normal="1925/1926" encodinganalog="260$c">1925/1926</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Holabird &amp; Roche. Wesley Foundation, Urbana, Ill.                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1925/1926">1925-26</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">839</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Holabird &amp; Roche" source="local" role="Collector">Holabird &amp; Roche</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">5.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">Deck 7, black flat storage cabinet, Drawer 9</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Methodist Episcopal Church</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Wesley Foundations</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Architecture</subject>
+                                       <subject encodinganalog="650" source="lcsh">Episcopal Church</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection includes renderings of Chicago architects Holabird &amp; Roche for the proposed Trinity Methodist Episcopal Church, the church of the Wesley Foundation at the University of Illinois. Items in the portfolio include drawings of the west and north elevations and blueprints of sections of the chancel and the floor plan, dated Feb. 5 and 12, 1926, and undated. There is also a program for services on Nov. 8, 1925, showing a sketch of the proposed church.</p>
+                                 <p>The church was planned to complete a complex begun by the Wesley Foundation Social Center Building (1920-21), on the southwest corner of Green and Goodwin, which Holabird &amp; Roche had designed in 1917 to recall the architecture of Oxford, John Wesley&#039;s alma mater. The Depression and other circumstances made it impossible to build the church in the late Gothic style as planned. Rather, in 1959, the Wesley Foundation built a much different, modernist church on the site.</p>
+                                 <p>Full documentation of Holabird &amp; Roche&#039;s work is on file in the Chicago History Museum (Chicago Historical Society), and is discussed in Robert Bruegmann, <emph render="italic">Holabird &amp; Roche &amp; Holabird &amp; Root: An Illustrated Catalogue of Works, 1880-1940 </emph>(1991), 2:130-34 and 383.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

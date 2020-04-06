@@ -1,0 +1,148 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:850">882</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Pease-Anderson Family. Papers</titleproper>
+               <titleproper type="filing">Pease-Anderson Family. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Pease-Anderson Family. Papers
+                              <date normal="1836/1948" encodinganalog="260$c">1836/1948</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Pease-Anderson Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1836/1948">1836-1948</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">882</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Pease-Anderson Family" source="local" role="Collector">Pease-Anderson Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/pease-anderson.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">First National Bank of Chicago</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Arkansas--Mound City</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Michigan--Cassopolis</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Banks and banking</subject>
+                                       <subject encodinganalog="650" source="lcsh">Booksellers and bookselling</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Journalism</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Theodore Calvin Pease Collection</p>
+                                 </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Pease-Anderson papers contains letters, diaries, business records, and genealogical information pertaining to members of the Pease and Anderson families, including Erastus H. Pease, Thomas Huntington Pease, Amy Pease Stuart, Albert A. Pease, Mahala Anderson, Albert Anderson, and Carrie Anderson Pease.</p>
+                                 <p>Erastus H. Pease (1807-1887) was the son of Salmon Pease and a native of Litchfield County, Connecticut. Erastus lived much of his life in Albany, New York, where he was involved in bookselling and paper manufacturing. He married Lydia Fry in 1835.</p>
+                                 <p>Thomas Huntington Pease (1837-1900) was the son of Erastus H. Pease. A graduate of the University of Vermont, Thomas worked as a journalist in New York City. He married Carrie Anderson in 1870 and was the father of Albert, Lydia, and Theodore Pease.</p>
+                                 <p>Amy Pease Stuart was the sister of Thomas H. Pease. She spent many years teaching school in such places as New York City and Ogantz, Pennsylvania. In 1895, she married Gustavus Stuart, the son of Sir Andrew Stuart and Elmire Charlotte Aubert de Gaspi. Elmire Stuart was the daughter of Phillipe Aubert de Gaspe, author of <emph render="italic">Anciens Canadi</emph><emph render="italic">ens</emph>.</p>
+                                 <p>Albert A. Pease (1873-1950[?]) was the son of Thomas H. Pease and the brother of Theodore Calvin Pease. A resident of Oak Park, Illinois, Albert worked as a banker at the First National Bank of Chicago.</p>
+                                 <p>Mahala Phipps Anderson (1807-1884) was the wife of Samuel Finely Anderson and resided in Cassopolis, Michigan. She was the mother of Carrie Anderson Pease and Albert Anderson.</p>
+                                 <p>Albert Anderson (1841-1862) was the son of Samuel and Mahala Anderson and served in the Second Michigan Cavalry during the Civil War. His letters are to family members and detail his experiences in the Western Theatre. Anderson was wounded and died near Boonesville, Mississippi on July 3, 1862.</p>
+                                 <p>Carrie Anderson Pease (1849-1918) was the daughter of Samuel and Mahala Anderson. In 1870, she married Thomas Huntington Pease.</p>
+                                 <p>This collection is divided into nine total series. Seven series include the letters of Erastus H. and Lydia Pease, Thomas Huntington Pease, Amy Pease Stuart, Albert A. Pease, Mahala Phipps Anderson, Albert Anderson, and Carrie Anderson Pease. The final two series include miscellaneous Anderson family papers and genealogical information about the Pease, Phipps, and Anderson families.</p>
+                                 <p>Mrs. Marguerite J. Pease donated the collection to the Illinois Historical Survey, the predecessor of the Illinois History and Lincoln Collections, in 1991.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,156 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:936">956</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Perkins Family. Papers</titleproper>
+               <titleproper type="filing">Perkins Family. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Perkins Family. Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Perkins Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1754-1997</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">956</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Perkins Family" source="local" role="Collector">Perkins Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">6.95</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">6 oversize folders</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/perkins-family.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Argonne National Laboratory</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Beloit College</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Daughters of the American Revolution</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Grand Army of the Republic</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois National Guard</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois and Michigan Canal (Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Johns Hopkins University</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Kenyon College</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Pine Bluff Arsenal (Ark.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Sons of the Revolution</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Chicago</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Arkansas</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Evanston (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kane County--Burlington (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kane County--Elgin (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Maryland--Baltimore</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New York</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Ohio</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Wisconsin</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Revolution, 1775-1783</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1939-1945</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the papers of the Perkins and other related families. Materials include correspondence, personal and professional papers, photographs, artwork, publications, and other papers. The collection documents the experiences of seven related families that eventually settled in Kane County, Illinois, in the mid-nineteenth century.</p>
+                                 <p>The collection is organized into ten series. Eight of the series are arranged by family member, while the final two series are Personal Papers and Publications.</p>
+                                 <p>Family members that are most fully represented by the materials in the collection include Francis &quot;Frank&quot; B. Perkins, a member of the Elgin (Illinois) Board of Education and a Civil War veteran; Frank&#039;s son, Thomas E. Perkins, a musician; and Thomas&#039; son, Alfred J. Perkins, a chemist educated at Johns Hopkins University who served in the U.S. Army Chemical Corps during World War II. Alfred also held appointments at the Argonne National Laboratory and on the faculty of the College of Pharmacy of the University of Illinois in Chicago.</p>
+                                 <p>Also included is Augustine Raymond, superintendent of the Chenango Canal in New York, and Harvey Raymond, engaged in the construction of the Illinois and Michigan Canal at Lockport, Illinois. The collection contains personal letters between Augustine and his wife Nancy, as well as the letters of Harvey regarding the Rock River Valley and the development of northern Illinois, both in 1837 and 1838. The Mann family papers include letters of Alfred J. Mann, superintendent of Elgin, Illinois, in the late nineteenth century.</p>
+                                 <p>The collection was donated to the Library in 2008 by Claudia Perkins Schechter, Alice Perkins McCartor, and James T. Perkins, children of Alfred J. and Antoinette Partridge Perkins.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,169 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:873">960</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Religious Society of Friends (Quakers). Records</titleproper>
+               <titleproper type="filing">Religious Society of Friends (Quakers). Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Religious Society of Friends (Quakers). Records
+                              <date normal="1828/2017" encodinganalog="260$c">1828/2017</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Religious Society of Friends (Quakers). Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1828/2017">1828-2017</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">960</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Religious Society of Friends (Quakers)" source="lcnaf" role="Collector">Religious Society of Friends (Quakers)</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">54.60</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/relsocfriends.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Friends Service Committee</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Friends Committee on National Legislation (U.S.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Friends General Conference (U.S.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Friends World Committee for Consultation</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Quaker United Nations Office</corpname>
+                                       <corpname encodinganalog="610" source="lcsh" role="subject">Quakers</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Society of Friends</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Adams County--Quincy (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Clear Creek (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Colorado</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Evanston (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Oak Park (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Park Forest (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">DeKalb County--DeKalb (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">DuPage County--Downers Grove (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indiana</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Jackson County--Carbondale (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Knox County--Galesburg (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Lake County--Lake Forest (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Macon County--Decatur (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">McHenry County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Bloomington (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">McLean County--Normal (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Missouri--St. Louis</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Ohio</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Peoria County--Peoria (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Putnam County--McNabb (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Whiteside County--Sterling (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Wisconsin</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Religion</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Predominantly consisting of records from the Religious Society of Friends Illinois Yearly Meeting and the Quarterly and Monthly Meetings affiliated with it, this collection includes minutes, clerk&#039;s and treasurer&#039;s records, publications, reports, committee records, correspondence, and various other materials.</p>
+                                 <p>The Illinois Yearly Meeting was established in 1875 by the Blue River Quarterly Meeting and the Prairie Grove Quarterly Meeting. These Quarterly Meetings were previously affiliated with the Hicksite branches of the Indiana and Baltimore Yearly Meetings, respectively. In 1900, the Illinois Yearly Meeting joined with six other Hicksite Yearly Meetings to form the Friends General Conference, with which it remains affiliated to the present.</p>
+                                 <p>The records in this collection have been organized into five series: Illinois Yearly Meeting, Quarterly Meetings, Monthly Meetings, National and International Organizations, and Other Yearly Meetings.</p>
+                                 <p>The Illinois Yearly Meeting series (1875-2016, 14.5 cubic feet) contains minutes, publications, committee materials, financial records, and other materials related to the work of the Yearly Meeting. It is arranged in 15 subseries, each described in more detail in the attached inventory.</p>
+                                 <p>The Quarterly Meetings series (1828-2015, 4.1 cubic feet) consists of records for the Blue River Quarterly Meeting and several Chicago-area Quarterly Meetings, including the Fox Valley Quarterly (Illinois Yearly), Chicago Quarterly (Western Yearly), and the Metropolitan Chicago General Meeting.</p>
+                                 <p>The Monthly Meetings series (1841-2017, 27.7 cubic feet) is comprised of records for individual monthly meetings throughout the United States, with the bulk falling within the scope of the Illinois Yearly Meeting. Some meetings have several boxes of records while others have only a folder or two. Those with more substantial collections of records include 57th Street (Chicago), Chicago Monthly, Clear Creek (McNabb), Decatur, Downers Grove, Evanston, Friends Hill, Lake Forest, Northside (Chicago), St. Louis (Missouri), Spoon River (Peoria-Galesburg), Springfield, Thorn Creek/South Suburban, and Urbana-Champaign.</p>
+                                 <p>The National and International Organizations series (1943-2007, 3.7 cubic feet) includes correspondence, publications, and other records from various external organizations and events. These include the American Friends Service Committee (AFSC), Friends Committee on National Legislation (FCNL), Friends General Conference, and Friends World Committee for Consultation (FWCC), and well as numerous other Friends special interest organizations and events.</p>
+                                 <p>The Other Yearly Meetings series (1846-2010, 1.5 cubic feet) consists of correspondence and other collected materials from Yearly Meetings throughout the world. Among these, the Ohio Yearly Meeting and the Western Yearly Meeting are the most extensively documented.</p>
+                                 <p>This collection of records of the Religious Society of Friends was begun in 1977. Since then, Illinois Yearly Meeting and many constituent Quarterly and Monthly Meetings have deposited additional materials in the collection, and the archives as a whole is expected to grow in the future.</p>
+                                 <p>The attached inventory (last updated in summer 2018) includes both an outline of the collection and a folder-by-folder listing of the material. The inventory also includes additional notes for selected meetings on the scope of the records and the history of their acquisition.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

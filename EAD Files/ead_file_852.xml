@@ -1,0 +1,151 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:852">886</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Phillips, Richard. Fort Crevecoeur Research</titleproper>
+               <titleproper type="filing">Phillips, Richard. Fort Crevecoeur Research</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Phillips, Richard. Fort Crevecoeur Research
+                              <date normal="1930/1980" encodinganalog="260$c">1930/1980</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Phillips, Richard. Fort Crevecoeur Research                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1930/1980">1930-1980</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">886</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Phillips, Richard" source="lcnaf" role="Collector">Phillips, Richard, 1908-1982</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">3.65</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/phillips-richard.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Daughters of the American Revolution</corpname>
+                                       <corpname encodinganalog="610" source="local" role="subject">Fort Crevecouer (Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Historic Sites Advisory Council</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois State Historical Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Native Americans</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Illinois River (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">Illinois Territory</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Peoria County--Peoria (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Tazewell County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">La Salle, Robert Cavelier, sieur de, 1643-1687</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Phillips, Richard, 1908-1982</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Tonti, Henri de, -1704</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Catholic Church</subject>
+                                       <subject encodinganalog="650" source="lcsh">France--Colonies--America</subject>
+                                       <subject encodinganalog="650" source="lcsh">Great Britain--Colonies--America</subject>
+                                       <subject encodinganalog="650" source="lcsh">Historic sites</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Missionaries</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains photocopies of articles and documents, newspapers, photographs, and research notes compiled by Richard Phillips about the history of Fort Crevecoeur and the debate over its exact location near Peoria, Illinois.</p>
+                                 <p>Fort Crevecoeur was constructed from January to March 1680 by French explorers under the leadership of Rene-Robert Cavelier, Sieur de La Salle. The fort was destroyed and looted in April 1680 by members of La Salle&#039;s expedition while La Salle was obtaining supplies in Canada and his second-in-command, Henri de Tonti, was preparing fortifications at Fort St. Louis near Starved Rock on the Illinois River. A second fort, named Fort St. Louis II or Fort Pimiteoui, was constructed near the site of Fort Crevecoeur in 1691 by de Tonti. This fort and the surrounding community, which became Peoria, Illinois, remained under the control of France until it was ceded, along with the rest of New France, to Great Britain in 1763.</p>
+                                 <p>Richard Phillips (1908-1982), developed an interest in the history of Fort Crevecoeur while residing in East Peoria. He worked as a photographer and newspaper publisher with the <emph render="italic">Peoria Journal</emph> and the Tazewell Publishing Company. He was also the editor and publisher of <emph render="italic">Iliniwek</emph>, a bimonthly newspaper about early Illinois history topics that ran from 1963-1976. While living in East Peoria, Phillips began researching the locations of Fort Crevecoeur and Fort St. Louis II which had been debated among historians and local heritage groups. He joined the debate by proposing a more northern site near Lake Peoria for both forts, which rejected the southern location claimed by the Daughters of the American Revolution (D.A.R.) and the Illinois State Historical Society decades earlier. This claim was outlined in a 1976 edition of <emph render="italic">Iliniwek</emph>.</p>
+                                 <p>The collection includes 30 boxes which contain photograph copies of articles and maps, correspondence, newspapers, clippings, photographs, and research notes. These items were originally organized by Betty Madden, a colleague of Phillips who worked as a curator of art at the Illinois State Museum and was a board member of the Illinois State Historical Society.</p>
+                                 <p>The collection is organized into two parts or series. Part I includes research materials used to support the fort locations claimed by Phillips. Among these materials are a hand-drawn map showing proposed fort locations, a complete set of <emph render="italic">Iliniwek</emph>, books and journals with information about Native American villages and geography, maps of Fort Crevecoeur and Fort St. Louis II, book chapters and articles about the history of the site and early French leaders in the area, plats, surveys, and photographs. Part II contains information about the historiographical debate over the forts&#039; locations. This part of the collection includes documents from the D.A.R., the Illinois State Historical Society, and Arthur Lagron, a member of the French Military Engineers, discussing the proposed locations; correspondence of Ernest East, member of the Peoria Historical Society, and others; proposed map forgeries from a 1925 report; and articles about the location controversy and the creation of a park at the site.</p>
+                                 <p>The collection was donated to the Library in 1982 by Reverend Harold F. Schmitt according to the wishes of Richard Phillips before his death the same year.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

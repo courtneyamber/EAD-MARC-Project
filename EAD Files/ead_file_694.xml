@@ -1,0 +1,125 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:694">708</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Hilgard Family. Papers</titleproper>
+               <titleproper type="filing">Hilgard Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Hilgard Family. Papers
+                              <date normal="1833/1910" encodinganalog="260$c">1833/1910</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Hilgard Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1833/1910">1833-1910</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">708</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Hilgard Family" source="lcnaf" role="Collector">Hilgard Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.80</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 microfilm reel</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Bavaria</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">St. Clair County--Belleville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Botany</subject>
+                                       <subject encodinganalog="650" source="lcsh">Emigration and immigration</subject>
+                                       <subject encodinganalog="650" source="lcsh">Geology</subject>
+                                       <subject encodinganalog="650" source="lcsh">German Americans</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Theodor Hilgard (1790-1873) was born in Bavaria, educated in Germany and France, but immigrated to the United States in 1836, settling with his wife, five daughters, and four sons, in the German colony at Belleville, Ill. Hilgard engaged in farming and real estate promotion, while encouraging his sons in their educational pursuits. One son, Julius Erasmus Hilgard (1825-91), studied geology and later became chief of the United States Coast Survey. In 1849, Eugene Woldemar Hilgard (1833-1916), another son, returned to Germany where he eventually received a Ph.D. in geology. He later served as Director of the State Geological Survey of Mississippi, and taught at the University of Michigan and the University of California, Berkeley.</p>
+                                 <p>This collection mainly contains published works by and about the Hilgard family, including &quot;Geschichte der Auswanderung Einer Deutschen Familie&quot; (&quot;The Story of the Emigration of a German Family&quot;) by Theodor Hilgard; <emph render="italic">Memoir of Julius Erasmus Hilgard, 1825-1891 </emph>(1903); an article about Eugene Hilgard in the <emph render="italic">California Alumni Weekly </emph>(Apr. 18, 1914); and Eugene Hilgard&#039;s autobiography. This autobiography includes three sections: &quot;Biographical Memoir of Eugene Woldemar Hilgard,&quot; &quot;Home Life in Illinois,&quot; and &quot;Botanical Features of the Prairies of Illinois in Ante-Railroad Days,&quot; the last being a semi-scientific treatise. The collection also contains correspondence between Theodor Hilgard, in Belleville, and his mother, Madame Maria Dorothea Engelmann Hilgard, in Bavaria.  There is also a family tree and material from a family reunion from 1983.</p>
+                                 <p>Eugene Hilgard donated the collection to the Library in 1915.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

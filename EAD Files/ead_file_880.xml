@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:880">845</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Long, Stephen Harriman. Financial Records</titleproper>
+               <titleproper type="filing">Long: Stephen Harriman Long. Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Long, Stephen Harriman. Financial Records
+                              <date normal="1852/1862" encodinganalog="260$c">1852/1862</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Long, Stephen Harriman. Financial Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1852/1862">1852-1862</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">845</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Long, Stephen Harriman" source="lcnaf" role="Collector">Long, Stephen Harriman</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">3.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/collong.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Arkansas</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Kentucky--Louisville</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Alton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Mississippi River</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Missouri</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Ohio River</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Long, Stephen H. (Stephen Harriman), 1784-1864</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Surveying</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Stephen Harriman Long (1784-1864), born in Hopkinton, N.H., was a U.S. army explorer and topographical engineer. From 1816 to 1823, Long led a number of scientific expeditions to the western frontier, exploring the Arkansas, Fox, Illinois, Minnesota, Mississippi, Missouri, Ohio, Red, and Wisconsin Rivers, as well as the Rocky Mountains. (Long&#039;s Peak, in Rocky Mountain National Park, was named in his honor.) During the next forty years, he carried out engineering projects both in the Bureau of Topographical Engineers and in the private sector. He worked as a consultant to the Baltimore and Ohio Railroad and other railroads, published books on bridge building and railroad engineering, and supervised the construction of marine hospitals. In the 1830s he patented several inventions relating to steam locomotives.</p>
+                                 <p>In 1843, a reorganization of the Topographical Engineers placed Long at Louisville, KY as Superintendent of Improvements of the Western Rivers. Thereafter he directed a series of projects to survey and map those rivers and to construct and deploy on them snagboats and dredges for the removal of sandbars and other obstructions (snags, roots, logs, stumps, impending trees, rocks, wrecked vessels). Long and his men worked on the Arkansas, Mississippi, Missouri, Ohio, Red, and Rock Rivers, and gave particular attention to the falls of the Ohio at Louisville and to the harbor at Dubuque and the Des Moines rapids at Keokuk on the Mississippi. Their efforts made it less hazardous for steamboats to ply the nation&#039;s western waters.</p>
+                                 <p>In 1858, Long moved his headquarters to Alton, IL, where his brothers lived. At the outbreak of the Civil War, Long was promoted to Colonel, and in November 1861, he became bureau chief of the Topographical Engineers. He served in that capacity until March 1863, when the Corps of Topographical Engineers merged with the Corps of Engineers. Later that year, Long retired to Alton, and died the next year at age 79.</p>
+                                 <p>This collection consists of Long&#039;s retained copies of papers, dating from 1852, relating to his projects as superintendent of the western rivers. Many records are in Long&#039;s hand, and some are in the handwriting or include the signatures of other men involved in the transactions, among them J. J. (John James) Abert, long-time bureau chief of the Topographical Engineers. These records document in detail who was employed in Long&#039;s projects, the types of services and tools that their work required, and its cost.</p>
+                                 <p>Box 1 of the collection contains miscellaneous papers, among which is a folder relating to the conclusion of Long&#039;s quarrel with then-Secretary of War Jefferson Davis. Removed from his post as superintendent of the western rivers in October 1853, and replaced by Capt. Joseph E. Johnston, Long was reinstated in March 1855.</p>
+                                 <p>The remainder of Box 1 and all of Boxes 2 and 3 contain vouchers. Oversize materials are in Boxes 4 and 5, which include additional vouchers, accounts current, and pay rolls, and also papers relating to property owned by Long in Louisville. Box 6 contains the sleeves which contained each packet of these records. The notations on these sleeves refer to particular projects and are used verbatim in the inventory. All of the materials were folded and clustered in quarterly packets. When the papers were separated from the sleeves and flattened for filing, each document was annotated by its date. Thus, for example, the items in the packet of vouchers for the 4th Quarter of 1852 are denoted &quot;524Q.&quot;</p>
+                                 <p>The collection was donated to the Library in 2010 by a direct descendent of Col. Long&#039;s, Kristin Mann, of Emory University. It adds substantially to Richard G. Wood&#039;s <emph render="italic">Stephen Harriman Long, 1784-1864 </emph>(1966), and to other accounts of Long&#039;s career after his famous expeditions.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

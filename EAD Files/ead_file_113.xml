@@ -1,0 +1,134 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:113">112</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the McKinley, William Brown. Papers</titleproper>
+               <titleproper type="filing">McKinley: William Brown. Papers.</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the McKinley, William Brown. Papers
+                              <date normal="1904/2000" encodinganalog="260$c">1904/2000</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">McKinley, William Brown. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1904/2000">1904-2000</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">112</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="McKinley, William Brown.  Papers" source="local" role="Collector">McKinley, William Brown.  Papers</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.80</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at https://www.library.illinois.edu/ihx/inventories/mckinley.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of the papers of William B. McKinley, a businessman, philanthropist, and politician from Illinois. Materials include personal correspondence, speeches, business records, newspaper clippings, and political pamphlets related to his career and personal life.</p>
+                                 <p>William Brown McKinley (1856-1926) was the son of a Presbyterian minister in Champaign, Illinois. He made his fortune in central Illinois public utilities, including the Illinois Traction Company. As a philanthropist, he made donations totaling an estimated $10-$12 million to churches, hospitals, the University of Illinois, and other charities.</p>
+                                 <p>McKinley entered politics as a Republican in 1904 and was elected seven times to the U.S. House of Representatives, losing only in 1912 when the Bull Moose movement split the Republican Party. In 1920 he was elected to the U.S. Senate. He sought reelection in 1926, but lost in the primary, in part because of his support for the World Court, an international court overseen by the League of Nations. He died in December 1926, before completing his senatorial term.</p>
+                                 <p>The collection is comprised of six series: Political Career, Death, Business and Philanthropic Affairs, Family and Personal Life, Writings About McKinley, and Oversize Items. The bulk of the material dates from 1904 to 1926.</p>
+                                 <p>The Political Career series includes papers, clippings, and pamphlets related to McKinley&#039;s terms in the House of Representative and the Senate, as well as his election campaigns and his involvement in the Interparliamentary Union. The Death series includes obituaries, newspaper clippings, and tributes to McKinley following his death. The Business and Philanthropic Affairs section contains papers, correspondence, and clippings related to McKinley&#039;s business operations and philanthropic causes.</p>
+                                 <p>The Family and Personal Life series contains genealogical papers, photographs, clippings, membership cards and letters pertaining to McKinley&#039;s family members and personal affairs. It also includes a scrapbook of poetry, sermons, and news clippings, some of which precede McKinley&#039;s lifetime. The Writings About McKinley series consists of writings by other people about McKinley. The Oversize Items series includes McKinley&#039;s passport, a membership certificate for the French Legion of Honor, and an Illinois Terminal Railroad Company pictorial map of Illinois.</p>
+                                 <p>Another larger collection related to McKinley&#039;s work in 1912 as Director of the National Taft for President Bureau is held at Syracuse University.</p>
+                                 <p>The McKinley collection was donated to the University of Illinois Library in 1999 by Ross and Barbara Camp of Champaign, Illinois, through the assistance of Dan Eaton, also of Champaign. Ross Camp was McKinley&#039;s grand-nephew. Interfiled in the collection are a few items donated by Louise McComb Ross in 1978 and Edwin C. Rae in 1997. Additional materials were donated to the collection at an unknown date after 1999.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

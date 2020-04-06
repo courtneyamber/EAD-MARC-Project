@@ -1,0 +1,126 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:5035">479</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Baber, Adin. &quot;The Charleston Affair&quot;</titleproper>
+               <titleproper type="filing">Baber, Adin. &quot;The Charleston Affair&quot;</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Baber, Adin. &quot;The Charleston Affair&quot;
+                              <date normal="1946" encodinganalog="260$c">1946</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Baber, Adin. &quot;The Charleston Affair&quot;                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1946">1946</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">479</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Baber, Adin" source="local" role="Collector">Baber, Adin</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folder">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Coles County--Charleston (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Baber, Adin</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Hanks, Dennis</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of manuscripts written by Adin Baber, which include one letter addressed to Mrs. Henrietta Calhoun Horner, as well as a typed copy of his work entitled, &quot;The Charleston Affair.&quot;</p>
+                                 <p>Adin Baber wrote several books on Abraham Lincoln and the Hanks family, including Lincoln&#039;s mother, Nancy Hanks.</p>
+                                 <p>Baber sent this letter and typescript of &quot;The Charleston Affair&quot; to Mrs. Horner on September 15, 1946. In the letter, Baber discussed the various Hanks family members mentioned in his work, &quot;The Charleston Affair,&quot; as well as alternate names of individual family members.</p>
+                                 <p>Baber&#039;s &quot;The Charleston Affair&quot; revolves around a skirmish occurring in Charleston, Illinois during the Civil War. &quot;The Charleston Affair&quot; includes the following introductory note: &quot;Being a narration of the affray at Charleston, Illinois between Union soldiers and anti-war Democrats which occurred March 28, 1864, as possibly related by Dennis Hanks on the occasion of his trip to the White House to see Abraham Lincoln.&quot; The copy includes handwritten notes in the margins adding details and corrections. The narration is dated August 11, 1936, but the typescript included in this collection was recopied in August of 1946. The last page also includes an inscription to Mrs. Horner with the date and Baber&#039;s signature.</p>
+                                 <p>The Lincoln Room was established with Harlan and Henrietta Horner&#039;s donation of their collection Lincoln books and related materials in the early 1950s. This document was part of the Horner&#039;s donation and was originally cataloged under the call number MS.Q.973.74 B11C. In 2001, the Lincoln Room was combined with the Illinois History Survey to form the Illinois History and Lincoln Collections unit.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

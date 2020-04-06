@@ -1,0 +1,122 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:834">838</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Fleming, William. Diary</titleproper>
+               <titleproper type="filing">Fleming: William Fleming Diary</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: Ryan Ross.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Fleming, William. Diary
+                              <date normal="1830/1904" encodinganalog="260$c">1830/1904</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Fleming, William. Diary                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1830/1904">1864-65</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">838</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Fleming, William" source="lcnaf" role="Collector">Fleming, William</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="microfilm reel">1.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Alabama--Mobile</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>William Fleming (1830-1904) was born in Champaign County, Ohio.  He mustered into Co. F, 130th Ill. Vol. Inf. as a private on Oct. 25, 1862, transferred to Co. F, 77th Ill. Vol. Inf. on Jan. 14, 1865, and served as a corporal in Co. C, 130th Ill. Vol. Inf. from July 7, 1865 until he was mustered out on Aug. 15, 1865.  In 1878, Fleming and his family moved to Nebraska, near the town of Beaver City.</p>
+                                 <p>This microfilm collection consists of Fleming&#039;s diary, July 1864 to July 1865.  The diary is an account of Fleming&#039;s experiences as a private in Co. F, 130th Ill. Vol. Inf. and Co. F, 77th Ill. Vol. Inf.  Fleming reports that his regiment was not happy about its consolidation into the 77th.  Fleming lists every soldier in Co. F of the 77th and notes their deaths, wounds, captures, or transfers.  He describes in detail the Mobile Campaign, including the Battles of Spanish Fort (Mar. 27-Apr. 8, 1865) and Fort Blakely (Apr. 2-9, 1865), and also discusses the effects of the May 25, 1865, explosion of a federal ammunition depot on Mobile&#039;s Beauregard Street.  Fleming used the remaining pages of the diary to record his personal finances.</p>
+                                 <p>In 1955, William C. Fleming, of Beaver City, Nebr., loaned the diary for filming to the Nebraska State Historical Society.  The Society donated the collection to the University of Illinois Library in 2009.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

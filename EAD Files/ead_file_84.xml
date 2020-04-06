@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:84">083</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Lorimer, William. Papers</titleproper>
+               <titleproper type="filing">Lorimer: William Lorimer Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Lorimer, William. Papers
+                              <date normal="1893/1953" encodinganalog="260$c">1893/1953</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Lorimer, William. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1893/1953">1893-1953</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">083</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Lorimer, William" source="lcnaf" role="Collector">Lorimer, William</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/lorimer-william.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lorimer, William, 1861-1934</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the personal papers of William Lorimer. Materials include correspondence, newspaper articles, and publications. The majority of the collection focuses on Lorimer&#039;s political career  during the early twentieth century.</p>
+                                 <p>William Lorimer (1861-1934) was born in Manchester, England and immigrated to the United States in 1865. His family moved to the West Side of Chicago in 1870, where Lorimer worked a number of different jobs. In 1884, he married Susan K. Mooney, with whom he had eight children. Lorimer organized a political machine in Chicago&#039;s West Side, bringing together several groups that represented working-class and immigrant voters. From 1895-1901 and 1903-1909, Lorimer represented the Illinois Second District in the Illinois House of Representatives. In 1909, Lorimer was elected to the Senate seat. Bribery and corruption allegations surrounding his election, however, resulted in him being ousted from the Senate in 1911. Lorimer spent the remainder of his life in politics and business, and his activities included advising William &quot;Big Bill&quot;?? Thompson (1867-1944), mayor of Chicago, whose center of support was located in Lorimer&#039;s old territory.</p>
+                                 <p>The collection is organized into four series: Correspondence, Newspaper Clippings, Publications, and Miscellaneous.</p>
+                                 <p>The Correspondence series (1912-1934) includes correspondence documenting Lorimer&#039;s political rise, fall, and the aftermath. Lorimer&#039;s correspondents include politicians such as Oscar De Priest, Oscar Carlstrom, George F. Harding, and General Benjamin Herrera. Lorimer often discusses the political climate of Chicago in his letters. In his later correspondence, Lorimer indicates his plans to make a political comeback and run for reelection.</p>
+                                 <p>The various newspaper clippings primarily cover the early and later years of Lorimer&#039;s political career. Publication materials include book chapters about Chicago political history.</p>
+                                 <p>Walter M. Lorimer, William Lorimer&#039;s grandson, loaned the collection to the Library for photocopying in 1973. In May of 2013, Suzanne Lorimer Parsons, granddaughter of William Lorimer, donated additional photocopies.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

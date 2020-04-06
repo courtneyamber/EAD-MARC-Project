@@ -1,0 +1,164 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:564">573</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Cunningham-Creamer-Miller-Housh Families. Papers, Business Records, and Photographs</titleproper>
+               <titleproper type="filing">Cunningham-Creamer-Miller-Housh Families. Papers, Business Records, and Photographs</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Cunningham-Creamer-Miller-Housh Families. Papers, Business Records, and Photographs
+                              <date normal="1855/2010" encodinganalog="260$c">1855/2010</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Cunningham-Creamer-Miller-Housh Families. Papers, Business Records, and Photographs                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1855/2010">1855-2010</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">573</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Cunningham-Creamer-Miller-Housh Families" source="lcnaf" role="Collector">Cunningham-Creamer-Miller-Housh Families</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">21.10</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/cunncreamer.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Champaign County Historical Museum</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Champaign Public Library</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois State Historical Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Kappa Alpha Theta</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Knights Templar (Masonic order)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Northern Alabama Railway Company</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Sigma Chi Fraternity</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Mahomet (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Hancock County--Nauvoo (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iroquois County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Piatt County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Randolph County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Sangamon County--Springfield (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Vermilion County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Winnebago County--Rockton (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Cunningham, Joseph O. (Joseph Oscar), 1830-1917</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Cemeteries</subject>
+                                       <subject encodinganalog="650" source="lcsh">Century of Progress International Exposition (1933-1934 : Chicago, Ill.)</subject>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Libraries</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads--Employees</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>In 1853, Albert Palmer Cunningham (1832-93) came to Champaign County, Ill., with his brother Joseph. A. P. Cunningham, who served in the 76th Ill. Vol. Inf., was well-known for his drug business. It became known as A. P. Cunningham and Sons after his sons, George and Edwin, joined the business. George Newton Cunningham (1867-1928) married Alice Miller (1874-1958) in 1899. Her father, Edward Payson Miller, had worked as a sutler for the 51st U.S.C. Inf. during the Civil War. George and Alice had two children, Eunice (1903-74) and Newton. Eunice married Carl Creamer in 1929, and their son, Bruce Creamer, like his mother and father, attended the University of Illinois. Guy Housh, whose father was a close friend of George Cunningham, resided with the Cunningham family while he attended the University of Illinois.</p>
+                                 <p>This collection contains personal papers of various members of the Cunningham, Miller, Creamer, and Housh families, as well as records of their business activities. A. P. Cunningham&#039;s papers include diaries and letters from his service as a sergeant and second lieutenant in Co. G, 76th Ill., and papers concerning a Civil War bounty and soldier&#039;s graves. The papers of E. P. Miller include personal and business correspondence, sutler records, railroad contractor records, and farm records. Among the papers of Alice Miller and George Cunningham is correspondence as well as legal and financial records.</p>
+                                 <p>The papers of Eunice Cunningham Creamer are the most extensive in the collection, and consist of diaries, appointment books, University of Illinois class notes, sorority papers, a journal and memorabilia of her European trip in 1924, papers concerning her various organizational memberships, scrapbooks, clippings, and postcards. The Guy Housh papers contain mainly school notes and records.</p>
+                                 <p>Among the business records are materials relating to A. P. Cunningham and Sons, Cunningham Brothers, Cunningham Drug Company, the Illini Bank, the University Book Store, and the University of Illinois Supply Store. The collection also contains many photographs, and a number of artifacts, including two corporate seals for Cunningham family businesses.</p>
+                                 <p>Bruce Creamer donated this collection to the Library in 1977. In 2001, he added material to the collection that is not yet processed.</p>
+                                 <p>In 2011, Karen Lang Kummer added to the collection her history of the Cunningham Building at 623-631 So. Wright St., Champaign, as well as photographs of the building&#039;s exterior and interior taken in 1997, when the building was closed and demolished. These materials supplement Series XII, &quot;University of Illinois Supply Store.&quot;</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

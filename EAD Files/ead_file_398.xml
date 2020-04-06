@@ -1,0 +1,164 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:398">398</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Williams-Woodbury Papers</titleproper>
+               <titleproper type="filing">Williams-Woodbury Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Williams-Woodbury Papers
+                              <date normal="1819/1937" encodinganalog="260$c">1819/1937</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Williams-Woodbury Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1819/1937">1819-1937</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">398</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Williams, Amos" source="local" role="Collector">Williams, Amos, 1797-1857</persname>
+                                 <persname encodinganalog="100" normal="Sconce, James A.D." source="local" role="Collector">Sconce, James A.D.</persname>
+                                 <persname encodinganalog="100" normal="Sconce, L.A." source="local" role="Collector">Sconce, L.A.</persname>
+                                 <persname encodinganalog="100" normal="Woodbury, William W.R." source="local" role="Collector">Woodbury, William W.R., 1824-1901</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">6.50</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/williams-woodbury.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Bible Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Chicago Historical Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois State Historical Society</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">League of American Wheelmen</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Native Americans</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                       <genreform encodinganalog="655" source="local">Government records</genreform>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Edgar County--Paris (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Vermilion County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Vermilion County--Danville (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Hubbard, Gurdon Saltonstall, 1802-1886</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Cemeteries</subject>
+                                       <subject encodinganalog="650" source="lcsh">Courts</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Medicine--practice</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Postal service</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Taxation</subject>
+                                       <subject encodinganalog="650" source="lcsh">Teaching</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The collection contains the business, personal, and financial papers of Amos Williams, his son-in-law Dr. William W.R. Woodbury, James A.D. Sconce, and L.A. Sconce. Materials also include the correspondence of the Williams and Woodbury families.</p>
+                                 <p>The collection is arranged in three series: Amos Williams papers, Sconce papers, and the Woodbury papers. Each series includes both business and personal papers such as account ledgers, correspondence, and legal papers.</p>
+                                 <p>Amos Williams (1797-1857) held the positions of county agent, clerk of county court, city agent, and county clerk for Edgar, Paris, and Vermilion counties in Illinois. Williams was appointed the first post master in Vermilion County from 1826 to 1844. The materials under the Amos Williams series include legal papers, business agent papers, and newspaper articles which illustrate the local politics of the day, especially in Vermilion and Edgar Counties in the 1830s and 1840s. The series also contains correspondence from important political leaders of the state and various early residents of eastern Illinois. In addition, the series offers insight into business matters in Danville in the 19th century, including business as postmaster, the land agent, the county official, and the storekeeper. Materials including account books, receipts, and contracts document Williams&#039; business. The series also documents Williams&#039; interest in farming, ferries, sawmills and gristmills, saline works, transportation, and education.</p>
+                                 <p>The Sconce series relates to the business partnership between Dr. William W. R. Woodbury and Dr. James A.D. Sconce in the drug business, which would later become the Woodbury Drug Company. Materials in this series include bills, receipts, a daybook, and an inventory for drugstore supplies. It also contains correspondence relating to the drugstore from L.A. Sconce and his legal papers, business papers, and will testamentary letter.</p>
+                                 <p>The collection also contains the papers of Williams&#039; son-in-law, Dr. William W. R. Woodbury (1824-1901). Dr. William W.R. Woodbury married the eldest daughter of Amos Williams. He studied first in the office of Dr. William Fithian and graduated from Rush Medical College in 1850. Upon returning to Danville he opened his medical practice. The Woodbury series consist of the business papers of the Woodbury Drug Company. Materials include ledger books, scrapbooks, notebooks, class books, bankbooks, and feed books. The series also documents drug and general merchandising, farms, seed orders, road improvements as well as historical, community, and family interests. Also included are papers relating to Gordon S. Hubbard and the Native American trade near Danville, as well as papers on Vermilion County settlers. A frequent visitor of the Woodbury Drug Company was a young Abraham Lincoln who was a close friend of Dr. Woodbury.</p>
+                                 <p>The collection was preserved and arranged by Amos G. Woodbury, son of Dr. William Woodbury. Woodbury&#039;s sister, Flo Woodbury donated the collection to the Library in 1942, which was transferred to the Illinois Historical Survey, the predecessor of the Illinois History and Lincoln Collections Unit. Charles M. Rieker, whose maternal grandfather, Lincoln Payne, was a good friend of Gardner Woodbury, gifted an additional six documents to the Woodbury collection in 1992.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

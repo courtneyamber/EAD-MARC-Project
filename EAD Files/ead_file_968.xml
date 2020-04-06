@@ -1,0 +1,162 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:968">991</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Wingard-Forney-Vaky Family. Papers</titleproper>
+               <titleproper type="filing">Wingard-Forney-Vaky Family. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Wingard-Forney-Vaky Family. Papers
+                              <date normal="1834/2012" encodinganalog="260$c">1834/2012</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Wingard-Forney-Vaky Family. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1834/2012">1834-2012</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">991</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Wingard-Forney-Vaky Family" source="local" role="Collector">Wingard-Forney-Vaky Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.80</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 oversize folder</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/wingard.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Daughters of the American Revolution</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Industrial University (Urbana, Ill.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Methodist Episcopal Church</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Business records</genreform>
+                                       <genreform encodinganalog="655" source="local">Family papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Confederate States of America</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Pennsylvania</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Tennessee</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Davis, Jefferson, 1808-1889</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Douglass, Frederick, 1818-1895</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Grant, Ulysses S. (Ulysses Simpson), 1822-1885</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McClellan, George B. (George Brinton), 1826-1885</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Porter, Fitz-John, 1822-1901</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Sherman, William T. (William Tecumsah), 1820-1891</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Tyler, Erastus Barnard, 1819-1891</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Copperhead Movement</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Students</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Wingard-Forney-Vaky Papers relate primarily to the Wingard family of Champaign, Ill., but also contain materials on the Forney family of Waynesboro, Pa., and the Vaky family of Champaign. The bulk of the collection dates from the 1860s and 1870s, and features detailed accounts of life in Civil War Waynesboro and post-war Champaign. The Wingard section of the collection consists of biographical material; correspondence; a diary; educational, organizational, and professional papers; military and political papers; estate, financial, and real estate papers; and photographs.</p>
+                                 <p>In 1858 David Wingard and his wife Elizabeth moved from Chicago to West Urbana, Ill. (renamed Champaign in 1860), where David established one of the settlement&#039;s first jewelry stores. Their son, Benjamin Franklin (B. F.), joined the family business in 1865, following three years&#039; service as a sergeant in Co. H of the 125th Ill. Vol. Inf. In the mid-1870s he opened his own jewelry store, B. F. Wingard &amp; Co. The collection includes advertisements, notes, postcards, and professional literature related to both David&#039;s and B. F.&#039;s jewelry businesses. The collection also includes a small amount of correspondence documenting B. F.&#039;s experiences in camp at Lebanon, Ky., and Nashville, Tenn., in 1862.</p>
+                                 <p>In 1870 B. F. married Mary Clare Forney, of Waynesboro, Pa. They had three children, Anna, Lewis, and David Roy. B. F.&#039;s letters to Mary discuss the 1868 presidential election, a wedding reception in Champaign hosted by German immigrants, the Wingard family jewelry business, churches in Champaign-Urbana, tea at the Rev. George McKinley&#039;s house, and parties. The letters also mention a lecture in Champaign by Theodore Tilton, editor of the <emph render="italic">New York Independent</emph>.</p>
+                                 <p>The collection also includes Mary Forney Wingard&#039;s teenage diary, which illustrates the home front experience in Waynesboro, Pa., and surrounding towns during the Civil War. The diary includes accounts of the nearby battles of Antietam and Gettysburg and also discusses the burning of Chambersburg, Pa., Confederate guerillas in Waynesboro, conscription, Copperhead meetings in Pennsylvania, disease, the looting of battlefields, torchlight processions in honor of Lincoln and Grant, Union prisoners escaping from Rebel forces, and Abraham Lincoln&#039;s assassination. The diary also provides an eyewitness account of Lincoln&#039;s Oct. 1862 tour of the Antietam battlefield and includes entries for the post-war years, which briefly describe Mary&#039;s attendance of baseball games and ceremonies at Gettysburg National Cemetery and Antietam National Cemetery, and document the beginning of her courtship with B. F. Wingard. Mary Forney Wingard&#039;s papers also contain Mark Twain&#039;s humor piece &quot;How Mark Twain Was Sold in Newark,&quot; clipped from an unidentified newspaper in 1869.</p>
+                                 <p>The Wingard Family section of the collection contains 15 cartes de visite, including those of Civil War political and military leaders, such as Abraham Lincoln, Jefferson Davis, Ulysses S. Grant, and William Tecumseh Sherman. In addition, the papers include several items related to the early history of the University of Illinois, such as the &quot;Inauguration Exercises&quot; program (Mar. 11, 1868), Anna Wingard&#039;s entrance certificate and transcript, the Champaign attorney Lewis Forney Wingard&#039;s &quot;Graduate&#039;s Record&quot; and physical education papers, and a photograph of an 1890s University drawing class.</p>
+                                 <p>The Forney section of the collection relates to Mary Forney&#039;s grandfather Lewis L., father Lewis S., brother Jacob, and cousin E. O. Forney, and includes biographical material and financial, organizational, and real estate papers.</p>
+                                 <p>The Vaky section relates to James Russell Vaky, a Champaign artist, poet, and musician. In 1931 Vaky&#039;s sister Alpha married Franklin F. Wingard, the son of David Roy Wingard. Vaky&#039;s papers consist of biographical material and writings, including letters-to-the-editor of the Champaign <emph render="italic">News-Gazette</emph> on subjects as diverse as the Champaign First Baptist Church organ, the tenure of Champaign mayor Dannel McCollum, and the <emph render="italic">New Yorker</emph> fiction editor William Maxwell.</p>
+                                 <p>James Russell Vaky donated the collection to the Library in 1980 and 1988.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

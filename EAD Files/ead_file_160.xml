@@ -1,0 +1,133 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:160">159</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Obenchain, Francis G. Papers</titleproper>
+               <titleproper type="filing">Obenchain: Francis G. Obenchain Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Obenchain, Francis G. Papers
+                              <date normal="1902/1923" encodinganalog="260$c">1902/1923</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Obenchain, Francis G. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1902/1923">1902-1904, 1923</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">159</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Obenchain, Francis G" source="lcnaf" role="Collector">Obenchain, Francis G</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/obenchain.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Vicksburg National Military Park (Miss.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Confederate States of America</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Mississippi--Vicksburg</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Virginia</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Historic sites</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The son of a respected storekeeper, Francis G. Obenchain was born in Botecourt County, Va., in 1843. In 1861, Obenchain enlisted in the Confederate Army as part of the &quot;Mountain Rifles.&quot; This unit was also briefly part of Co. H, 28th Va. Vol. Inf., before it was converted into a light artillery battery in 1861. Renamed the Botetourt Artillery, the War Department assigned the unit to the war&#039;s eastern theater in 1862, where it was the only Virginia unit to participate in the Vicksburg campaign. Obenchain served as the unit&#039;s temporary commander during the Battle of Port Gibson (May 1, 1863) and during the siege of Vicksburg (May-July 1863). Captured and paroled, Obenchain and his battery returned to Virginia, where it took part in the artillery duel at New River Bridge (May 10, 1864) and in the defense of Lynchburg (June 1864). In 1873, Obenchain left Virginia and eventually settled in Chicago, where he worked as a miller&#039;s agent and was member of the Chicago Flour Exchange. He also maintained a residence in Miami, Fla.</p>
+                                 <p>This collection mainly contains correspondence between Obenchain and various individuals, including William T. Rigby, Commissioner of the Vicksburg National Military Park Association, regarding the correct placement of markers honoring the Botetourt Artillery at the park. Obenchain&#039;s letters, largely written between 1902 and 1904, reveal the vivid, detailed memories of a keen observer with an engineer&#039;s eye toward terrain. Obenchain also provides exact details of his unit&#039;s part in the campaign, and discusses the battery&#039;s &quot;humiliating&quot; record after Vicksburg, veteran&#039;s reunions, and monument construction in Fincastle, Va. The collection also contains several maps and blueprints of Civil War battlefields, rough drafts of manuscripts, and genealogical information.</p>
+                                 <p>The Oberchain papers are extensively used in Terrance J. Winschel, &quot;Virginians Far from Home: The Botetourt Artillery at Vicksburg&quot; and &quot;The Guns of Champion Hill,&quot; <emph render="italic">Journal of Confederate History</emph>, 5-6 (1990-91).</p>
+                                 <p>Ralph and Robin Symons of Miami, Fla., donated the collection to the University in 1989.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

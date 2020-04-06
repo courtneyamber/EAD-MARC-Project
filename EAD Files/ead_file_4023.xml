@@ -1,0 +1,135 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4023">1200</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Horner, Harlan Hoyt, and Henrietta Calhoun Horner. Papers</titleproper>
+               <titleproper type="filing">Horner, Harlan Hoyt, and Henrietta Calhoun Horner. Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Horner, Harlan Hoyt, and Henrietta Calhoun Horner. Papers
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Horner, Harlan Hoyt, and Henrietta Calhoun Horner. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1865-2011</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1200</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Horner, Harlan Hoyt" source="lcnaf" role="Collector">Horner, Harlan Hoyt, 1878-1965</persname>
+                                 <persname encodinganalog="100" normal="Horner, Henrietta Calhoun" source="local" role="Collector">Horner, Henrietta Calhoun, 1880-1964</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">6.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/horner.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Historians</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Beginning in 1951, Harlan Hoyt Horner (1878-1965) and Henrietta Calhoun Horner (1880-1964) formed the nucleus of the Lincoln Room of the University of Illinois. The Horners also established an endowment to enlarge the holdings of the Lincoln Room and to maintain it as a separate, distinct part of the University Library.</p>
+                                 <p>Both Horners were graduates of the Class of 1901, and both were Lincoln scholars. The Horner collection documents their own interest in Lincoln. It includes, for example, Harlan&#039;s study of Lincoln and Horace Greeley, Henrietta&#039;s research notes on Lincoln&#039;s ancestry, and her scrapbooks of Lincoln clippings and ephemera. The collection also includes a portion of the Horners&#039; correspondence relating to Lincoln.</p>
+                                 <p>Integrated into the collection are items about the Horners, including Henrietta&#039;s scrapbook of college pictures preserved by her niece, Roberta Smith of Fort Madison, Iowa, which was donated to the Library in 2008 by her grand niece, Pat Bove, of West Chester, Pa.</p>
+                                 <p>Materials connected to Harlan Hoyt Horner are in Series 1 of the collection. Those connected to Henrietta Calhoun Horner are in Series 2. Their correspondence regarding the gift of their Lincoln collection to the University of Illinois are in Series 3.</p>
+                                 <p>When the Library&#039;s Lincoln Room was opened in 1953, it was located in a room of the History and Political Science Library (later, the History and Philosophy Library) which occupied Room 424 of the Main Library. In 1982, the collection was moved to Rooms 422 and 426. In 2006, it was moved again, to Rooms 320-324 and to an adjoining portion of the main stacks. This collection of the Horners&#039; <emph render="italic">personal</emph> papers brings together diverse materials, most of which had been stored in the Lincoln Room before 2001, when that unit was combined with the Illinois Historical Survey to form the Library&#039;s Illinois History and Lincoln Collections.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

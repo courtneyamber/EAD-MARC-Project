@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4048">226</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the American Association of University Women, Oak Park-River Forest Branch Records</titleproper>
+               <titleproper type="filing">American Association of University Women, Oak Park-River Forest Branch Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the American Association of University Women, Oak Park-River Forest Branch Records
+                              <date normal="1991/2003" encodinganalog="260$c">1991/2003</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">American Association of University Women, Oak Park-River Forest Branch Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1991/2003">1991-2003</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">226</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="American Association of University Women, Oak Park-River Forest Branch" source="local" role="Collector">American Association of University Women, Oak Park-River Forest Branch</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.40</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/aauw-oakparkriverforest.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Association of University Women</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Association of Collegiate Alumnae (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Oak Park (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--River Forest (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Women&#039;s rights</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of records from the Oak Park-River Forest branch of the American Association of University Women. Located in the suburbs just west of Chicago, the Oak Park-River Forest branch aimed to develop and promote opportunities for women and girls, especially through education. Records include bylaws, membership records, handbooks, recruitment event materials, and other documents.</p>
+                                 <p>The American Association of University Women began in 1881 when seventeen women in Boston formed the Association of Collegiate Alumnae for the purpose of uniting the alumnae of different institutions for practical educational work. In 1889 it merged with the Western Association of College Women under the ACA name. A final union with the Southern Association of College Women in 1921 brought about the present AAUW.</p>
+                                 <p>The Oak Park-River Forest branch of AAUW was formed on February 11, 1930, at Proviso High School where twenty-eight women attended the first meeting. The branch was originally named the West Suburban Chicago branch, but the name was changed to Oak Park-River Forest around 1950. There was discussion of closing the branch from 1999 to the early 2000s due to low numbers, and although an official closing date is not available, it shut down sometime between 2003 and 2007. Additional information about the history of the branch can be found in <emph render="italic">75 Years of Making a Difference</emph> (1999) located in the AAUW - North Shore Branch Records.</p>
+                                 <p>Although the collection includes records dating from 1993 to 2003, the bulk of the material dates from the late 1990s and into the early 2000s. Documents such as bylaws, handbooks, and policy books give insight into the administrative functions at the branch level, as well as the state and national levels. Branch directories and attendance lists provide a look into membership numbers during the last few years of the branch&#039;s operations. The collection also includes materials such as invitations, speeches, attendance lists, and contact information of potential members for the branch Membership Recruitment Tea event held in the month of September.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

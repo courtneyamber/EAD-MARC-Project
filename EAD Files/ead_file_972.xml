@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:972">1002</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Johnson v. Board of Education of Champaign (Unit 4) Records</titleproper>
+               <titleproper type="filing">Johnson v. Board of Education of Champaign (Unit 4) Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Johnson v. Board of Education of Champaign (Unit 4) Records
+                              <date normal="1991/2009" encodinganalog="260$c">1991/2009</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Johnson v. Board of Education of Champaign (Unit 4) Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1991/2009">1991-2009</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">2000-2008</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">1002</unitid>
+               <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">11.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/johnson-v-champaignunit4.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Legal records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Courts</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Race</subject>
+                                       <subject encodinganalog="650" source="lcsh">School districts</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of records from the <emph render="italic">Johnson v. Board of Education of Champaign (Unit 4)</emph> court case (No. 00-1349). The Plaintiffs sought to eliminate &quot;unwarranted disparities&quot; between African-American and white students within the Unit 4 School District. The Unit 4 district, which includes all public schools within Champaign (Ill.), operated under a court decree from 2002 to 2009. Records include reports, motions, court orders, correspondence, minutes, audits, and other materials.</p>
+                                 <p>In 1996, Felicia Johnson, the mother of two African-American students in Unit 4 schools, filed a complaint with the U.S. Department of Education&#039;s Office of Civil Rights regarding discrepancies in transportation and educational services for African-American students compared with those for other students in the district. The complaint was later amended to include additional allegations of discrimination and segregation within the school district. Unit 4 entered into an agreement in 1998 to resolve the issues. The Board then brought in Dr. Robert Peterkin and James Lucey to conduct a comprehensive educational equity audit to evaluate the district and determine which areas needed improvement.</p>
+                                 <p>The complaint escalated to a lawsuit in 2000, and on January 29, 2002, the Board of Education signed the Second Revised Consent Decree, which required the district to eliminate racial inequality in attendance and enrollment, special education, gifted and talented programs, hiring of staff, discipline, student achievement, graduation, and other areas. Unit 4 operated under the consent decree from 2002 to November 4, 2009, when both parties signed a settlement agreement officially ending the decree.</p>
+                                 <p>This collection is comprised of three series: Committee Documents, Legal Case and Court Documents, and Assessment Reports.</p>
+                                 <p>The Committee Documents series (Series 1) contains materials produced by the various committees formed under the Unit 4 District in order to eliminate inequality and implement change for Champaign schools. The committees generated records such as minutes, correspondence, project notes, policies, and plans to examine and discuss all aspects of the case. The Planning and Implementation Committee (PIC) consisted of representatives from the African-American community as well as the school district administration. It was developed in order to &quot;monitor and evaluate the development and implementation of the Controlled Choice and Educational Equity Plans&quot; and documents the process of defining and solving the problems facing the Champaign school district prior to and during the decree. Topics discussed by the PIC include placing Resource Officers in schools as well as improving the special education programs throughout the district. The Level III Task Force, also comprised of community and administrative representation, evaluated the disparities within upper-level and Advanced Placement programs. They focused on refining Level III course policies, as well as providing resources for both students and teachers in order to encourage higher-level learning in both middle schools and high schools. The Unit 4 Board of Education minutes document discussion about staff hiring processes, student discipline, facility issues and costs, as well as the progression and implementation of the Consent Decree plans.</p>
+                                 <p>The Legal Case and Court Documents series (Series 2) contains official documents submitted to the court throughout the entirety of the case. Documents such as requests, minutes, affidavits, and correspondence included under complaints provide insight into the Plaintiffs&#039; charges leading up to the 2002 Proposed Revised Consent Decree. Pleadings offer a glimpse into the legal progression of the case and include a variety of documents filed in the lawsuit. Documents included in the pleadings consist of motions, complaints, transcripts, orders, correspondence, affidavits, reports, and other materials. This series also includes the 1998 Educational Equity Audit, which determined the areas that needed improvement throughout the Unit 4 district, including discipline, graduation rates, attendance, staffing, special education programs, and Level III courses.</p>
+                                 <p>The Assessment Reports series (Series 3) consists of two types of reports, Monitoring Reports and District Quarterly Reports. Monitoring Reports were created by Dr. Robert Peterkin, the appointed Court Monitor, and James Lucey, an independent consultant, to document the progress of the Unit 4 School District under the Consent Decree. These reports were submitted to Judge Joe B. McDade and include graphs and data reviewing the progress of the district in areas such as information technology, discipline, Controlled Choice, and other areas. This series also includes District Quarterly Reports that departments within the district itself generated and submitted to the Court Monitor for review. These reports reviewed the same areas as the Monitoring Reports, but they offer an in-depth look at the statistics per quarter and/or per school year.</p>
+                                 <p>The Library acquired this collection from Carol Ashley in 2012 and 2013. Ashley was one of the attorneys at the Chicago-based law firm Futterman &amp; Howard that represented the Plaintiffs during the case.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

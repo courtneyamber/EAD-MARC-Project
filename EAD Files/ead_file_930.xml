@@ -1,0 +1,116 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:930">878</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Teillard, Dorothy Lamon (1858-1953). Collection</titleproper>
+               <titleproper type="filing">Teillard</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Teillard, Dorothy Lamon (1858-1953). Collection
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Teillard, Dorothy Lamon (1858-1953). Collection                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive">1946-1953</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">878</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Teillard, Dorothy Lamon" source="local" role="Collector">Teillard, Dorothy Lamon, 1946-1953</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folders">4.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Teillard, Dorothy Lamon, 1858-1953</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains correspondence between Dorothy Lamon Teillard and the Kubicek family, letters about Teillard, and other materials.</p>
+                                 <p>Dorothy Lamon Teillard was born in 1858 and was the daughter of Ward Hill Lamon, Lincoln&#039;s bodyguard and friend. Her mother died while Dorothy was an infant, and she raised by her father&#039;s sister in Danville, Illinois. She met Abraham Lincoln when she was six years old while visiting her father. As an adult, she owned a gold mine in Colorado and spent her time between the mine, her job as official stenographer of the Commissioner of Pensions in Washington D.C., and abroad in Europe. Teillard served as the editor for Ward Hill Lamon&#039;s <emph render="italic">Recollections of Abraham Lincoln, 1847-1865 </emph>(1895; enlarged edn., 1911; 973.7L63 BLL19r) and wrote <emph render="italic">By These Things Have I Lived </emph>(1948; 808.8 T23b).</p>
+                                 <p>The collection consists of various letters between Teillard and the members of the Kubicek family. These letters were usually written to mark a holiday, such as Christmas or Valentine&#039;s Day. There is also correspondence between Earl Kubicek and Robert L. Kincaid, an announcement from R. Gerald McMurtry on the publication of Teillard&#039;s book, an announcement of Teillard&#039;s death by Kincaid, Teillard&#039;s obituary from the <emph render="italic">Chicago Daily Tribune</emph>, an invitation to the inauguration of Kincaid as President of Lincoln Memorial University, and a pamphlet of the history of Vandalia, Illinois.</p>
+                                 <p>Earl Kubicek was director of Alumni Relations and Placement at the Illinois Institute of Technology in Chicago and a collector of Lincoln related material. R. Gerald McMurtry was the Director of the department of Lincolniana at Lincoln Memorial University, and Robert L. Kincaid was the President of Lincoln Memorial University.</p>
+                                 <p>This collection was part of Earl Kubicek&#039;s files which were acquired by the Illinois Historical Survey, predecessor to the Illinois History and Lincoln Collections, after the University of Illinois Library received them from Chuck Hand in 1992.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

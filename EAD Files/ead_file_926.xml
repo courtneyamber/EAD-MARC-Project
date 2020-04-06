@@ -1,0 +1,128 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:926">950</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Dickerson, Joshua. Letters</titleproper>
+               <titleproper type="filing">Dickerson</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Dickerson, Joshua. Letters
+                              <date normal="1861/1865" encodinganalog="260$c">1861/1865</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Dickerson, Joshua. Letters                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1861/1865">1861-1865</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">950</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Dickerson, Joshua" source="local" role="Collector">Dickerson, Joshua, 1819-1908</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.20</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">60 items</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Mississippi--Corinth</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Mississippi--Iuka</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Missouri--Pilot Knob</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Tennessee--Murfreesboro</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Tennessee--Nashville</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Tennessee--Winchester</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Slavery</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Joshua Dickerson was born in Washington County, Pa. on Dec. 17, 1819. He married Lucinda W. Beck in the fall of 1849, and moved to Champaign County, Ill. in 1851. His wife died in 1856, and on June 7, 1857, he married Elmira Fagan. After the Civil War, Dickerson was prominent in Champaign as the city marshal and chief magistrate. He also was elected mayor, serving terms in 1873-75 and 1879. A carpenter by trade, he built in 1870 the first large barn for the Illinois Industrial University&#039;s Stock Farm. He died on Apr. 8, 1908.</p>
+                                 <p>This collection contains Dickerson&#039;s letter to his wife between Sept. 30, 1861, and Feb. 22, 1865. Enlisting on Aug. 4, 1861, he served as a sergeant in Co. C, 38<emph render="super">th</emph> Ill. Vol. Inf. Dickerson&#039;s first letters are from Pilot Knob, Mo., where the regiment wintered in 1861-62. Throughout 1862 and much of 1863, he wrote from camps near Murfreesboro, Tenn.; Corinth and Iuka, Miss.; and Nashville and Winchester, Tenn. The regiment marched from point to point but was not engaged in major battles, except for Stone&#039;s River. Shortly before the battle of Chickamauga, Dickerson became ill and was transferred to a convalescent camp in Nashville. He was then detailed for service in the Office Agency for the Destitute, a refugee camp there, before being discharged on Nov. 22, 1864, as a first sergeant. He stayed in Nashville through February 1865 to take advantage of business opportunities in lumber.</p>
+                                 <p>The correspondence deals with many important aspects of the war and soldier life. Dickerson repeatedly asserts his commitment to the cause of the Union, insisting that he would rather fight for years than go home without a complete Union victory. He railed against slavery, and was critical of the Christian Commission. His letters provide fairly detailed accounts of his unit&#039;s movements, updates from the front, and general war news. In almost every letter he estimates when the war will end and hopes for a speedy return to his family. He repeatedly warns his wife to beware of Copperheads, whom he regarded as worse than Confederates. During his months in the convalescent camp and the refugee camp, he frequently comments on the poor state of the southern home front.</p>
+                                 <p>Dickerson&#039;s letters were donated to the Library in 2012 by his great-grandchildren, Marilyn Whittaker of Champaign, Ill., and Lorin Whittaker, Jr. of Peoria, Ill.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

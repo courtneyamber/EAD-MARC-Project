@@ -1,0 +1,142 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:239">239</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Rogers, Joseph Blackburn. Papers</titleproper>
+               <titleproper type="filing">Rogers: Joseph Blackburn Rogers Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Rogers, Joseph Blackburn. Papers
+                              <date normal="1898/1976" encodinganalog="260$c">1898/1976</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Rogers, Joseph Blackburn. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1898/1976">1898-1976</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">239</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Rogers, Joseph Blackburn" source="lcnaf" role="Collector">Rogers, Joseph Blackburn</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="boxes">3.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 cu.ft.</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/rogers.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Baptists</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Cook County--Chicago (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Roosevelt, Theodore, 1858-1919</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clergy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Genealogy</subject>
+                                       <subject encodinganalog="650" source="lcsh">Prohibition</subject>
+                                       <subject encodinganalog="650" source="lcsh">Sermons</subject>
+                                       <subject encodinganalog="650" source="lcsh">Temperance</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1914-1918</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the correspondence and personal and professional papers of Joseph Blackburn Rogers, a Baptist minister who served in several Illinois cities in the early 20th century.</p>
+                                 <p>Joseph Blackburn Rogers (1867-1934) was born and raised in Kentucky, where he at first began a career as a teacher and then decided to study law. In 1895, he was ordained as a Baptist minister, and spent two years preaching in Kentucky before he moved to Moweaqua, Illinois, in 1897. He later served in Springfield from 1902 to 1907, in Quincy from 1907 to 1914, and Chicago from 1914 until his death in 1934.</p>
+                                 <p>In Chicago, Rogers served as the minister of the LaSalle Avenue Baptist Church. Once a thriving, upper-class neighborhood, the area by 1914 had become a rooming house district populated largely by newcomers to the city. Rogers took the dying church and revitalized it. He established kindergartens, a weekend vocational school, an employment bureau, programs for feeding and housing the unemployed and homeless, and several youth programs. Assistant ministers preached in Finnish, Swedish, and Persian. Under Rogers&#039;s direction, the church established nine satellite churches and fourteen Sunday Schools in the city and suburbs. The minister&#039;s favorite project became apartment housing where young people could live in a Christian atmosphere. His culminating effort was the seventeen-story Roger Williams Apartments at 1211-1217 North LaSalle Street, constructed beginning in the late 1920s. Due to financial problems, the apartments went into receivership and passed to new owners.</p>
+                                 <p>Rogers became a well-recognized figure on the post-World War I Chicago scene. Best known as an advocate of Prohibition, Rogers campaigned against gambling, prize fighting, and prostitution as well as alcohol. While a strong supporter of the national Republican party, he constantly sparred with the Chicago and state Republican organizations, which he considered corrupt. Rogers strongly backed America&#039;s entry into World War I, made Liberty Loan speeches, and established firm anti-communist credentials. His sermons and writings captured his views on private enterprise, church membership, the role of Christianity in the world, and the social and political issues of the day.</p>
+                                 <p>The collection mainly contains materials from Rogers&#039;s Chicago years. Rogers&#039;s correspondence includes personal and church-related materials, and also includes a note from Theodore Roosevelt, written December 15, 1916. The collection also contains personal manuscripts, sermons and other writings, as well as printed items and photographs related to Rogers&#039;s church. There are also genealogical materials relating to Rogers&#039;s daughter, D. Katharine Rogers, who served as an associate professor in the University of Illinois School of Social Work.</p>
+                                 <p>D. Katharine Rogers donated the collection to the University Library in 1981 and 1982.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

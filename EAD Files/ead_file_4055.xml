@@ -1,0 +1,146 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4055">270</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Great American People Show. Records</titleproper>
+               <titleproper type="filing">Great American People Show</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Great American People Show. Records
+                              <date normal="1968/1997" encodinganalog="260$c">1968/1997</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Great American People Show. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1968/1997">1968-1997</unitdate>
+                              <unitdate label="Bulk Dates" encodinganalog="245$g" type="bulk">1975-1996</unitdate>
+                  </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">270</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Great American People Show" source="local" role="Collector">Great American People Show</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">8.90</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/greatamericanpeopleshow.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Arts Council</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Illinois Humanities Council</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Menard County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Theater</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                           <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Hurt, James. Scripts of &quot;Abraham Lincoln Walks at Midnight&quot;, 1980 and 2008</p>
+                                    <p>Information about related materials is available at http://www.library.illinois.edu/ihx/archon/index.php?p=collections/controlcard&amp;id=770</p>
+                              </relatedmaterial>
+                     </descgrp>
+
+                        <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The Great American People Show (GAPS), an Illinois-based not-for-profit theatre company, performed works showcasing American history, with a particular focus on the life and legacy of Abraham Lincoln, for twenty seasons in New Salem starting in 1976. This collection contains records documenting the administration, promotion, and production history of GAPS from its inception in 1975 to its dissolution in 1996.</p>
+                                 <p>Founded by University of Illinois theatre professor John Ahart, GAPS strove to present engaging and evocative theatre showcasing the events and people of American history. Its signature piece was <emph render="italic">Your Obedient Servant, A. Lincoln </emph>(John Ahart, 1976), which the company performed every year until 1993, and reprised in 1995. Other key works included <emph render="italic">Abraham Lincoln Walks at Midnight</emph> (James Hurt, 1980) and <emph render="italic">Even We Here</emph> (John Ahart, 1982), which, along with <emph render="italic">Your Obedient Servant, A. Lincoln,</emph> formed a &quot;Trilogy&quot; of plays exploring episodes in American history from Lincoln&#039;s birth in 1809 to the moon landing in 1969. The trilogy was performed during summer seasons from 1982 to 1987, but funding issues led to reducing the summer program to a single play in 1988. Later seasons, starting in 1992, featured pieces such as <emph render="italic">Quilters</emph> (Molly Newman and Barbara Damashek, 1984), <emph render="italic">Our Town</emph> (Thorton Wilder, 1938), or <emph render="italic">You Can&#039;t Take It With You</emph> (George S. Kaufman and Moss Hart, 1936), alongside works written specifically for GAPS such as <emph render="italic">Your Obedient Servant, A. Lincoln</emph> or <emph render="italic">Mr. Lincoln and the 4th of July</emph> (John Ahart, 1992). The company performed in New Salem at the Kelso Hollow Outdoor Theatre from 1976 to 1991 and the Visitors Center Indoor Theatre from 1992 to 1995.</p>
+                                 <p>The company won a number of awards and honors, including the Governor&#039;s Award for the Arts in 1980 and being named the Official State Theatre of Lincoln and the American Experience by the Illinois legislature in 1994. In fall of 1995, however, John Ahart resigned from his roles as President of the Board and Artistic Director and, after years of financial struggle, the board decided in 1996 to dissolve the organization.</p>
+                                 <p>The records in this collection include board meeting minutes, financial documents, news clippings and press materials, and programs from all twenty seasons, as well as materials on its closing in 1996. In addition, the collection contains survey data with audience demographics and comments for about half of the summer seasons, grant application materials from 1987 to 1996, box office data from 1981 to 1995, and photographs for most years. Copies of scripts with production notes and cues are also included, along with a costuming manual from the mid-1980s and various other materials including newsletters, correspondence, and advertisements. The attached inventory provides further detail about the contents and organization of the collection.</p>
+                                 <p>The Great American People Show records are comprised of materials donated by three members of its Board of Directors: Dianne Toalson of Champaign, Cathryn Wood of Petersburg, and Robert W. Johannsen, Professor of History at the University of Illinois at Urbana-Champaign. Professor Johannsen&#039;s files form a separate subseries of the collection, but Toalson and Wood&#039;s have been integrated together. The bulk of the materials were donated to the Library in 1998, with Toalson donating additional records in 2000. The collection also includes two large posters whose donor is unknown, and some mailings and other ephemera collected by Library staff.</p>
+                                 <p>The records in this collection are open for research with the exception of personnel files marked in the attached inventory.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

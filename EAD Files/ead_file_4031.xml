@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4031">948</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois. Records</titleproper>
+               <titleproper type="filing">Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois. Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois. Records
+                              <date normal="1889/1958" encodinganalog="260$c">1889/1958</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1889/1958">1889-1958</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">948</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois" source="local" role="Collector">Woman&#039;s Christian Temperance Union (W.C.T.U.), Putnam County, Illinois</corpname>
+                                 <corpname encodinganalog="110" normal="Center Red Ribbon Club" source="local" role="Collector">Center Red Ribbon Club</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">0.90</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/wctu-putnamcounty.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Woman&#039;s Christian Temperance Union</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Putnam County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Putnam County--Magnolia (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Putnam County--McNabb (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Roosevelt, Eleanor, 1884-1962</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Temperance</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection consists of minute books, financial records, correspondence, programs, and miscellaneous notes, publications, and other materials documenting the meetings, membership, and activities of the Women&#039;s Christian Temperance Union (W.C.T.U.) in Putnam County, Illinois, both on the county and local level from the late 19th through the mid-twentieth century.</p>
+                                 <p>Records from the local Magnolia Center/McNabb W.C.T.U. make up the bulk of the collection. Begun in June 25, 1889 as the Magnolia Center W.C.T.U., in 1907 members voted to change its name to the McNabb W.C.T.U. after another local union was established at Magnolia. Minute books record summaries of the group&#039;s meetings held in members&#039; homes once or twice a month, as well as membership rolls and the pledge and/or constitution of the organization. They detail songs sung, scripture passages read, topics and publications discussed, talks and instruction given, charitable and social welfare efforts, as well as district, state, and national W.C.T.U. connections. Two histories of the group, circa 1920 and 1958, a set of membership slips from 1927, and correspondence including an exchange with Mrs. Eleanor Roosevelt are also included.</p>
+                                 <p>In addition to local records, there are minute books for the annual or biannual Putnam County W.C.T.U. meetings. These include updates from local unions, resolutions passed, and other details. The collection also includes programs from several local, county, and district meetings, state and national publications, and miscellaneous financial and other records. A minute book for another local temperance group, the Center Red Ribbon Club, which sent delegates to the Putnam County W.C.T.U. convention, is also included among the records. The club&#039;s monthly meetings included a combination of discussion questions, recitations and remarks, speeches, papers, and music.</p>
+                                 <p>The records are believed to have been acquired by the Library in the late 1970s as part of an accession primarily composed of Religious Society of Friends records.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

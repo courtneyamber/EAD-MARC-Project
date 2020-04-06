@@ -1,0 +1,141 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:189">188</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Phillips, John Van Cleve. Papers</titleproper>
+               <titleproper type="filing">Phillips: John Van Cleve Phillips Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Phillips, John Van Cleve. Papers
+                              <date normal="1855/1890" encodinganalog="260$c">1855/1890</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Phillips, John Van Cleve. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1855/1890">1855-1890, 1926</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">188</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Phillips, John Van Cleve" source="lcnaf" role="Collector">Phillips, John Van Cleve</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">3.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">21 volumes; 20 oversize folders</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/jvcphillips.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Arkansas</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Colorado</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iowa</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Mexico</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Michigan</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Missouri</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Montana</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Nevada</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">New Jersey</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Wisconsin</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farms</subject>
+                                       <subject encodinganalog="650" source="lcsh">Geology</subject>
+                                       <subject encodinganalog="650" source="lcsh">Mines and mineral resources</subject>
+                                       <subject encodinganalog="650" source="lcsh">Property</subject>
+                                       <subject encodinganalog="650" source="lcsh">Railroads</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the papers of John Van Cleve Phillips. Materials include correspondence, personal papers, geological reports, atlases, surveys, maps, newspaper clippings, and publications.</p>
+                                 <p>John Van Cleve Phillips (1819-1890) settled in Galena, Illinois in 1844, and there learned to prospect for lead mines. After eight years of prospecting, Phillips left Galena to study geology at Princeton University during the 1850s before accepting a job with a copper mining company in St. Louis. Phillips later acted for parties in the sale of mines, was President of the Dry Mountain Gold and Silver Mining Company, wrote scientific articles, and produced a number of maps and surveys, mainly of areas in Missouri. Phillips&#039; geological reports were not only highly regarded by others in the field for their thoroughness and attention to detail but also considered invaluable by those who operated mines in the areas that he surveyed.</p>
+                                 <p>This collection contains Phillips&#039;s correspondence, personal and business papers, geological and literary works, and publications. Of particular note are Phillips&#039;s diaries, which contain personal and geological notes on Arkansas, Kentucky, Missouri, Montana, Nevada, New Jersey, Wisconsin, and Mexico, 1878-1885. The collection also includes Phillips&#039;s unpublished reports on mines and claims across the United States and his collection of geological atlases, surveys, maps, and charts.</p>
+                                 <p>The Library purchased the collection in 1957.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

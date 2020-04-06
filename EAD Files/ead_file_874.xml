@@ -1,0 +1,157 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:874">973</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Blair, Leverett, and Stifler Family Papers</titleproper>
+               <titleproper type="filing">Blair, Leverett, and Stifler Family Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Blair, Leverett, and Stifler Family Papers
+                              <date normal="1805/2006" encodinganalog="260$c">1805/2006</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Blair, Leverett, and Stifler Family Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1805/2006">1805-2006</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">973</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <famname encodinganalog="100" normal="Blair Family" source="local" role="Collector">Blair Family</famname>
+                                 <famname encodinganalog="100" normal="Leverett Family" source="local" role="Collector">Leverett Family</famname>
+                                 <famname encodinganalog="100" normal="Stifler Family" source="local" role="Collector">Stifler Family</famname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">73.70</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                                       <p>Family Guide: <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.library.illinois.edu/ihx/inventories/blair-leverett-stifler_family-guide.pdf">http://www.library.illinois.edu/ihx/pdf/blair-leverett-stifler_family-guide.pdf</extref></p>
+                                 <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/blair-leverett-stifler.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Freedmen&#039;s Aid Commission</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Brown University</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Daughters of the American Revolution</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Monticello Seminary</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Newton Theological Institution</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Roger Williams University (Nashville, Tenn.)</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Shurtleff College</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">University of Illinois at Urbana-Champaign</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Women&#039;s Baptist Home Mission Society</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Adams County--Quincy (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Alton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Upper Alton (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Michigan--Detroit</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Michigan--Frankfort</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Loomis, Hubbel, 1775-1872</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lovejoy, Elijah P. (Elijah Parish), 1802-1837</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Peck, John Mason, 1789-1858</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Smith, Samuel Francis, 1808-1895</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Stifler, William Warren, 1883-1954</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcnaf">Mississippi Valley Sanitary Fair (1864 : Saint Louis, Mo.)</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains the papers of the Blair, Leverett, Stifler, and other related families. The papers document these families as well as life in Illinois from the nineteenth through the twenty-first century. Materials include correspondence, photographs, personal papers, printed works, newspaper clippings, ephemera, business and legal records, family histories and genealogy, and other materials.</p>
+                                 <p>The bulk of the materials documents the Leveretts, Stiflers, and Blairs, all of whom settled in Alton, Illinois. The Leverett family was originally from the New England area. In the 1830s, twin brothers Warren and Washington Leverett moved to Alton to join the faculty of Shurtleff College. The Stiflers owned a farm in south central Pennsylvania. Two sons, William H. Stifler and Rev. James M. Stifler, moved to Illinois sometime in the 1850s. Additional siblings would later resettle in Illinois as well. William moved to Alton to attend Shurtleff College. In 1870, William H. Stifler married Sarah B. Leverett, daughter of Warren Leverett, thus connecting the two families. The Blair family moved from Tennessee to Illinois sometime during the early nineteenth century. In 1911, Roy A. Blair married Lucy K. Stifler, daughter of William H. Stifler. Through their marriages Will and Lucy joined the three families in Alton together.</p>
+                                 <p>William H. Stifler (1841-1895) was born on March 25, 1841, near Hollidaysburg, Pennsylvania, one of twelve children of John H. and Rebecca (Kinsel) Stifler. Sometime during his teenage years, he followed one of his elder brothers to Illinois and attended Shurtleff College, located in Alton, Illinois. He took a brief hiatus from his education to serve in the Union Army during the Civil War, serving for five months in 1864 at the Rock Island Arsenal in Rock Island, Illinois. After the war, he returned to Shurtleff College where he earned two degrees. He was ordained as a Baptist minister in Pana, Illinois, in 1869. On September 27, 1870, William married Sarah B. Leverett, affectionately known as &quot;Brownie.&quot; They had four children together: Mary A. Stifler (who died at the age of 14), Juliet L. (Stifler) Burton, William Warren Stifler, and Lucy K. (Stifler) Blair. Throughout his career as a minister, William and his family moved around the Midwest, serving in Iowa, Tennessee, Michigan, and South Dakota. On August 11, 1895, William suffered from a stroke and died soon after returning home to Sioux Falls, South Dakota, from a trip. Following his death his widow, Brownie, and their three children moved back to Alton, Illinois, to be close to Brownie&#039;s mother.</p>
+                                 <p>Lucy K. (Stifler) Blair (1887-1978) was born on January 13, 1887, in Nashville, Tennessee, where her father, William H. Stifler, was serving as President of Roger Williams University (located on the present-day campus of Vanderbilt University). After moving around the Midwest with her family, she relocated to Alton, Illinois, with her mother and siblings after the death of her father. She attended Shurtleff College, where she met her future husband, Roy A. Blair (1886-1971). Both Roy and Lucy graduated from Shurtleff in 1906. Soon after Lucy became a public school teacher at Lowell School for a short time. Roy took over the family insurance business in Alton from his father, Edmund H. Blair. Lucy and Roy married on September 6, 1911. They had three daughters: Mary Abbott (Blair) Haxel (1914-2007), Elizabeth S. (Blair) Sutton (1918-2008), and Barbara A. (Blair) Robinson (1923-2001). Lucy and Roy were active members of the Upper Alton Baptist Church, serving in a variety of roles in the church. Roy passed away in June of 1971, at the age of 84, and Lucy died on July of 1978, at the age of 91.</p>
+                                 <p>Please refer to the Family Reference Guide at the link below for more information about these and other family members.</p>
+                                 <p>The collection consists of three parts, each of which has been organized using different methods. All three parts contain papers from several different families.</p>
+                                 <p>Part 1, dating from 1835 to 1976, contains personal papers, publications, financial and legal records, correspondence, and other materials. Part 1 was organized and described by IHLC staff circa 2009 and is arranged by family member.</p>
+                                 <p>Part 2 of the collection, dating from 1818 to 2005, is arranged by type of material and is organized in eleven series: Correspondence, Personal Papers, Family History and Genealogy, Photographs, Shurtleff College, Publications, Scrapbooks, Ephemera, Artifacts, Textiles, and Mixed Materials. Part 2 was organized and described by IHLC staff in 2016-2017.</p>
+                                 <p>Part 3, which dates from 1805 to 2006, includes correspondence, family history and genealogies, photographs, ephemera, publications, and other materials. Part 3 is organized both by family name, type of material, and subject. It was organized and described by Mary Abbott (Blair) Haxel, Gordon B. Haxel, Elizabeth (Blair) Sutton, and Kathy (Robinson) Short in the early 2000s and completed circa 2007.</p>
+                                 <p>For more information about the content included in each series, please see the inventory.</p>
+                                 <p>The Library acquired this collection through a series of donations made by Mary Abbott (Blair) Haxel, Gordon B. Haxel, Elizabeth S. (Blair) Sutton, William R. Sutton, Barbara A. (Blair) Robinson, and Kathy (Robinson) Short in 2003-2004 and 2007-2010.</p>
+                                 <p>Additional materials on Dorothy L. Blair can be found at the Corning Museum of Glass (Corning, New York) and Mount Holyoke College (South Hadley, Massachusetts). Additional materials on Susan (Reed) Stifler can be found at Mount Holyoke College as well.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

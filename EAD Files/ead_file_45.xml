@@ -1,0 +1,140 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:45">044</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Koerner, Gustave. Papers</titleproper>
+               <titleproper type="filing">Koerner: Gustave Koerner Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Koerner, Gustave. Papers
+                              <date normal="1842/1843" encodinganalog="260$c">1842/1843</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Koerner, Gustave. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1842/1843">1842-1843</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">044</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Koerner, Gustave" source="lcnaf" role="Collector">Koerner, Gustave</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">3.00</extent></physdesc>
+            
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+		<language encodinganalog="041" langcode="fre">French</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Germany</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">St. Clair County (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Douglas, Stephen Arnold, 1813-1861</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">German Americans</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                                    <dao xlink:type="simple" xlink:href="https://digital.library.illinois.edu/collections/ebfaa750-6464-0137-6cef-02d0d7bfd6e4-a" xlink:actuate="onRequest" xlink:show="new">
+                        <daodesc>
+                           <head>Title:</head>
+                           <p>Digitized Content from the Gustav Koerner Papers</p>
+                        </daodesc>
+                     </dao>
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>Gustave Koerner (1809-1896) was influential in Illinois and national politics, particularly within the German American settlement of St. Clair County, Illinois. This collection contains two political speeches given by Koerner during his time in the Illinois legislature, as well as a signed cabinet card photograph of Koerner.</p>
+                                 <p>A native of Germany, Gustave Koerner (sometimes spelled &quot;Gustav&quot;) moved in to St. Clair County, Illinois in 1833. There, he became a respected lawyer and influential figure in state and national politics, particularly amongst the German American settlers of St. Clair County. Koerner served as a Democratic member of the Illinois House of Representatives from 1842-1844. In 1844, he resigned his position in the legislature to become Associate Justice of the Illinois Supreme Court. In 1848, he stepped down from the Supreme Court to return to his law practice in Belleville. Running on the Democratic ticket, he became the lieutenant governor of Illinois in 1853, which he served until 1857.</p>
+                                 <p>Originally a Democrat, Koerner strongly opposed Sen. Stephen A. Douglas&#039;s 1854 Kansas-Nebraska Act--a measure that repealed the prohibition of slavery in some Western territories--and two years later switched allegiances, joining the Republican Party. Koerner chaired the Illinois Republican State Convention in Springfield in 1858, which nominated Abraham Lincoln to oppose Douglas for the U.S. Senate. Koerner led many German Americans in Illinois to join the Republican Party between 1856 and 1860, creating an important minority voting group during Lincoln&#039;s first presidential election. Under Lincoln&#039;s presidency, Koerner served as the Minister of Spain from 1862-1864. After the Civil War, Koerner joined the Liberal Republican Party, working closely with the Democratic Party. He returned to the Democratic Party in 1876, convinced that the Republican Party had fallen to corruption. Until his death in 1896, Koerner remained active in his law firm, which he ran with his son.</p>
+                                 <p>This collection contains items relating to Koerner&#039;s years in the Illinois Legislature (1842-1844). Included are copies of his speech given on July 5, 1842, where Koerner voiced his support of the Illinois Michigan Canal Bill; a handwritten speech (written in French and given in Cahokia, Illinois) criticizing the nature of the government, the National Bank, the depreciation of money, and anti-Van Buren views; and a signed cabinet card photograph of Koerner. Additionally, a negative and photographic print, dating from the 20<emph render="super">th</emph> century, depict the same portrait of Koerner.</p>
+                                 <p>The collection also contains political papers and letters written by Koerner, which are in Folder 143 of the Illinois and US History Broadsides and Ephemera Collection (MS 418). Included is a leaflet written by Koerner in 1842 entitled &quot;To the Voters of St. Clair County&quot;, in which he defended himself against false political campaign charges; a letter from Koerner to Philip B. Fouke written 1843 entitled &quot;To the Democrats of St. Clair County&quot;, in which Koerner criticized the Belleville Advocate for refusing to publish his article; and a German political circular, addressing the German settlers of Belleville, Illinois about the current political revolution and government in the German States. The latter is signed &quot;Der Asuchuss&quot; and may have been written by Koerner.</p>
+                                 <p>Most of this collection was acquired prior to 1957. Koerner&#039;s cabinet card photograph was donated by Timothy Tucker in 1968.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

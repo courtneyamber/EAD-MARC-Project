@@ -1,0 +1,135 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:825">829</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Johnson, John Lee. Papers</titleproper>
+               <titleproper type="filing">Johnson: John Lee Johnson Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Johnson, John Lee. Papers
+                              <date normal="1964/2009" encodinganalog="260$c">1964/2009</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Johnson, John Lee. Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1964/2009">1964-2009</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">829</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Johnson, John Lee (1922-2006)" source="lcnaf" role="Collector">Johnson, John Lee (1922-2006)</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">10.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/Johnsonsfa5.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal papers</genreform>
+                                       <genreform encodinganalog="655" source="local">Professional papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Champaign County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Champaign (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Champaign County--Urbana (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Community action</subject>
+                                       <subject encodinganalog="650" source="lcsh">Education</subject>
+                                       <subject encodinganalog="650" source="lcsh">Elections</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Race</subject>
+                                       <subject encodinganalog="650" source="lcsh">Social justice</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>John Lee Johnson [JLJ] (1941-2006) was a lifelong resident of Champaign, Illinois, and a lifelong activist on issues of concern to the citizens of East-Central Illinois, including racial equality, educational opportunity, affordable housing, and access to health care.</p>
+                                 <p>JLJ began his career as a community organizer in the early 1960s. In the late 1960s, he helped to organize the Concerned Citizens&#039; Council, which established Project 500, an effort to recruit African-American undergraduates to the University of Illinois. From 1972 to 1980, he represented Champaign&#039;s northeast neighborhood (District 1) on the City Council. Starting in 1979, he also served on the Regional Planning Commission (RPC) of Champaign County, and was a member of RPC&#039;s Community Block Grant Advisory Board. He also ran unsuccessfully for the office of Champaign City Mayor and for the Illinois General Assembly seat for the 103rd District.</p>
+                                 <p>JLJ was involved in numerous community development organizations, including the Champaign County Health Care Consumers (CCHCC), &quot;Of the People,&quot; Racial Justice Now (RJN), and the Illinois Center for Citizen Involvement (ICfCI). [Note: The Illinois Center for Citizen Involvement originally used the acronym ICCI, but in 1997 switched to ICfCI because of a complaint made by a local concrete firm that was already using the letters ICCI. This collection uses the acronym ICfCI to identify the Center throughout its history.]</p>
+                                 <p>ICfCI developed as a self-standing organization in 1985 from within the CCHCC to address the wider concerns of housing and credit that shaped community health. From its start, ICfCI was active in insuring that banking and credit services were available to Champaign and Urbana residents from low income and racial minority neighborhoods.</p>
+                                 <p>In 1987, ICfCI formed the Eads Street Development Corporation (ESDC), a not-for-profit firm that worked directly on development projects. In 1995, ICFCI became an officially recognized Community Housing Development Organization (CHDO), and it collaborated with county and state housing authorities, and with local and regional banking interests, to construct single-family homes for low and medium income residents. These efforts began in the mid-1990s with the financial support of the Home Investment Partnership (HOME) program, which was administered by the U.S. Department of Housing and Urban Development (HUD). After JLJ left ICfCI in 2002, he resumed his development work with ESDC, until shortly before his death in 2006.</p>
+                                 <p>In 1996, JLJ and Herbert (Herb) Stevens, a newspaper publisher in Paxton, Illinois, filed a complaint with the U.S. Department of Education&#039;s Office of Civil Rights against the Champaign Community School District (Unit 4), alleging discriminatory treatment of African-American pupils. This complaint, which included affidavits from numerous parents of African-American students in Unit 4, led to a series of class-action lawsuits in the U.S. District Court for the Central District of Illinois, Peoria Division, that were resolved by consent decrees between the plaintiffs and the district. These decrees forced alterations in the district&#039;s policies on the structure of gifted and special education, school discipline policies, and school demographic profiles.</p>
+                                 <p>The collection is divided into six series: Personal, Education, Community Development and Housing, Government, and Various Community Activities. Most of the papers relate to JLJ&#039;s activities from the early 1980s to 2005. [For records describing JLJ&#039;s involvement with the Community Advocacy Depot, a development collaboration between C-U residents and the University of Illinois&#039; Department of Architecture from 1969-1971, refer to the University Archives&#039; Frederic D. Moyer Papers, series no. 12/02/028]. The collection was donated to the Library by Paulette Coleman in 2008. In 2010, Cope Cumpston added the scrapbook in Box 10.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

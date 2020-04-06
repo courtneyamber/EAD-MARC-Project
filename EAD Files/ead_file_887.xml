@@ -1,0 +1,126 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:887">786</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Peters, Matthew Henry, collector. Lincoln and World War I Scrapbooks</titleproper>
+               <titleproper type="filing">Peters, Matthew Henry</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Peters, Matthew Henry, collector. Lincoln and World War I Scrapbooks
+                              <date normal="1909/1917" encodinganalog="260$c">1909/1917</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Peters, Matthew Henry, collector. Lincoln and World War I Scrapbooks                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1909/1917">1909-1917</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">786</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Peters, Matthew Henry" source="lcnaf" role="Collector">Peters, Matthew Henry</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="volumes">3.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Lincoln, Abraham, 1809-1865</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Merwin, James Burtis, 1829-1917</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Civil War, 1861-1865</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">World War, 1914-1918</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>M. H. (Matthew Henry) Peters, born in Bavaria in 1843, grew up as an orphan in New Orleans and in Ohio. During the Civil War, he served in several capacities, mainly in the 74th Ohio Vol. Inf. Enlisting as a private in Co. F, he mustered out as a major. He later became a colonel by virtue of his activities in the Illinois National Guard.</p>
+                                 <p>Peters settled in Watseka, Illinois, in 1867, and operated a book and stationery store before and after serving as the editor of the <emph render="italic">Iroquois Times</emph>, 1872-74, and the <emph render="italic">Iroquois County Times</emph>, 1878-91. Twice chosen as mayor of Watseka, he was elected to the Illinois legislature in 1878, and served one term. He later ran for public office as a Democrat but lost. Long interested in military affairs, he also wrote on Iroquois County in the Civil War and on his own military experiences.</p>
+                                 <p>Between 1909 and 1917, Peters compiled two scrapbooks of clippings about Abraham Lincoln. Many clippings relate to Lincoln monuments of that period. Peters&#039;s interest in this subject is indicated by a photocopy of a letter with the second scrapbook from James B. Merwin on June 16, 1913, regarding the Congressional appropriation for the Lincoln Memorial in Washington, D.C. (The Lincoln Memorial may also have engaged Peters&#039;s attention because Henry Bacon, its architect, was born in Watseka.) Several articles in the scrapbooks report addresses on Lincoln by Maj. Merwin, a Civil War chaplain who wrote on Lincoln and prohibition.</p>
+                                 <p>Pasted into the first scrapbook is a copy of N. P. (Norton Parker) Chipman, <emph render="italic">Abraham Lincoln </emph>(Sacramento, Calif.,1906), Monaghan 1492. About a quarter of this scrapbook is filled with articles about George Washington between 1909 and 1914. The second scrapbook contains a number of undated clippings, mainly reporting political and military news in 1864, as well as a few poems. Most if not all of these items were clipped from the <emph render="italic">Louisville Daily Journal </emph>and the<emph render="italic">Cincinnati Daily Commercial.</emph></p>
+                                 <p>In addition, between January and July, 1916, Peters compiled a scrapbook of clippings about World War I, mostly from the pages of the <emph render="italic">Illinois Staats-Zeitung</emph> of Chicago. He affixed in the scrapbook three notes explaining his purpose. Feeling that most American newspapers of the day unduly favored the Allies, he &quot;concluded to subscribe for a German paper,&quot; for he wished &quot;to preserve source data&quot; that would give the German point of view. He clipped only articles written in English, but the captions of many of the pictures in his scrapbook are in German. This scrapbook also contains an assortment of unmounted clippings.</p>
+                                 <p>Peters&#039;s scrapbooks about Lincoln and about World War I were preserved, in turn, by his widow, by Lorraine Martin, and by Norm Owens, all of Watseka. In 2004, Robert M. Owens arranged for their donation to the Illinois Historical Survey.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

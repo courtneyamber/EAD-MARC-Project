@@ -1,0 +1,131 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:919">873</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Martin, R. Eden, <emph render="italic">collector, editor, and author.</emph> Sullivan and Moultrie County, Ill. Sources</titleproper>
+               <titleproper type="filing">Martin, R. Eden, Sullivan and Moultrie County, Ill. Sources, 1834-2014</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Martin, R. Eden, <emph render="italic">collector, editor, and author.</emph> Sullivan and Moultrie County, Ill. Sources
+                              <date normal="1834/2014" encodinganalog="260$c">1834/2014</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Martin, R. Eden, <emph render="italic">collector, editor, and author.</emph> Sullivan and Moultrie County, Ill. Sources                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1834/2014">1834-2014</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">873</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Martin, R. Eden, collector, editor, and author" source="local" role="Collector">Martin, R. Eden, collector, editor, and author</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">6.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Research materials</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Moultrie County (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Moultrie County--Sullivan (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Farm life</subject>
+                                       <subject encodinganalog="650" source="lcsh">Frontier and pioneer life</subject>
+                                       <subject encodinganalog="650" source="lcsh">General stores</subject>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Law</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural conditions</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection includes several sources for Sullivan and Moultrie County history.</p>
+                                 <p>The earliest source is a volume of records covering the period from 1834 to 1861, which R. Eden Martin transcribed and printed in <emph render="italic">The Whitley Point Record Book: The Justice of the Peace Docket Book, Estray List and County Store Record of the Earliest Settlement in Moultrie County, Illinois</emph> (1996)[977.367503 W59]. The collection also includes a bound photocopy of the original volume.</p>
+                                 <p>In addition, the collection includes two manuscript record books kept by I. J. [Ivory John] Martin (1859-1953), R. Eden Martin&#039;s grandfather. The first is a record book listing federal, state, and local officials in Sullivan and Moultrie County, with notes on their service, mayoral administrations, and personal lives. The first page of this &quot;Common Place Book&quot; provides a table of contents for the material on pages 10-91.</p>
+                                 <p>The second book kept by I. J. Martin begins with a page that provides an index to entries or headings on 26 subsequent pages.</p>
+                                 <p>The collection also includes I. J. Martin&#039;s copy of the <emph render="italic">Revised Ordinances of the City of Sullivan, Illinois, 1892, Published by Authority of the City Council</emph> (Sullivan: Morning Herald Print, 1892) [1], 3-84, [85-90], six pages of which he annotated.</p>
+                                 <p>I. J. Martin&#039;s writings are in part transcribed on R. Eden Martin&#039;s website, <extref linktype="simple" audience="external" show="embed" actuate="onrequest" href="http://www.edenmartin.com/">www.edenmartin.com</extref>, under the heading &quot;Common Place Book, Moultrie County History,&quot; which is dated 1927.</p>
+                                 <p>In addition, that website includes &quot;Glimpses of Life in Sullivan, Illinois during the Civil War and until 1869,&quot; R. Eden Martin&#039;s transcription of another record book in the collection, the &quot;Minutes of the Board of Trustees of the Town of Sullivan, Illinois, 1861-1869.&quot; This book, now disbound, contains entries on 96 pages.</p>
+                                 <p>R. Eden Martin gave these materials to the Library in 1996-97. See also his compilation, <emph render="italic">Fragments of Martin Family History: Ivory John Martin, 1859-1953; Robert Walter Martin, 1895-1970 </emph>(1990)[929.20973 M363f], and his editions of I. J. Martin, <emph render="italic">Notes on the History of Moultrie County and Sullivan Illinois </emph>(1990)[977.3675 M364n]; <emph render="italic">Ivory and Rose, A Year&#039;s Courtship: The Correspondence of Ivory J. Martin and Rose Eden, Sullivan, Illinois, 1885-1886</emph> (1997)[816 M364L], and Walter Eden, <emph render="italic">Memoirs of a &quot;Boy Mayor&quot;: Recollections of Sullivan, Illinois from the Civil War to 1909</emph> (1999)[977.3675 Ed282m]. In additiion, see R. Eden Martin, ed., <emph render="italic">John R. Eden, 1826-1909: A Compendium of Materials </emph>(xiii, 605 pages, 2012), and R. Eden Martin, <emph render="italic">More Fragments of Martin Family History</emph> (360 pages, 2014), the concluding chapter of which is on Martin&#039;s &quot;Recollections of Childhood.&quot;</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

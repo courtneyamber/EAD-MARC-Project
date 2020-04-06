@@ -1,0 +1,139 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:4">003</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the American Association of University Women - Illinois, Inc. Records</titleproper>
+               <titleproper type="filing">American Association of University Women, Illinois</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the American Association of University Women - Illinois, Inc. Records
+                              <date normal="1924/2014" encodinganalog="260$c">1924/2014</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">American Association of University Women - Illinois, Inc. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1924/2014">1924-2014</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">003</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="American Association of University Women, Illinois State Division" source="lcnaf" role="Collector">American Association of University Women, Illinois State Division</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">90.90</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/aauw-illinois.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">American Association of University Women</corpname>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Association of Collegiate Alumnae (U.S.)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Clubs</subject>
+                                       <subject encodinganalog="650" source="lcsh">Societies</subject>
+                                       <subject encodinganalog="650" source="lcsh">Women&#039;s rights</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The associational history of college-educated women in Illinois began with the formation of the Western Association of Collegiate Alumnae in 1883. This Chicago organization was modeled on the Boston-based Association of Collegiate Alumnae, chartered in 1881. These two groups, which merged in 1889, joined with the Southern Association of College Women to form the American Association of University Women in 1921.</p>
+                                 <p>The Illinois Division of the AAUW was formed in 1924. In 1992, the Illinois chapter dropped the word &quot;division&quot; from its official name. Following this change, this inventory refers to the organization as the AAUW-IL.</p>
+                                 <p>The guiding purpose of the organization is to advocate for the interests of women and girls. It expanded across Illinois since 1924, playing a role in the creation of state committees to regulate child labor and promote social welfare. In the 1950s, the AAUW adopted a neutral position on the Equal Rights Amendment; two decades later, however, it vigorously and persistently advocated its ratification.</p>
+                                 <p>In the early 1990s, the AAUW-IL became heavily involved in campaigns to promote gender equity in American schools and the workplace, to reduce and eliminate sexual harassment, and to increase opportunities for women and girls in the fields of math and science.</p>
+                                 <p>The organization also enhanced the status of women in education by creating grants and fellowships for graduate and post-graduate research.</p>
+                                 <p>During the 1990s, the AAUW-IL became active in efforts to reduce negative stereotypes of women, including the famous &quot;recall&quot; effort organized in 1992 against Mattel&#039;s talking Barbie doll. It also protected women&#039;s reproductive rights, and defended feminism against cultural and political attacks. In addition, it was involved in women&#039;s politics globally through its affiliation with the International Federation of University Women, formed in 1919, as well as smaller projects to aid women in developing countries such as Nigeria.</p>
+                                 <p>The AAUW-IL pursued these efforts through a variety of means, including media campaigns, lobbying of state legislators and officials, and scores of educational events at the branch and local level.</p>
+                                 <p>In recent decades, the AAUW-IL has endeavored to develop its membership base by appeals to both younger and minority women college graduates. Yet these measures were unable to stem long-term membership decline. As of 2008, the AAUW-IL had 2,690 members in 48 branches, as compared to 5,920 members in 81 branches in 1989, down from a height of 9,000 members in 1975.</p>
+                                 <p>Beginning in 1983, AAUW officers have donated their records to the Library in a series of accessions. Records are now divided by accession dates.</p>
+                                 <p>The 1983-1994 Accessions (Lots 1-7) contain records spanning from 1924 to 1992. Between 1983 and 1994, these records were inventoried in seven distinct lots. Although the records in each lot often overlap chronologically with records in other lots, material on any given topic can be located by using the &quot;find&quot; function in the inventory.</p>
+                                 <p>The 1996-2007 Accessions (Lots 8-13) contain records spanning the period from 1972 to 2008. These records include correspondence from organization presidents, minutes and reports from the executive and directors boards, reports and memoranda from standing committees, including the politically influential Public Policy committee, and Association publications and convention materials.</p>
+                                 <p>Publications in this series include internal handbooks and officer guides, and bulletins and newsletters from national, state, and local levels. In addition, there are press communications and AAUW commissioned studies, including landmark research studies on education and gender equity.</p>
+                                 <p>The collection also includes a nearly complete coverage of AAUW-IL&#039;s annual conventions and conferences from early 1990s to 2008. It also contains extensive membership rosters from individual branches, contribution reports to the Educational Foundation, and branch activity self-reports from the early 1970s to 2006.</p>
+                                 <p>The 2012 Accession (Lot 15) contains records spanning from 1985 to 2013. Records include branch visit reports, directories and bylaws, as well as marketing and membership tool kits for branches. The 2012 Accession also contains event materials, such as Action Lab resources, the AAUW-IL 75th Anniversary booklet, and the DuPage County branches voter education campaign materials. Also included in the lot are scripts detailing the history and vision of AAUW, such as &quot;On the Road to Equality&quot; and &quot;AAUW: An Historical Perspective.&quot; The 2012 Accession also contains six VHS tapes which focus on women&#039;s history. Videos include <emph render="italic">An American Revolution: Women Take Their Place</emph>, <emph render="italic">The Story of Elizabeth Cady Stanton &amp; Susan B. Anthony: Not for Ourselves Alone, </emph>and <emph render="italic">Lucretia Mott</emph>.</p>
+                                 <p>The 2016 Accession (Lot 16) includes records spanning from 1957 to 2014. Records include administrative, financial, and event-related materials. Administrative materials include board meeting notes, directories and by-laws, and awards from the national organization. Financial materials include reports to the board, budgets, audits, tax documentation, and event-specific financial information. Event-related materials include planning notes, marketing, and fundraising documents. The 2016 Accession also includes records from the Gender Equity Fund, a specialized sub-group of AAUW-IL, which plans outreach and educational activities related to gender equity in Illinois. Records from the Gender Equity Fund include grant applications, meeting notes, event planning materials, workshop materials, and educational resources related to gender equity.</p>
+                                 <p>The collection was donated to the Library in 1983, 1985, 1987-1988, 1990, circa 1992, 1994-1998, 2000, 2007, 2012, and 2016 by members of the AAUW.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

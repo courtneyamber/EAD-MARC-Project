@@ -1,0 +1,136 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:350">350</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the United States Post Office Department. Records</titleproper>
+               <titleproper type="filing">United States Post Office Department Records</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the United States Post Office Department. Records
+                              <date normal="1789/1930" encodinganalog="260$c">1789/1930</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">United States Post Office Department. Records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1789/1930">1789-1930</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">350</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="United States Post Office Department" source="lcnaf" role="Collector">United States Post Office Department</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="cubic feet">1.30</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 microfilm reel</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/u.s.-post-office.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                       <genreform encodinganalog="655" source="local">Government records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Indiana</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Iowa</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Kentucky</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Massachusetts</geogname>
+                                       <geogname encodinganalog="651" source="lcnaf" role="subject">Missouri</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Illinois--Politics and government</subject>
+                                       <subject encodinganalog="650" source="lcsh">Postal service</subject>
+                                       <subject encodinganalog="650" source="lcsh">United States--Politics and government</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection contains copies of records from the United States Post Office Department related to Illinois as well as Indiana, Iowa, Kentucky, Massachusetts, and Missouri.</p>
+                                 <p>Sometime prior to 1958, Wilbur Duncan, of Decatur, Illinois, and founding editor of the <emph render="italic">Illinois Postal Historian</emph>, visited the National Archives located in Washington, D.C., to find information on Illinois post offices. This collection is comprised of his copies and transcripts of records as well as his requested microfilm from the National Archives.</p>
+                                 <p>The collection is arranged by type of material: microfilm, typescripts and transcripts, and index cards.</p>
+                                 <p>The microfilm (1 reel) contains two sets of records: Mail route registers (1814-1859) and Postmaster appointment records (1832-1930). States included in the mail route registers are Illinois, Indiana, Kentucky, Massachusetts, and Missouri. The registers also contain the names and routes of mail deliverers. Also included on the microfilm is a list of postmaster appointments for the states of Illinois and Kentucky. The list is organized by county.</p>
+                                 <p>The collection includes three sets of typescripts and transcripts. The first set is a 494 page typescript of postmaster appointment records (1832-1930) found on the microfilm reel. Also included in the collection are transcripts of correspondence sent to the Postmaster General&#039;s office (1856-1861). The correspondence contains reports and mail service requests from Illinois, Iowa, and Wisconsin. The collection also contains transcripts of correspondence sent from the Postmaster General&#039;s office (1789-1893) to post offices in Illinois and across the Midwest. The letters discuss issues relating to the mail service, such as regulations, personnel, routes, schedules, and other matters.</p>
+                                 <p>Also included in the collection are index cards listing information about post offices in Illinois from 1800-1917. Information on each card includes the location of the post office, date of establishment, first postmaster, date if discontinued, and any change in name.</p>
+                                 <p>Two DVDs created by Chester (&quot;Chet&quot;) M. Smith, Jr. (1936-2013) of Pine Grove Mills, PA were added to the collection. The DVDs contain indices organized by post office number, county, date, and place name which correspond to the content found in Duncan&#039;s 494 page typescript and index cards.</p>
+                                 <p>In 1958, Wilbur Duncan donated this collection to the Illinois Historical Survey, the predecessor of the Illinois History and Lincoln Collections (IHLC). In 2008, Chester (&quot;Chet&quot;) M. Smith, Jr. donated the two DVDs to the IHLC.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

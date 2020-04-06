@@ -1,0 +1,132 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:85">084</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Loudoun Papers. Selected documents</titleproper>
+               <titleproper type="filing">Loudoun Papers. Selected documents</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Loudoun Papers. Selected documents
+                              <date normal="1740/1755" encodinganalog="260$c">1740/1755</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Loudoun Papers. Selected documents                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1740/1755">1740-1755</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">084</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Loudoun, John Campbell, Earl of" source="local" role="Collector">Loudoun, John Campbell, Earl of, 1705-1782</persname>
+                                 <persname encodinganalog="100" normal="Vaudreuil, Pierre de Rigaud, marquis de" source="lcnaf" role="Collector">Vaudreuil, Pierre de Rigaud, marquis de, 1698-1778</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="folders">26.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 item, transcript and microfilm copy</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                              <p>Additional information may be found at http://www.library.illinois.edu/ihx/inventories/loudoun.pdf</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Collected materials</genreform>
+                                       <genreform encodinganalog="655" source="local">Copies</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Randolph County--Kaskaskia (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Colonial administrators</subject>
+                                       <subject encodinganalog="650" source="lcsh">Demographic surveys</subject>
+                                       <subject encodinganalog="650" source="lcsh">France--Colonies--America</subject>
+                                       <subject encodinganalog="650" source="lcsh">Great Britain--Colonies--America</subject>
+                                       <subject encodinganalog="650" source="lcsh">Military</subject>
+                                       <subject encodinganalog="650" source="lcsh">Travel</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection, mainly photostats of the originals in the Huntington Library, contains the papers and correspondence of the Campbells, the Earls of Loudoun, especially of John Campbell, Fourth Earl of Loudoun. It is separated into two divisions: the French Colonial Manuscripts, the Vaudreuil Papers; and the English Colonial Manuscripts.</p>
+                                 <p>The French Colonial Manuscripts contain papers and correspondence of the Marquis de Vaudreuil, governor of Louisiana and New France; letters of Macarty-Mactique, commandant of the Illinois post after 1750; and letters of Francois Saucier, an engineer sent to build a new fort at Kaskaskia. The letters of these men give a detailed picture of affairs in Illinois during Vaudreuil&#039;s stay as governor. In addition, this division includes other letters, orders, census lists, troop dispositions and a general census for Illinois for 1752.ÃÂ  Photostats of these materials form the bulk of the collection.</p>
+                                 <p>The English Colonial Manuscripts contain mainly the papers of Lord Loudoun, while commander in chief in North America. Among these papers is the report of Edmund Atkin to the Board of Trade, May 30, 1755.ÃÂ  This section of the collection consists of a transcript and microfilm of a the aforementioned report.</p>
+                                 <p>Photostats of the Loudoun manuscripts, for which there is a card index, are filed in twenty-six oversize flat folders. As indicated in the attached inventory, a number of these photostats were published in Theodore Calvin Pease and Ernestine Jenison, ed. <emph render="italic">Illinois on the Eve of the Seven Years&#039; War, 1747-1755, </emph>Collections of the Illinois State Historical Library, 29 (Springfield, 1940). See also Bill Barron, <emph render="italic">The Vaudreuil Papers: A Calendar and Index of the Personal and Private Records of Pierre de Rigaud de Vaudreuil, Royal Governor of the French Province of Louisiana, 1743-1753</emph> (New Orleans: Polyanthos, 1975).</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

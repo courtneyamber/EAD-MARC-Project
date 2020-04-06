@@ -1,0 +1,124 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-iuhs" countrycode="US" identifier="ArchonInternalCollectionID:878">953</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Mount Zion Seminary, Papers</titleproper>
+               <titleproper type="filing">Mount Zion Seminary, Papers</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p>&#x00A9; Copyright 2020 Illinois History and Lincoln Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>324 Library</addressline>
+                                 <addressline>1408 W. Gregory Drive</addressline>
+                                 <addressline>Urbana, IL, 61801</addressline>
+                                 <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                 <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                 <addressline>Phone: (217) 333-1777</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2020-03-04">March 4th, 2020</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Mount Zion Seminary, Papers
+                              <date normal="1865/1962" encodinganalog="260$c">1865/1962</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Illinois History and Lincoln Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Mount Zion Seminary, Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1865/1962">1865-1962</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-iuhs" countrycode="US">953</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <corpname encodinganalog="110" normal="Mount Zion Seminary" source="lcnaf" role="Collector">Mount Zion Seminary</corpname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="items">9.00</extent></physdesc>
+            
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Illinois History and Lincoln Collections</corpname>
+                              <address>
+                     <addressline>324 Library</addressline>
+                                    <addressline>1408 W. Gregory Drive</addressline>
+                                       <addressline>Urbana, IL, </addressline>
+                                    <addressline>URL: http://library.illinois.edu/ihx/</addressline>
+                                    <addressline>Email: ihlc@library.illinois.edu</addressline>
+                                    <addressline>Phone: (217) 333-1777</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Organizational records</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="local" role="subject">Macon County--Mt. Zion (Ill.)</geogname>
+                                       <geogname encodinganalog="651" source="local" role="subject">Madison County--Godfrey (Ill.)</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Presbyterian</subject>
+                                       <subject encodinganalog="650" source="lcsh">Rural schools</subject>
+                                       <subject encodinganalog="650" source="lcsh">Schools</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection includes the original copy of the legislative act of Feb. 16, 1865, incorporating the &quot;Mount Zion (Illinois) Male and Female Seminary&quot; on Feb. 16, 1865.  It names Alexander W. Bell, Samuel K. Smith, Robert T. Marlow, John Scott, and John C. Smith as trustees, and specifies that the seminary be &quot;under the control and patronage of the Decatur Presbytery of the Cumberland Presbyterian Church.&quot;  It also includes Bell&#039;s report on Sept. 8, 1866, as treasurer of the seminary, and two photographs of the building.</p>
+                                 <p>In addition, there is a picture of the building on a souvenir button of the Mt. Zion Academy &quot;Students&#039; Reunion&quot; on Aug. 14, 1913, as well as a photograph of those in attendance that day, as published on Aug. 2, 1962, in the <emph render="italic">Mr. Zion Region News.  </emph>According to paper, the academy was built in 1856, and accommodated students until 1871.</p>
+                                 <p>[Histories of Lincoln College, chartered in Lincoln, Illinois, in 1865, indicate that a commission of the Cumberland Church divided over the location of the denomination&#039;s college, three favoring Lincoln (Logan County)  and two favoring Mt. Zion (Macon County).  The division probably led to the demise of the Mt. Zion seminary.]</p>
+                                 <p>The collection also includes three items reflecting student life at Monticello College in Godfrey, Illinois about 1880: &quot;Charcoal Sketches of Frantic Females&quot; (a 14-page manuscript), a printed &quot;April Fool&#039;s Amusement,&quot; and a playbill for <emph render="italic">A Cup of Tea.</emph></p>
+                                 <p>Dorothy Mynard of Urbana, Illinois, donated the collection to the Library in 1980.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+
