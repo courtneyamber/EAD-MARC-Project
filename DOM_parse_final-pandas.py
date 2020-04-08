@@ -30,6 +30,7 @@ def create_path(id):
 list_sys_ids = list(list_of_ids)  #so that it will be a copy and not a reference
 list_titles = []
 list_persnames = []
+list_coll_id = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -55,6 +56,13 @@ for i in list_of_ids:
         else:
             list_persnames.append(['personal name not found'])
 
+        #get the unitid
+        unitid = dom.getElementsByTagName("unitid")
+        if len(unitid)>0:
+            list_coll_id.append(unitid)
+        else:
+            list_coll_id.append(['collection id not found'])
+
     except:
         list_sys_ids.remove(i)
 
@@ -72,6 +80,7 @@ def createPdList(list_to_convert):
 pd_list_ids = createPdList(list_sys_ids)
 pd_list_titles = createPdList(list_titles)
 pd_list_persnames = createPdList(list_persnames)
+pd_list_coll_id = createPdList(list_coll_id)
 
 # print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
@@ -83,7 +92,7 @@ print('Length: '+str(len(pd_list_persnames)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames)), columns=['System ID', 'Title','PersonalName'])
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames, pd_list_coll_id)), columns=['System ID', 'Title','PersonalName', 'Collection ID'])
 print(spreadsheet)
 
 # Export dataframe to a csv file
