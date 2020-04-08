@@ -3,7 +3,10 @@ import xml.dom.minidom
 import os.path
 import pandas as pd
 
-list_of_ids = [['9000']]
+list_of_ids = []
+
+#to test error handing
+list_of_ids.append(['9000'])
 
 #test list
 file_path_to_ids = "short_sample_ids.txt"
@@ -16,8 +19,6 @@ with open(file_path_to_ids, "r") as inputfile:
     for line in inputfile:
         list_of_ids.append(line.strip().split(','))
 
-print(list_of_ids)  #for debugging
-
 # Form the path to the EAD file when given a system id
 def create_path(id):
     base_path = os.path.join("EAD Files","ead_file_")
@@ -26,17 +27,12 @@ def create_path(id):
     return pathdir
 
 # Initialize lists for grabbing data from the EADs
-list_sys_ids = list_of_ids
+list_sys_ids = list(list_of_ids)  #so that it will be a copy and not a reference
 list_titles = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
-    print(i)  #for debugging
     ead_id = i[0]
-    print(ead_id)  #for debugging
-
-    #for debugging
-    #print(create_path(ead_id))
 
     #try to get the dom associated with the EAD and then get metadata elements from the dom
     #if it doesn't exist, then remove that id from the list to maintain the right order
@@ -50,31 +46,28 @@ for i in list_of_ids:
             list_titles.append(unittitle)
         except:
             list_titles.append('title not found')
-        print(list_titles)  #for debugging
 
     except:
-        print('id to remove') #for debugging
-        print(i) #for debugging
         list_sys_ids.remove(i)
-        print(list_of_ids)  #for debugging
 
 #create lists for pandas
 def createPdList(list_to_convert):
     converted_list = []
     for item in list_to_convert:
-        print(item)  #for debugging
         try:
             converted_list.append(item[0].firstChild.data.strip())
         except:
             converted_list.append(item[0].strip())
     return converted_list
 
-pd_list_ids = createPdList(list_of_ids)
+pd_list_ids = createPdList(list_sys_ids)
 pd_list_titles = createPdList(list_titles)
 
 # print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
+print('Length: '+str(len(pd_list_ids)))
 print(pd_list_titles)
+print('Length: '+str(len(pd_list_titles)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
