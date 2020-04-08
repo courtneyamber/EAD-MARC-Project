@@ -3,7 +3,7 @@ import xml.dom.minidom
 import os.path
 import pandas as pd
 
-list_of_ids = ['9000']
+list_of_ids = [['9000']]
 
 #test list
 file_path_to_ids = "short_sample_ids.txt"
@@ -16,6 +16,8 @@ with open(file_path_to_ids, "r") as inputfile:
     for line in inputfile:
         list_of_ids.append(line.strip().split(','))
 
+print(list_of_ids)  #for debugging
+
 # Form the path to the EAD file when given a system id
 def create_path(id):
     base_path = os.path.join("EAD Files","ead_file_")
@@ -24,11 +26,14 @@ def create_path(id):
     return pathdir
 
 # Initialize lists for grabbing data from the EADs
+list_sys_ids = list_of_ids
 list_titles = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
+    print(i)  #for debugging
     ead_id = i[0]
+    print(ead_id)  #for debugging
 
     #for debugging
     #print(create_path(ead_id))
@@ -40,16 +45,24 @@ for i in list_of_ids:
         file = dom.documentElement
 
         #get the unititle
-        unittitle = dom.getElementsByTagName("unittitle")
-        list_titles.append(unittitle)
+        try:
+            unittitle = dom.getElementsByTagName("unittitle")
+            list_titles.append(unittitle)
+        except:
+            list_titles.append('title not found')
+        print(list_titles)  #for debugging
 
     except:
-        list_of_ids.remove(i)
+        print('id to remove') #for debugging
+        print(i) #for debugging
+        list_sys_ids.remove(i)
+        print(list_of_ids)  #for debugging
 
 #create lists for pandas
 def createPdList(list_to_convert):
     converted_list = []
     for item in list_to_convert:
+        print(item)  #for debugging
         try:
             converted_list.append(item[0].firstChild.data.strip())
         except:
