@@ -3,7 +3,7 @@ import xml.dom.minidom
 import os.path
 import pandas as pd
 
-list_of_ids = []
+list_of_ids = ['9000']
 
 #test list
 file_path_to_ids = "short_sample_ids.txt"
@@ -11,43 +11,40 @@ file_path_to_ids = "short_sample_ids.txt"
 #full list (comment out this variable assignment if only testing)
 #file_path_to_ids = "list_of_eads.txt"
 
+# Read the input file of ids and put these into a list
 with open(file_path_to_ids, "r") as inputfile:
     for line in inputfile:
         list_of_ids.append(line.strip().split(','))
 
-#print (list_of_ids)
-
+# Form the path to the EAD file when given a system id
 def create_path(id):
     base_path = os.path.join("EAD Files","ead_file_")
     end_path = ".xml"
     pathdir = base_path + id + end_path
     return pathdir
 
-list_sys_ids = []
+# Initialize lists for grabbing data from the EADs
 list_titles = []
 
+# Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
     ead_id = i[0]
+
+    #for debugging
     #print(create_path(ead_id))
-    dom = xml.dom.minidom.parse(create_path(ead_id))
-    file = dom.documentElement
 
-    #unititle
-    unittitle = dom.getElementsByTagName("unittitle")
-    list_titles.append(unittitle)
+    #try to get the dom associated with the EAD and then get metadata elements from the dom
+    #if it doesn't exist, then remove that id from the list to maintain the right order
+    try:
+        dom = xml.dom.minidom.parse(create_path(ead_id))
+        file = dom.documentElement
 
-# #create the file if it doesn't exist, append if it does
-# try:
-#     file = open(r"ead_titles.txt","x")
-# except:
-#     file = open(r"ead_titles.txt","a")
-#
-# for item in list_titles:
-#     sent = item[0].firstChild.data.strip()
-#     sent+="\n"
-#     #print(sent, sep='')
-#     file.write(sent)
-# file.close()
+        #get the unititle
+        unittitle = dom.getElementsByTagName("unittitle")
+        list_titles.append(unittitle)
+
+    except:
+        list_of_ids.remove(i)
 
 #create lists for pandas
 def createPdList(list_to_convert):
@@ -62,10 +59,12 @@ def createPdList(list_to_convert):
 pd_list_ids = createPdList(list_of_ids)
 pd_list_titles = createPdList(list_titles)
 
+# print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
 print(pd_list_titles)
 print("\n")
 
+# Put the lists for the pandas into a dataframe, also specifying the correct column labels
 spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles)), columns=['System ID', 'Title'])
 print(spreadsheet)
 
