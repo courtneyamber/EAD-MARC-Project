@@ -32,6 +32,7 @@ list_titles = []
 list_persnames = []
 list_coll_id = []
 list_physdesc = []
+list_date = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -73,6 +74,13 @@ for i in list_of_ids:
         else:
             list_physdesc.append(['physical description not found'])
 
+        #get the date
+        date = dom.getElementsByTagName("date")
+        if len(date)>0:
+            list_date.append(date)
+        else:
+            list_date.append(['date not found'])
+
     except:
         list_sys_ids.remove(i)
 
@@ -92,6 +100,7 @@ pd_list_titles = createPdList(list_titles)
 pd_list_persnames = createPdList(list_persnames)
 pd_list_coll_id = createPdList(list_coll_id)
 pd_list_physdesc = createPdList(list_physdesc)
+pd_list_date = createPdList(list_date)
 
 # print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
@@ -103,7 +112,7 @@ print('Length: '+str(len(pd_list_persnames)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=['System ID', 'Title','PersonalName', 'Collection ID', 'Physical Description'])
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames, pd_list_coll_id, pd_list_physdesc, pd_list_date)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Physical Description'])
 print(spreadsheet)
 
 # Export dataframe to a csv file
