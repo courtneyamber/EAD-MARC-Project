@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78f489e-f00f-472f-8ff8-e6f1663077c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM_parse_final-pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/short_sample_ids.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM_parse_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/DOM_parse_final.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <recent name="C:\Users\graykr\Documents\GitHub\EAD-MARC-Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DOM_parse_final">
+  <component name="RunManager" selected="Python.DOM_parse_final-pandas">
     <configuration name="DOM_parse_final-pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EAD-MARC-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DOM_parse_final" />
         <item itemvalue="Python.DOM_parse_final-pandas" />
+        <item itemvalue="Python.DOM_parse_final" />
         <item itemvalue="Python.pandas-example" />
         <item itemvalue="Python.test-code" />
         <item itemvalue="Python.test" />
@@ -179,22 +176,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1308" height="172" key="GridCell.Tab.0.bottom" timestamp="1586212660777">
+    <state width="1308" height="172" key="GridCell.Tab.0.bottom" timestamp="1586212849103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586212660777" />
-    <state width="1308" height="172" key="GridCell.Tab.0.center" timestamp="1586212660776">
+    <state width="1308" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586212849103" />
+    <state width="1308" height="172" key="GridCell.Tab.0.center" timestamp="1586212849102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586212660776" />
-    <state width="1308" height="172" key="GridCell.Tab.0.left" timestamp="1586212660776">
+    <state width="1308" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586212849102" />
+    <state width="1308" height="172" key="GridCell.Tab.0.left" timestamp="1586212849102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586212660776" />
-    <state width="1308" height="172" key="GridCell.Tab.0.right" timestamp="1586212660777">
+    <state width="1308" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586212849102" />
+    <state width="1308" height="172" key="GridCell.Tab.0.right" timestamp="1586212849103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586212660777" />
+    <state width="1308" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586212849103" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1586189477474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
