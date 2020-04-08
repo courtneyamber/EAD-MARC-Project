@@ -29,6 +29,7 @@ def create_path(id):
 # Initialize lists for grabbing data from the EADs
 list_sys_ids = list(list_of_ids)  #so that it will be a copy and not a reference
 list_titles = []
+list_persnames = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -41,11 +42,18 @@ for i in list_of_ids:
         file = dom.documentElement
 
         #get the unititle
-        try:
-            unittitle = dom.getElementsByTagName("unittitle")
+        unittitle = dom.getElementsByTagName("unittitle")
+        if len(unittitle)>0:
             list_titles.append(unittitle)
-        except:
-            list_titles.append('title not found')
+        else:
+            list_titles.append(['title not found'])
+
+        #get the persname
+        persname = dom.getElementsByTagName("persname")
+        if len(persname)>0:
+            list_persnames.append(persname)
+        else:
+            list_persnames.append(['personal name not found'])
 
     except:
         list_sys_ids.remove(i)
@@ -54,6 +62,7 @@ for i in list_of_ids:
 def createPdList(list_to_convert):
     converted_list = []
     for item in list_to_convert:
+        print(item)  #for debugging
         try:
             converted_list.append(item[0].firstChild.data.strip())
         except:
@@ -62,16 +71,19 @@ def createPdList(list_to_convert):
 
 pd_list_ids = createPdList(list_sys_ids)
 pd_list_titles = createPdList(list_titles)
+pd_list_persnames = createPdList(list_persnames)
 
 # print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
 print('Length: '+str(len(pd_list_ids)))
 print(pd_list_titles)
 print('Length: '+str(len(pd_list_titles)))
+print(pd_list_persnames)
+print('Length: '+str(len(pd_list_persnames)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles)), columns=['System ID', 'Title'])
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames)), columns=['System ID', 'Title','PersonalName'])
 print(spreadsheet)
 
 # Export dataframe to a csv file
