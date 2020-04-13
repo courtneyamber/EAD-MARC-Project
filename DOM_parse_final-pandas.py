@@ -67,10 +67,13 @@ for i in list_of_ids:
 
         #get the physical description
         physdesc = dom.getElementsByTagName("extent")
+        extent_type = file.getAttribute("type")
         for extent in physdesc:
+            print (extent.getAttribute("type"))
             if extent.hasAttribute("type"):
                 if len(physdesc)>0:
                     list_physdesc.append(physdesc)
+                    # list_physdesc.append(extent.getAttribute("type"))
             # for extent in physdesc:
             #     list_physdesc.append(extent.getAttribute("type"))
         else:
