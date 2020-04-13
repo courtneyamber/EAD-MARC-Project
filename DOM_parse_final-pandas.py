@@ -70,7 +70,7 @@ for i in list_of_ids:
         for extent in physdesc:
             if extent.hasAttribute("type"):
                 if len(physdesc)>0:
-                    list_physdesc.append(extent.getAttribute("type"))
+                    list_physdesc.append(physdesc)
             # for extent in physdesc:
             #     list_physdesc.append(extent.getAttribute("type"))
         else:
