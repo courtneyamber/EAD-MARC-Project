@@ -114,7 +114,7 @@ print('Length: '+str(len(pd_list_persnames)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Physical Description'])
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent'])
 print(spreadsheet)
 
 # Export dataframe to a csv file
