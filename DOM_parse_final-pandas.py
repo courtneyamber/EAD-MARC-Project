@@ -67,15 +67,17 @@ for i in list_of_ids:
 
         #get the physical description
         physdesc = dom.getElementsByTagName("extent")
-        if len(physdesc)>0:
-            list_physdesc.append(physdesc)
+        for extent in physdesc:
+            if extent.hasAttribute("type"):
+                if len(physdesc)>0:
+                    list_physdesc.append(extent.getAttribute("type"))
             # for extent in physdesc:
-            #     list_physdesc.append(exten.getAttribute("type"))
+            #     list_physdesc.append(extent.getAttribute("type"))
         else:
             list_physdesc.append(['physical description not found'])
 
         #get the date
-        date = dom.getElementsByTagName("date")
+        date = dom.getElementsByTagName("unitdate")
         if len(date)>0:
             list_date.append(date)
         else:
@@ -112,7 +114,7 @@ print('Length: '+str(len(pd_list_persnames)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_persnames, pd_list_coll_id, pd_list_physdesc, pd_list_date)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Physical Description'])
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Physical Description'])
 print(spreadsheet)
 
 # Export dataframe to a csv file
