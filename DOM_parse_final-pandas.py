@@ -86,6 +86,11 @@ for i in list_of_ids:
         else:
             list_date.append(['date not found'])
 
+        #get subject terms
+        # sbjterms = dom.getElementsByTagName("head")
+        # for terms in sbjterms:
+        #     print(terms.getAttribute("subject"))
+
     except:
         list_sys_ids.remove(i)
 
