@@ -112,19 +112,17 @@ pd_list_coll_id = createPdList(list_coll_id)
 pd_list_physdesc = createPdList(list_physdesc)
 pd_list_date = createPdList(list_date)
 
+# add each new list variable to this list of lists for easier debugging
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc,pd_list_date]
+
 # print statements for testing and debugging (comment out when final)
-print(pd_list_ids)
-print('Length: '+str(len(pd_list_ids)))
-print(pd_list_coll_id)
-print('Length: '+str(len(pd_list_coll_id)))
-print(pd_list_titles)
-print('Length: '+str(len(pd_list_titles)))
-print(pd_list_persnames)
-print('Length: '+str(len(pd_list_persnames)))
-print(pd_list_physdesc)
-print('Length: '+str(len(pd_list_physdesc)))
-print(pd_list_date)
-print('Length: '+str(len(pd_list_date)))
+def print_list_info(list_to_print):
+    print(list_to_print)
+    print('Length: '+str(len(list_to_print)))
+
+for pd_list in pd_all_lists:
+    print_list_info(pd_list)
+
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
