@@ -76,8 +76,8 @@ for i in list_of_ids:
                     # list_physdesc.append(extent.getAttribute("type"))
             # for extent in physdesc:
             #     list_physdesc.append(extent.getAttribute("type"))
-        else:
-            list_physdesc.append(['physical description not found'])
+            else:
+                list_physdesc.append(['physical description not found'])
 
         #get the date
         date = dom.getElementsByTagName("unitdate")
