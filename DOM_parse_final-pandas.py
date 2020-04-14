@@ -94,6 +94,16 @@ for i in list_of_ids:
         # for terms in sbjterms:
         #     print(terms.getAttribute("subject"))
 
+        # NOTE ON THE ABOVE COMMENTED-OUT CODE:
+        # I think we actually want to get the element by tag name for:
+        # genreform (where encodinganalog is 655),
+        # geogname (where encodinganalog is 651), and
+        # subject (where encodinganalog is 650)
+        # All these should have their own list and column in the dataframe, too. We will also want to pull out
+        # the source from the tags, and (for now) put these in their own column (like with the extent field).
+        # You might start by just pulling out the first subject, but eventually we will want to figure out how
+        # to get all the subjects (that is, in cases where there are multiple 650 fields, for instance)
+
     except:
         list_sys_ids.remove(i)
 
