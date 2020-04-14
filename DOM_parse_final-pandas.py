@@ -98,7 +98,7 @@ for i in list_of_ids:
 def createPdList(list_to_convert):
     converted_list = []
     for item in list_to_convert:
-        print(item)  #for debugging
+        #print(item)  #for debugging
         try:
             converted_list.append(item[0].firstChild.data.strip())
         except:
@@ -115,14 +115,21 @@ pd_list_date = createPdList(list_date)
 # print statements for testing and debugging (comment out when final)
 print(pd_list_ids)
 print('Length: '+str(len(pd_list_ids)))
+print(pd_list_coll_id)
+print('Length: '+str(len(pd_list_coll_id)))
 print(pd_list_titles)
 print('Length: '+str(len(pd_list_titles)))
 print(pd_list_persnames)
 print('Length: '+str(len(pd_list_persnames)))
+print(pd_list_physdesc)
+print('Length: '+str(len(pd_list_physdesc)))
+print(pd_list_date)
+print('Length: '+str(len(pd_list_date)))
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent'])
+data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
