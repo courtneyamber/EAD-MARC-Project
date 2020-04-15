@@ -34,8 +34,8 @@ list_coll_id = []
 list_physdesc = []
 list_physdesc_unit = []
 list_date = []
-list_subject_terms = []
-list_st_source = []
+list_genre_terms = []
+list_gt_source = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -88,16 +88,19 @@ for i in list_of_ids:
         else:
             list_date.append(['date not found'])
 
-        #get subject terms
-        subject_terms = dom.getElementsByTagName("genreform")
+        #get genre/form
+        genre_terms = dom.getElementsByTagName("genreform")
         source_type = file.getAttribute("source")
-        for terms in subject_terms:
+        for terms in genre_terms:
             if terms.hasAttribute("source"):
-                if len(subject_terms)>0:
-                    list_subject_terms.append(subject_terms)
-                    list_st_source.append([terms.getAttribute("source")])
+                if len(genre_terms)>0:
+                    list_genre_terms.append(genre_terms)
+                    list_gt_source.append([terms.getAttribute("source")])
         else:
-            list_subject_terms.append(['subject not found'])
+            list_genre_terms.append(['subject not found'])
+
+        #get geographic names
+
 
 
 
@@ -132,11 +135,11 @@ pd_list_coll_id = createPdList(list_coll_id)
 pd_list_physdesc = createPdList(list_physdesc)
 pd_list_physdesc_unit = createPdList(list_physdesc_unit)
 pd_list_date = createPdList(list_date)
-pd_list_subject_terms = createPdList(list_subject_terms)
-pd_list_st_source = createPdList(list_st_source)
+pd_list_genre_terms = createPdList(list_genre_terms)
+pd_list_gt_source = createPdList(list_gt_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_subject_terms, pd_list_st_source]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -149,8 +152,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms', 'Subject Source']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_subject_terms, pd_list_st_source)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
