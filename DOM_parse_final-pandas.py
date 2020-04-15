@@ -34,6 +34,8 @@ list_coll_id = []
 list_physdesc = []
 list_physdesc_unit = []
 list_date = []
+list_subject_terms = []
+list_st_source = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -70,14 +72,11 @@ for i in list_of_ids:
         physdesc = dom.getElementsByTagName("extent")
         extent_type = file.getAttribute("type")
         for extent in physdesc:
-            print (extent.getAttribute("type"))
+            # print (extent.getAttribute("type"))
             if extent.hasAttribute("type"):
                 if len(physdesc)>0:
                     list_physdesc.append(physdesc)
                     list_physdesc_unit.append([extent.getAttribute("type")])
-                    # list_physdesc.append(extent.getAttribute("type"))
-            # for extent in physdesc:
-            #     list_physdesc.append(extent.getAttribute("type"))
             else:
                 list_physdesc.append(['physical description not found'])
                 list_physdesc_unit.append(['physical description unit not found'])
@@ -90,9 +89,17 @@ for i in list_of_ids:
             list_date.append(['date not found'])
 
         #get subject terms
-        # sbjterms = dom.getElementsByTagName("head")
-        # for terms in sbjterms:
-        #     print(terms.getAttribute("subject"))
+        subject_terms = dom.getElementsByTagName("genreform")
+        source_type = file.getAttribute("source")
+        for terms in subject_terms:
+            if terms.hasAttribute("source"):
+                if len(subject_terms)>0:
+                    list_subject_terms.append(subject_terms)
+                    list_st_source.append([terms.getAttribute("source")])
+        else:
+            list_subject_terms.append(['subject not found'])
+
+
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
@@ -125,9 +132,11 @@ pd_list_coll_id = createPdList(list_coll_id)
 pd_list_physdesc = createPdList(list_physdesc)
 pd_list_physdesc_unit = createPdList(list_physdesc_unit)
 pd_list_date = createPdList(list_date)
+pd_list_subject_terms = createPdList(list_subject_terms)
+pd_list_st_source = createPdList(list_st_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_subject_terms, pd_list_st_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -140,8 +149,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms', 'Subject Source']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_subject_terms, pd_list_st_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
