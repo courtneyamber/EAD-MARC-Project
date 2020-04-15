@@ -112,6 +112,9 @@ for i in list_of_ids:
             else:
                 list_geogname.append(['subject not found'])
 
+        #get subject/topical terms
+        
+
 
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
