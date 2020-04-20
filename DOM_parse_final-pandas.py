@@ -129,6 +129,7 @@ for i in list_of_ids:
                 print(term.getAttribute("encodinganalog"))
             if len(topterm)>0:
                 list_topterm.append(topterm)
+                print(list_topterm)
                 list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
