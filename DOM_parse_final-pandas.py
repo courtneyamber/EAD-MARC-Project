@@ -1,4 +1,5 @@
 from xml.dom.minidom import parse
+from xml.etree import ElementTree as ET
 import xml.dom.minidom
 import os.path
 import pandas as pd
@@ -118,11 +119,12 @@ for i in list_of_ids:
         #get subject/topical terms
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
-        for term in topterm:
-            if term.hasAttribute("encodinganalog"):
-                if len(topterm)>0:
-                    list_topterm.append(topterm)
-                    list_topterm_source.append([term.getAttribute("source")])
+        for term in topterm[1:]:
+            # if term.hasAttribute("encodinganalog"):
+            #     print(term.getElementsByTagName("subject"))
+            if len(topterm)>0:
+                list_topterm.append(topterm)
+                list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
                 list_topterm_source.append(['subject source not found'])
