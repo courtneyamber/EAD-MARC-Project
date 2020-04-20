@@ -42,6 +42,11 @@ list_gn_source = []
 list_topterm = []
 list_topterm_source = []
 
+def encoding(attribute):
+    if subject.hasAttribute("encodinganalog") == "650" or "651" or "655":
+        return subject.append(attribute)
+        print(subject.getAttribute("encodinganalog"))
+
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
     ead_id = i[0]
@@ -120,8 +125,8 @@ for i in list_of_ids:
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
         for term in topterm[1:]:
-            # if term.hasAttribute("encodinganalog"):
-            #     print(term.getElementsByTagName("subject"))
+            if term.hasAttribute("encodinganalog"):
+                print(term.getAttribute("encodinganalog"))
             if len(topterm)>0:
                 list_topterm.append(topterm)
                 list_topterm_source.append([term.getAttribute("source")])
