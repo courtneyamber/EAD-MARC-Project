@@ -38,6 +38,8 @@ list_genre_terms = []
 list_gt_source = []
 list_geogname = []
 list_gn_source = []
+list_topterm = []
+list_topterm_source = []
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -111,11 +113,19 @@ for i in list_of_ids:
                     list_gn_source.append([geo.getAttribute("source")])
             else:
                 list_geogname.append(['subject not found'])
+                list_gn_source.append(['subject source not found'])
 
         #get subject/topical terms
-        
-
-
+        topterm = dom.getElementsByTagName("subject")
+        topterm_source = file.getAttribute("source")
+        for term in topterm:
+            if term.hasAttribute("encodinganalog"):
+                if len(topterm)>0:
+                    list_topterm.append(topterm)
+                    list_topterm_source.append([term.getAttribute("source")])
+            else:
+                list_topterm.append(['subject not found'])
+                list_topterm_source.append(['subject source not found'])
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
@@ -152,9 +162,11 @@ pd_list_genre_terms = createPdList(list_genre_terms)
 pd_list_gt_source = createPdList(list_gt_source)
 pd_list_geognames = createPdList(list_geogname)
 pd_list_gn_source = createPdList(list_gn_source)
+pd_list_topterm = createPdList(list_topterm)
+pd_list_tt_source = createPdList(list_topterm_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -167,8 +179,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
