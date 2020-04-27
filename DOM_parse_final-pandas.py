@@ -131,6 +131,7 @@ for i in list_of_ids:
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
         # print(get_text(topterm))
+        term = []
         for term in topterm:
             topterm = term.firstChild.data
             print(term.firstChild.data) #this prints all of the elements under subject
