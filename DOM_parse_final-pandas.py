@@ -128,13 +128,14 @@ for i in list_of_ids:
         #get subject/topical terms
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
-        print(get_text(topterm))
+        # print(get_text(topterm))
         for term in topterm:
-            if term.hasAttribute("encodinganalog"):
-                if len(topterm)>0:
-                    list_topterm.append(topterm)
-                    print(list_topterm)
-                    list_topterm_source.append([term.getAttribute("source")])
+            print(term.firstChild.data)
+            # if term.hasAttribute("encodinganalog"):
+            if len(topterm)>0:
+                list_topterm.append(term.firstChild.data)
+                    # print(list_topterm)
+                list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
                 list_topterm_source.append(['subject source not found'])
