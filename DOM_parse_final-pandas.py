@@ -130,10 +130,12 @@ for i in list_of_ids:
         topterm_source = file.getAttribute("source")
         # print(get_text(topterm))
         for term in topterm:
-            print(term.firstChild.data)
+            topterm = term.firstChild.data
+            print(term.firstChild.data) #this prints all of the elements under subject
             # if term.hasAttribute("encodinganalog"):
             if len(topterm)>0:
-                list_topterm.append(term.firstChild.data)
+                # list_topterm.append(term.firstChild.data)
+                list_topterm.append([topterm])
                     # print(list_topterm)
                 list_topterm_source.append([term.getAttribute("source")])
             else:
