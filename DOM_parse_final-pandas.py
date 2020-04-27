@@ -131,12 +131,11 @@ for i in list_of_ids:
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
         # print(get_text(topterm))
-        term = []
         for term in topterm:
-            topterm = term.firstChild.data
-            print(term.firstChild.data) #this prints all of the elements under subject
+            topterm_list = term.firstChild.data
+            print(topterm_list) #this prints all of the elements under subject
             if len(topterm)>0:
-                list_topterm.append([topterm])
+                list_topterm.append([topterm_list])
                 list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
