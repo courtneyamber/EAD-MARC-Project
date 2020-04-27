@@ -106,9 +106,11 @@ for i in list_of_ids:
         genre_terms = dom.getElementsByTagName("genreform")
         source_type = file.getAttribute("source")
         for terms in genre_terms:
+            genre_terms = terms.firstChild.data
+            print(genre_terms)
             if terms.hasAttribute("source"):
                 if len(genre_terms)>0:
-                    list_genre_terms.append(genre_terms)
+                    list_genre_terms.append([genre_terms])
                     list_gt_source.append([terms.getAttribute("source")])
         else:
             list_genre_terms.append(['subject not found'])
@@ -132,11 +134,8 @@ for i in list_of_ids:
         for term in topterm:
             topterm = term.firstChild.data
             print(term.firstChild.data) #this prints all of the elements under subject
-            # if term.hasAttribute("encodinganalog"):
             if len(topterm)>0:
-                # list_topterm.append(term.firstChild.data)
                 list_topterm.append([topterm])
-                    # print(list_topterm)
                 list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
