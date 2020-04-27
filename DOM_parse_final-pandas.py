@@ -47,6 +47,10 @@ def encoding(attribute):
         return subject.append(attribute)
         print(subject.getAttribute("encodinganalog"))
 
+def get_text(element):
+    return " ".join(t.nodeValue for t in element[0].childNodes if t.nodeType == t.TEXT_NODE)
+
+
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
     ead_id = i[0]
@@ -124,13 +128,13 @@ for i in list_of_ids:
         #get subject/topical terms
         topterm = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
-        for term in topterm[1:]:
+        print(get_text(topterm))
+        for term in topterm:
             if term.hasAttribute("encodinganalog"):
-                print(term.getAttribute("encodinganalog"))
-            if len(topterm)>0:
-                list_topterm.append(topterm)
-                print(list_topterm)
-                list_topterm_source.append([term.getAttribute("source")])
+                if len(topterm)>0:
+                    list_topterm.append(topterm)
+                    print(list_topterm)
+                    list_topterm_source.append([term.getAttribute("source")])
             else:
                 list_topterm.append(['subject not found'])
                 list_topterm_source.append(['subject source not found'])
