@@ -101,18 +101,15 @@ for i in list_of_ids:
         #get genre/form
         genre_elements = dom.getElementsByTagName("genreform")
         genre_source = file.getAttribute("source")
-        genre_field = file.getAttribute("encodinganalog")
 
         genre_text_list = []
         genre_source_list = []
 
         for genre_element in genre_elements:
+
+        # if genre_element.getAttribute("encodinganalog") == 655:
             genre_text_list.append(genre_element.firstChild.data)
             genre_source_list.append(genre_element.getAttribute("source"))
-
-        if genre_element.hasAttribute("encodinganalog"):
-
-
 
         if len(genre_text_list) > 0:
             list_genre_terms.append([', '.join(genre_text_list)])
