@@ -1,5 +1,4 @@
 from xml.dom.minidom import parse
-from xml.etree import ElementTree as ET
 import xml.dom.minidom
 import os.path
 import pandas as pd
@@ -128,18 +127,24 @@ for i in list_of_ids:
                 list_gn_source.append(['subject source not found'])
 
         #get subject/topical terms
-        topterm = dom.getElementsByTagName("subject")
+        topterm_elements = dom.getElementsByTagName("subject")
         topterm_source = file.getAttribute("source")
-        # print(get_text(topterm))
-        for term in topterm:
-            topterm_list = term.firstChild.data
-            print(topterm_list) #this prints all of the elements under subject
-            if len(topterm)>0:
-                list_topterm.append([topterm_list])
-                list_topterm_source.append([term.getAttribute("source")])
-            else:
-                list_topterm.append(['subject not found'])
-                list_topterm_source.append(['subject source not found'])
+
+        # collect all top terms (and their sources) into a list
+        # later, join() is used to transform the list into a single piece of text
+        topterm_text_list = []
+        topterm_source_list = []
+        for topterm_element in topterm_elements:
+            topterm_text_list.append(topterm_element.firstChild.data)
+            topterm_source_list.append(topterm_element.getAttribute("source"))
+
+        if len(topterm_text_list) > 0:
+            list_topterm.append([', '.join(topterm_text_list)])
+            # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
+            list_topterm_source.append([', '.join(topterm_source_list)])
+        else:
+            list_topterm.append(['subject not found'])
+            list_topterm_source.append(['subject source not found'])
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
