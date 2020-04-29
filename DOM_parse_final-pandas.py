@@ -103,17 +103,21 @@ for i in list_of_ids:
             list_date.append(['date not found'])
 
         #get genre/form
-        genre_terms = dom.getElementsByTagName("genreform")
-        source_type = file.getAttribute("source")
-        for terms in genre_terms:
-            genre_terms = terms.firstChild.data
-            print(genre_terms)
-            if terms.hasAttribute("source"):
-                if len(genre_terms)>0:
-                    list_genre_terms.append([genre_terms])
-                    list_gt_source.append([terms.getAttribute("source")])
+        genre_elements = dom.getElementsByTagName("genreform")
+        genre_source = file.getAttribute("source")
+
+        genreterms_text_list = []
+        genre_source_list = []
+        for terms in genre_elements:
+            list_genre_terms.append(genre_elements.firstChild.data)
+            genre_source_list.append(genre_elements.getAttribute("source"))
+
+            if len(genreterms_text_list) > 0:
+                list_genre_terms.append([', '.join(genreterms_text_list)])
+                list_gn_source.append([', '.join(genre_source_list)])
         else:
             list_genre_terms.append(['subject not found'])
+            list_gn_source.append(['source not found'])
 
         #get geographic names
         geoname = dom.getElementsByTagName("geogname")
