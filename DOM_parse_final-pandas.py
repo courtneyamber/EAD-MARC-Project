@@ -41,13 +41,9 @@ list_gn_source = []
 list_topterm = []
 list_topterm_source = []
 
-def encoding(attribute):
-    if subject.hasAttribute("encodinganalog") == "650" or "651" or "655":
-        return subject.append(attribute)
-        print(subject.getAttribute("encodinganalog"))
 
-def get_text(element):
-    return " ".join(t.nodeValue for t in element[0].childNodes if t.nodeType == t.TEXT_NODE)
+# def get_text(element):
+#     return " ".join(t.nodeValue for t in element[0].childNodes if t.nodeType == t.TEXT_NODE)
 
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
@@ -105,31 +101,47 @@ for i in list_of_ids:
         #get genre/form
         genre_elements = dom.getElementsByTagName("genreform")
         genre_source = file.getAttribute("source")
+        genre_field = file.getAttribute("encodinganalog")
 
-        genreterms_text_list = []
+        genre_text_list = []
         genre_source_list = []
-        for terms in genre_elements:
-            list_genre_terms.append(genre_elements.firstChild.data)
-            genre_source_list.append(genre_elements.getAttribute("source"))
 
-            if len(genreterms_text_list) > 0:
-                list_genre_terms.append([', '.join(genreterms_text_list)])
-                list_gn_source.append([', '.join(genre_source_list)])
+        for genre_element in genre_elements:
+            genre_text_list.append(genre_element.firstChild.data)
+            genre_source_list.append(genre_element.getAttribute("source"))
+
+        if genre_element.hasAttribute("encodinganalog"):
+
+
+
+        if len(genre_text_list) > 0:
+            list_genre_terms.append([', '.join(genre_text_list)])
+            # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
+            list_gt_source.append([', '.join(genre_source_list)])
         else:
             list_genre_terms.append(['subject not found'])
-            list_gn_source.append(['source not found'])
+            list_gt_source.append(['subject source not found'])
 
         #get geographic names
-        geoname = dom.getElementsByTagName("geogname")
-        geo_source = file.getAttribute("source")
-        for geo in geoname:
-            if geo.hasAttribute("source"):
-                if len(geoname)>0:
-                    list_geogname.append(geoname)
-                    list_gn_source.append([geo.getAttribute("source")])
-            else:
-                list_geogname.append(['subject not found'])
-                list_gn_source.append(['subject source not found'])
+        geogname_elements = dom.getElementsByTagName("geogname")
+        geog_source = file.getAttribute("source")
+
+        geog_text_list = []
+        geog_source_list = []
+
+        for geog_element in geogname_elements:
+            geog_text_list.append(geog_element.firstChild.data)
+            geog_source_list.append(geog_element.getAttribute("source"))
+
+        # if geogname_field == "651"
+
+        if len(geog_text_list) > 0:
+            list_geogname.append([', '.join(geog_text_list)])
+            # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
+            list_gn_source.append([', '.join(geog_source_list)])
+        else:
+            list_geogname.append(['subject not found'])
+            list_gn_source.append(['subject source not found'])
 
         #get subject/topical terms
         topterm_elements = dom.getElementsByTagName("subject")
