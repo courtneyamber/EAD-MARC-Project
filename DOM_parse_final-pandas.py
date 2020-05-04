@@ -79,14 +79,14 @@ for i in list_of_ids:
             persname_text_list.append(persname_element.firstChild.data)
             persname_source_list.append(persname_element.getAttribute("source"))
 
-            if persname_element.getAttribute('encodinganalog') == '600':
+            # if persname_element.getAttribute('encodinganalog') == '600':
 
-                if len(persname_text_list) > 0:
-                    list_persnames.append([', '.join(persname_text_list)])
-                    list_persnames_source.append([', '.join(persname_source_list)])
-            else:
-                list_persnames.append(['subject not found'])
-                list_persnames_source.append(['subject source not found'])
+        if len(persname_text_list) > 0:
+            list_persnames.append([', '.join(persname_text_list)])
+            list_persnames_source.append([', '.join(persname_source_list)])
+        else:
+            list_persnames.append(['subject not found'])
+            list_persnames_source.append(['subject source not found'])
 
         #get the unitid
         unitid = dom.getElementsByTagName("unitid")
@@ -127,14 +127,15 @@ for i in list_of_ids:
             genre_text_list.append(genre_element.firstChild.data)
             genre_source_list.append(genre_element.getAttribute("source"))
 
-            if genre_element.getAttribute('encodinganalog') == '655':
+            # if genre_element.getAttribute('encodinganalog') == '655':
 
-                if len(genre_text_list) > 0:
-                    list_genre_terms.append([', '.join(genre_text_list)])
-                    list_gt_source.append([', '.join(genre_source_list)])
-            else:
-                list_genre_terms.append(['subject not found'])
-                list_gt_source.append(['subject source not found'])
+        if len(genre_text_list) > 0:
+            list_genre_terms.append([', '.join(genre_text_list)])
+            list_gt_source.append([', '.join(genre_source_list)])
+
+        else:
+            list_genre_terms.append(['subject not found'])
+            list_gt_source.append(['subject source not found'])
 
         #get geographic names
         geogname_elements = dom.getElementsByTagName("geogname")
@@ -147,14 +148,14 @@ for i in list_of_ids:
             geog_text_list.append(geog_element.firstChild.data)
             geog_source_list.append(geog_element.getAttribute("source"))
 
-            if geog_element.getAttribute('encodinganalog') == '651':
+            # if geog_element.getAttribute('encodinganalog') == '651':
 
-                if len(geog_text_list) > 0:
-                    list_geogname.append([', '.join(geog_text_list)])
-                    list_gn_source.append([', '.join(geog_source_list)])
-            else:
-                list_geogname.append(['subject not found'])
-                list_gn_source.append(['subject source not found'])
+        if len(geog_text_list) > 0:
+            list_geogname.append([', '.join(geog_text_list)])
+            list_gn_source.append([', '.join(geog_source_list)])
+        else:
+            list_geogname.append(['subject not found'])
+            list_gn_source.append(['subject source not found'])
 
         #get subject/topical terms
         topterm_elements = dom.getElementsByTagName("subject")
@@ -168,15 +169,15 @@ for i in list_of_ids:
             topterm_text_list.append(topterm_element.firstChild.data)
             topterm_source_list.append(topterm_element.getAttribute("source"))
 
-            if topterm_element.getAttribute('encodinganalog') == '650':
+            # if topterm_element.getAttribute('encodinganalog') == '650':
 
-                if len(topterm_text_list) > 0:
-                    list_topterm.append([', '.join(topterm_text_list)])
-                    # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
-                    list_topterm_source.append([', '.join(topterm_source_list)])
-            else:
-                list_topterm.append(['subject not found'])
-                list_topterm_source.append(['subject source not found'])
+        if len(topterm_text_list) > 0:
+            list_topterm.append([', '.join(topterm_text_list)])
+            # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
+            list_topterm_source.append([', '.join(topterm_source_list)])
+        else:
+            list_topterm.append(['subject not found'])
+            list_topterm_source.append(['subject source not found'])
 
         # get the corpname (610)
         corpname_elements = dom.getElementsByTagName('corpname')
@@ -189,14 +190,14 @@ for i in list_of_ids:
             corpname_text_list.append(corpname_element.firstChild.data)
             corpname_source_list.append(corpname_element.getAttribute('source'))
 
-            if corpname_element.getAttribute('encodinganalog') == '610':
-                if len(corpname_text_list) > 0:
-                    list_corpname.append([', '.join(corpname_text_list)])
-                    list_corpname_source.append([', '.join(corpname_source_list)])
+            # if corpname_element.getAttribute('encodinganalog') == '610':
+        if len(corpname_text_list) > 0:
+            list_corpname.append([', '.join(corpname_text_list)])
+            list_corpname_source.append([', '.join(corpname_source_list)])
 
-            else:
-                list_corpname.append(['corpname not found'])
-                list_corpname_source.append(['corpname source not found'])
+        else:
+            list_corpname.append(['corpname not found'])
+            list_corpname_source.append(['corpname source not found'])
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
@@ -235,9 +236,11 @@ pd_list_geognames = createPdList(list_geogname)
 pd_list_gn_source = createPdList(list_gn_source)
 pd_list_topterm = createPdList(list_topterm)
 pd_list_tt_source = createPdList(list_topterm_source)
+pd_list_corpname = createPdList(list_corpname)
+pd_list_corpname_source = createPdList(list_corpname_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -250,8 +253,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term', 'Subject Terms-Corp. Name', 'Subject Terms-Corp. Name Source']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
