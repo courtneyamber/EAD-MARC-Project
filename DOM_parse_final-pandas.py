@@ -41,6 +41,8 @@ list_geogname = []
 list_gn_source = []
 list_topterm = []
 list_topterm_source = []
+list_corpname = []
+list_corpname_source = []
 
 
 # def get_text(element):
@@ -129,7 +131,6 @@ for i in list_of_ids:
 
                 if len(genre_text_list) > 0:
                     list_genre_terms.append([', '.join(genre_text_list)])
-                    # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
                     list_gt_source.append([', '.join(genre_source_list)])
             else:
                 list_genre_terms.append(['subject not found'])
@@ -138,8 +139,6 @@ for i in list_of_ids:
         #get geographic names
         geogname_elements = dom.getElementsByTagName("geogname")
         geog_source = file.getAttribute("source")
-        geog_encoding = file.getAttribute("encodinganalog")
-
 
         geog_text_list = []
         geog_source_list = []
@@ -152,7 +151,6 @@ for i in list_of_ids:
 
                 if len(geog_text_list) > 0:
                     list_geogname.append([', '.join(geog_text_list)])
-                    # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
                     list_gn_source.append([', '.join(geog_source_list)])
             else:
                 list_geogname.append(['subject not found'])
@@ -179,6 +177,22 @@ for i in list_of_ids:
             else:
                 list_topterm.append(['subject not found'])
                 list_topterm_source.append(['subject source not found'])
+
+        # get the corpname (610)
+        corpname_elements = dom.getElementsByTagName('corpname')
+        corpname_source = file.getAttribute('source')
+
+        corpname_text_list = []
+        corpname_source_list = []
+
+        for corpname_element in corpname_elements:
+            corpname_text_list.append(corpname_element.firstChild.data)
+            corpname_source_list.append(corpname_element.getAttribute('source'))
+
+            if corpname_element.getAttribute('encodinganalog') == '610':
+                if len(corpname_text_list) > 0:
+                    list_corpname.append([', '.join(corpname_text_list)])
+                    list_corpname_source.append([', '.join(corpname_source_list)])
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
