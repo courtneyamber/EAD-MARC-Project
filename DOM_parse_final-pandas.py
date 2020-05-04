@@ -194,6 +194,10 @@ for i in list_of_ids:
                     list_corpname.append([', '.join(corpname_text_list)])
                     list_corpname_source.append([', '.join(corpname_source_list)])
 
+            else:
+                list_corpname.append(['corpname not found'])
+                list_corpname_source.append(['corpname source not found'])
+
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
         # genreform (where encodinganalog is 655),
