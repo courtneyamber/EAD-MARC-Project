@@ -144,10 +144,9 @@ for i in list_of_ids:
         genre_source_list = []
 
         for genre_element in genre_elements:
-            genre_text_list.append(genre_element.firstChild.data)
-            genre_source_list.append(genre_element.getAttribute("source"))
-
-            # if genre_element.getAttribute('encodinganalog') == '655':
+            if genre_element.getAttribute('encodinganalog') == '655':
+                genre_text_list.append(genre_element.firstChild.data)
+                genre_source_list.append(genre_element.getAttribute("source"))
 
         if len(genre_text_list) > 0:
             list_genre_terms.append([', '.join(genre_text_list)])
@@ -165,14 +164,15 @@ for i in list_of_ids:
         geog_source_list = []
 
         for geog_element in geogname_elements:
-            geog_text_list.append(geog_element.firstChild.data)
-            geog_source_list.append(geog_element.getAttribute("source"))
+            if geog_element.getAttribute('encodinganalog') == '651':
+                geog_text_list.append(geog_element.firstChild.data)
+                geog_source_list.append(geog_element.getAttribute("source"))
 
-            # if geog_element.getAttribute('encodinganalog') == '651':
+
 
         if len(geog_text_list) > 0:
-            list_geogname.append([', '.join(geog_text_list)])
-            list_gn_source.append([', '.join(geog_source_list)])
+            list_geogname.append(['||'.join(geog_text_list)])
+            list_gn_source.append(['||'.join(geog_source_list)])
         else:
             list_geogname.append(['subject not found'])
             list_gn_source.append(['subject source not found'])
@@ -186,15 +186,16 @@ for i in list_of_ids:
         topterm_text_list = []
         topterm_source_list = []
         for topterm_element in topterm_elements:
-            topterm_text_list.append(topterm_element.firstChild.data)
-            topterm_source_list.append(topterm_element.getAttribute("source"))
+            if topterm_element.getAttribute('encodinganalog') == '650':
+                topterm_text_list.append(topterm_element.firstChild.data)
+                topterm_source_list.append(topterm_element.getAttribute("source"))
 
-            # if topterm_element.getAttribute('encodinganalog') == '650':
+
 
         if len(topterm_text_list) > 0:
-            list_topterm.append([', '.join(topterm_text_list)])
+            list_topterm.append(['||'.join(topterm_text_list)])
             # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
-            list_topterm_source.append([', '.join(topterm_source_list)])
+            list_topterm_source.append(['||'.join(topterm_source_list)])
         else:
             list_topterm.append(['subject not found'])
             list_topterm_source.append(['subject source not found'])
