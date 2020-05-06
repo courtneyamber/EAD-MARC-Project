@@ -45,7 +45,8 @@ list_topterm = []
 list_topterm_source = []
 list_corpname = []
 list_corpname_source = []
-
+list_creatorcorpname = []
+list_creatorcorname_source = []
 
 # def get_text(element):
 #     return " ".join(t.nodeValue for t in element[0].childNodes if t.nodeType == t.TEXT_NODE)
@@ -204,21 +205,35 @@ for i in list_of_ids:
         corpname_elements = dom.getElementsByTagName('corpname')
         corpname_source = file.getAttribute('source')
 
+        creatorcorpname_text_list = []
+        creatorcorpname_source_list = []
         corpname_text_list = []
         corpname_source_list = []
 
         for corpname_element in corpname_elements:
-            corpname_text_list.append(corpname_element.firstChild.data)
-            corpname_source_list.append(corpname_element.getAttribute('source'))
+            if corpname_element.getAttribute('encodinganalog') == '610':
+                corpname_text_list.append(corpname_element.firstChild.data)
+                corpname_source_list.append(corpname_element.getAttribute('source'))
+            if corpname_element.getAttribute('encodinganalog') == '110':
+                creatorcorpname_text_list.append(corpname_element.firstChild.data)
+                creatorcorpname_source_list.append(corpname_element.getAttribute('source'))
 
-            # if corpname_element.getAttribute('encodinganalog') == '610':
+        #for 610 fields
         if len(corpname_text_list) > 0:
-            list_corpname.append([', '.join(corpname_text_list)])
-            list_corpname_source.append([', '.join(corpname_source_list)])
+            list_corpname.append(['||'.join(corpname_text_list)])
+            list_corpname_source.append(['||'.join(corpname_source_list)])
+
+        # for 110 fields
+        if len(creatorcorpname_text_list) > 0:
+            list_creatorcorpname.append(['||'.join(creatorcorpname_text_list)])
+            list_creatorcorname_source.append(['||'.join(creatorcorpname_source_list)])
 
         else:
             list_corpname.append(['corpname not found'])
             list_corpname_source.append(['corpname source not found'])
+
+
+
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
         # I think we actually want to get the element by tag name for:
