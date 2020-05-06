@@ -29,6 +29,8 @@ def create_path(id):
 # Initialize lists for grabbing data from the EADs
 list_sys_ids = list(list_of_ids)  #so that it will be a copy and not a reference
 list_titles = []
+list_creatorpersnames =[]
+list_creatorpersnames_source =[]
 list_persnames = []
 list_persnames_source = []
 list_coll_id = []
@@ -68,22 +70,40 @@ for i in list_of_ids:
 
         #get the persname
         persname_elements = dom.getElementsByTagName("persname")
-        persname_source = file.getAttribute("source")
+        persname_source = file.getAttribute("source") #is this actually pulling the source for the persname element? it looks like it would pull the source for the entire file
 
         # collect all top terms (and their sources) into a list
         # later, join() is used to transform the list into a single piece of text
+        creatorpersname_text_list = []
+        creatorpersname_source_list = []
         persname_text_list = []
         persname_source_list = []
 
         for persname_element in persname_elements:
-            persname_text_list.append(persname_element.firstChild.data)
-            persname_source_list.append(persname_element.getAttribute("source"))
+            if persname_element.getAttribute('encodinganalog') == '100':
+                creatorpersname_text_list.append(persname_element.firstChild.data)
+                creatorpersname_source_list.append(persname_element.getAttribute("source"))
+            elif persname_element.getAttribute('encodinganalog') == '600':
+                persname_text_list.append(persname_element.firstChild.data)
+                persname_source_list.append(persname_element.getAttribute("source"))
+            else:
+                print("no personal name found for "+ead_id)
+
 
             # if persname_element.getAttribute('encodinganalog') == '600':
 
+        #for 100 fields
+        if len(creatorpersname_text_list) > 0:
+            list_creatorpersnames.append(['||'.join(creatorpersname_text_list)]) #I am changing this to something to make it easier to read multiple names and less risky to use in a CSV file
+            list_creatorpersnames_source.append(['||'.join(creatorpersname_source_list)])
+        else:
+            list_creatorpersnames.append(['subject not found'])
+            list_creatorpersnames_source.append(['subject source not found'])
+
+        #for 600 fields
         if len(persname_text_list) > 0:
-            list_persnames.append([', '.join(persname_text_list)])
-            list_persnames_source.append([', '.join(persname_source_list)])
+            list_persnames.append(['||'.join(persname_text_list)]) #I am changing this to something to make it easier to read multiple names and less risky to use in a CSV file
+            list_persnames_source.append(['||'.join(persname_source_list)])
         else:
             list_persnames.append(['subject not found'])
             list_persnames_source.append(['subject source not found'])
@@ -225,7 +245,10 @@ def createPdList(list_to_convert):
 
 pd_list_ids = createPdList(list_sys_ids)
 pd_list_titles = createPdList(list_titles)
+pd_list_creatorpersnames = createPdList(list_creatorpersnames)
+pd_list_creatorpersnames_source = createPdList(list_creatorpersnames_source)
 pd_list_persnames = createPdList(list_persnames)
+pd_list_persnames_source = createPdList(list_persnames_source)
 pd_list_coll_id = createPdList(list_coll_id)
 pd_list_physdesc = createPdList(list_physdesc)
 pd_list_physdesc_unit = createPdList(list_physdesc_unit)
@@ -240,7 +263,7 @@ pd_list_corpname = createPdList(list_corpname)
 pd_list_corpname_source = createPdList(list_corpname_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_persnames,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_creatorpersnames, pd_list_creatorpersnames_source, pd_list_persnames, pd_list_persnames_source,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -253,8 +276,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term', 'Subject Terms-Corp. Name', 'Subject Terms-Corp. Name Source']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_persnames, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName for Creator', 'PersonalName for creator source', 'PersonalName','PersonalName source', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term', 'Subject Terms-Corp. Name', 'Subject Terms-Corp. Name Source']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_creatorpersnames, pd_list_creatorpersnames_source,pd_list_persnames, pd_list_persnames_source, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
