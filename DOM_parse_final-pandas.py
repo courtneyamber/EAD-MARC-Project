@@ -87,7 +87,7 @@ for i in list_of_ids:
                 persname_text_list.append(persname_element.firstChild.data)
                 persname_source_list.append(persname_element.getAttribute("source"))
             else:
-                print("no personal name found for "+ead_id)
+                print("no personal name found for EAD "+ead_id)
 
 
             # if persname_element.getAttribute('encodinganalog') == '600':
@@ -97,8 +97,8 @@ for i in list_of_ids:
             list_creatorpersnames.append(['||'.join(creatorpersname_text_list)]) #I am changing this to something to make it easier to read multiple names and less risky to use in a CSV file
             list_creatorpersnames_source.append(['||'.join(creatorpersname_source_list)])
         else:
-            list_creatorpersnames.append(['subject not found'])
-            list_creatorpersnames_source.append(['subject source not found'])
+            list_creatorpersnames.append(["no personal name found for EAD "+ead_id])
+            list_creatorpersnames_source.append(["no personal name found for EAD "+ead_id])
 
         #for 600 fields
         if len(persname_text_list) > 0:
