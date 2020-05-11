@@ -61,8 +61,15 @@ for i in list_of_ids:
 
         #get the unititle
         unittitle = dom.getElementsByTagName("unittitle")
-        if len(unittitle)>0:
-            list_titles.append(unittitle)
+
+        unittitle_text_list = []
+
+        for title in unittitle:
+            if title.getAttribute('encodinganalog') == '245':
+                unittitle_text_list.append(title.firstChild.data)
+
+        if len(unittitle_text_list)>0:
+            list_titles.append(['||'.join(unittitle_text_list)])
         else:
             list_titles.append(['title not found'])
 
@@ -108,8 +115,15 @@ for i in list_of_ids:
 
         #get the unitid
         unitid = dom.getElementsByTagName("unitid")
-        if len(unitid)>0:
-            list_coll_id.append(unitid)
+
+        unitid_text_list = []
+
+        for id_number in unitid:
+            if id_number.getAttribute('encodinganalog') == '035':
+                unitid_text_list.append(id_number.firstChild.data)
+
+        if len(unitid_text_list)>0:
+            list_coll_id.append(['||'.join(unitid_text_list)])
         else:
             list_coll_id.append(['collection id not found'])
 
@@ -117,15 +131,20 @@ for i in list_of_ids:
         physdesc = dom.getElementsByTagName("extent")
         extent_type = file.getAttribute("type")
 
+        physdesc_text_list = []
+        extent_type_list = []
+
         for extent in physdesc:
-            # print (extent.getAttribute("type"))
-            if extent.hasAttribute("type"):
-                if len(physdesc)>0:
-                    list_physdesc.append(physdesc)
-                    list_physdesc_unit.append([extent.getAttribute("type")])
-            else:
-                list_physdesc.append(['physical description not found'])
-                list_physdesc_unit.append(['physical description unit not found'])
+            if extent.getAttribute('encodinganalog') == '300':
+                physdesc_text_list.append(extent.firstChild.data)
+                extent_type_list.append(extent.getAttribute('type'))
+
+        if len(physdesc_text_list)>0:
+            list_physdesc.append(['||'.join(physdesc_text_list)])
+            list_physdesc_unit.append(['||'.join(extent_type_list)])
+        else:
+            list_physdesc.append(['physical description not found'])
+            list_physdesc_unit.append(['physical description unit not found'])
 
         #get the date
         date = dom.getElementsByTagName("unitdate")
@@ -207,7 +226,7 @@ for i in list_of_ids:
             if corpname_element.getAttribute('encodinganalog') == '610':
                 corpname_text_list.append(corpname_element.firstChild.data)
                 corpname_source_list.append(corpname_element.getAttribute('source'))
-            if corpname_element.getAttribute('encodinganalog') == '110':
+            elif corpname_element.getAttribute('encodinganalog') == '110':
                 creatorcorpname_text_list.append(corpname_element.firstChild.data)
                 creatorcorpname_source_list.append(corpname_element.getAttribute('source'))
 
@@ -226,7 +245,7 @@ for i in list_of_ids:
             list_corpname_source.append(['corpname source not found'])
 
         #for possible 700
-        
+
 
         #for possible 710
 
