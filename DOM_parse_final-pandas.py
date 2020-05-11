@@ -234,6 +234,9 @@ for i in list_of_ids:
         if len(corpname_text_list) > 0:
             list_corpname.append(['||'.join(corpname_text_list)])
             list_corpname_source.append(['||'.join(corpname_source_list)])
+        else:
+            list_corpname.append(['corpname not found'])
+            list_corpname_source.append(['corpname source not found'])
 
         # for 110 fields
         if len(creatorcorpname_text_list) > 0:
@@ -241,8 +244,8 @@ for i in list_of_ids:
             list_creatorcorname_source.append(['||'.join(creatorcorpname_source_list)])
 
         else:
-            list_corpname.append(['corpname not found'])
-            list_corpname_source.append(['corpname source not found'])
+            list_creatorcorpname.append(['corpname not found'])
+            list_creatorcorname_source.append(['corpname source not found'])
 
         #for possible 700
 
