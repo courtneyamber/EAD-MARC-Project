@@ -48,9 +48,6 @@ list_corpname_source = []
 list_creatorcorpname = []
 list_creatorcorname_source = []
 
-# def get_text(element):
-#     return " ".join(t.nodeValue for t in element[0].childNodes if t.nodeType == t.TEXT_NODE)
-
 
 # Iterate through the lists of ids to parse each EAD for metadata needed
 for i in list_of_ids:
@@ -169,8 +166,6 @@ for i in list_of_ids:
                 geog_text_list.append(geog_element.firstChild.data)
                 geog_source_list.append(geog_element.getAttribute("source"))
 
-
-
         if len(geog_text_list) > 0:
             list_geogname.append(['||'.join(geog_text_list)])
             list_gn_source.append(['||'.join(geog_source_list)])
@@ -191,8 +186,6 @@ for i in list_of_ids:
                 topterm_text_list.append(topterm_element.firstChild.data)
                 topterm_source_list.append(topterm_element.getAttribute("source"))
 
-
-
         if len(topterm_text_list) > 0:
             list_topterm.append(['||'.join(topterm_text_list)])
             # list_topterm.append(['{}\n'.format(text) for text in topterm_text_list])
@@ -201,7 +194,7 @@ for i in list_of_ids:
             list_topterm.append(['subject not found'])
             list_topterm_source.append(['subject source not found'])
 
-        # get the corpname (610)
+        # get the corpname (610&110)
         corpname_elements = dom.getElementsByTagName('corpname')
         corpname_source = file.getAttribute('source')
 
@@ -232,7 +225,10 @@ for i in list_of_ids:
             list_corpname.append(['corpname not found'])
             list_corpname_source.append(['corpname source not found'])
 
+        #for possible 700
+        
 
+        #for possible 710
 
 
         # NOTE ON THE ABOVE COMMENTED-OUT CODE:
@@ -277,9 +273,11 @@ pd_list_topterm = createPdList(list_topterm)
 pd_list_tt_source = createPdList(list_topterm_source)
 pd_list_corpname = createPdList(list_corpname)
 pd_list_corpname_source = createPdList(list_corpname_source)
+pd_list_creatorcorpname = createPdList(list_creatorcorpname)
+pd_list_creatorcorpname_source = createPdList(list_creatorcorname_source)
 
 # add each new list variable to this list of lists for easier debugging
-pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_creatorpersnames, pd_list_creatorpersnames_source, pd_list_persnames, pd_list_persnames_source,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source]
+pd_all_lists = [pd_list_ids,pd_list_titles,pd_list_creatorpersnames, pd_list_creatorpersnames_source, pd_list_persnames, pd_list_persnames_source,pd_list_coll_id,pd_list_physdesc, pd_list_physdesc_unit,pd_list_date, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source, pd_list_creatorcorpname, pd_list_creatorcorpname_source]
 
 # print statements for testing and debugging (comment out when final)
 def print_list_info(list_to_print):
@@ -292,8 +290,8 @@ for pd_list in pd_all_lists:
 print("\n")
 
 # Put the lists for the pandas into a dataframe, also specifying the correct column labels
-data_columns=['System ID', 'Title','Date', 'PersonalName for Creator', 'PersonalName for creator source', 'PersonalName','PersonalName source', 'Collection ID', 'Extent','Extent unit', 'Subject Terms-Genre/Form', 'Subject Source-Genre/Form', 'Subject Terms-Geog. Names', 'Subject Source-Geog. Names', 'Subject Terms-Topical term', 'Subject Source-Topical term', 'Subject Terms-Corp. Name', 'Subject Terms-Corp. Name Source']
-spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_creatorpersnames, pd_list_creatorpersnames_source,pd_list_persnames, pd_list_persnames_source, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source)), columns=data_columns)
+data_columns=['System ID', 'Title','Date', 'PersonalName for Creator', 'PersonalName for creator source', 'PersonalName','PersonalName source', 'Collection ID', 'Extent','Extent unit', 'Genre/Form', 'SSource-Genre/Form', 'Geog. Names', 'Source-Geog. Names', 'Topical term', 'Source-Topical term', 'Corp. Name', 'Source-Corp. Name', 'Corp. Name for creator', 'Source-Corp. Name for creator']
+spreadsheet = pd.DataFrame(list(zip(pd_list_ids, pd_list_titles,pd_list_date, pd_list_creatorpersnames, pd_list_creatorpersnames_source,pd_list_persnames, pd_list_persnames_source, pd_list_coll_id, pd_list_physdesc,pd_list_physdesc_unit, pd_list_genre_terms, pd_list_gt_source, pd_list_geognames, pd_list_gn_source, pd_list_topterm, pd_list_tt_source, pd_list_corpname, pd_list_corpname_source, pd_list_creatorcorpname, pd_list_creatorcorpname_source)), columns=data_columns)
 print(spreadsheet)
 
 # Export dataframe to a csv file
