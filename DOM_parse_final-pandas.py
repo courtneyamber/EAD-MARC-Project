@@ -166,8 +166,8 @@ for i in list_of_ids:
                 genre_source_list.append(genre_element.getAttribute("source"))
 
         if len(genre_text_list) > 0:
-            list_genre_terms.append([', '.join(genre_text_list)])
-            list_gt_source.append([', '.join(genre_source_list)])
+            list_genre_terms.append(['||'.join(genre_text_list)])
+            list_gt_source.append(['||'.join(genre_source_list)])
 
         else:
             list_genre_terms.append(['subject not found'])
